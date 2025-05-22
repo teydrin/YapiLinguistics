@@ -1,0 +1,39 @@
+import os
+import json
+
+# Set the root path to the correct GitHub-tracked directory
+root_dir = "/mnt/data/YapiLinguistics-Data"
+
+# Directory to store the output
+data_dir = os.path.join(root_dir, "data")
+os.makedirs(data_dir, exist_ok=True)
+
+# Simulate a small sample of Glottolog-style languoid data
+sample_languoids = [
+    {
+        "id": "abcd1234",
+        "name": "Sample Language",
+        "level": "language",
+        "parent": "abcd",
+        "iso639-3": "smp",
+        "latitude": 25.03,
+        "longitude": 121.56
+    },
+    {
+        "id": "efgh5678",
+        "name": "Another Language",
+        "level": "language",
+        "parent": "efgh",
+        "iso639-3": "anl",
+        "latitude": 10.0,
+        "longitude": 100.0
+    }
+]
+
+# Write the sample data to languoids.json
+output_path = os.path.join(data_dir, "languoids.json")
+with open(output_path, "w", encoding="utf-8") as f:
+    json.dump(sample_languoids, f, ensure_ascii=False, indent=2)
+
+output_path
+ 
