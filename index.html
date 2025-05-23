@@ -1,6 +1,41 @@
-fetch('data/languoids.json')
-  .then(res => res.json())
-  .then(data => {
-    // Use data to render the tree
-    console.log(data);
-  });
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Yapi Linguistics Tree Viewer</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+      background-color: #f8f9fa;
+    }
+    pre {
+      background: #fff;
+      border: 1px solid #ccc;
+      padding: 1rem;
+      overflow-x: auto;
+      max-height: 80vh;
+    }
+  </style>
+</head>
+<body>
+  <h1>Language Tree (from languoids.json)</h1>
+  <pre id="output">Loading...</pre>
+
+  <script>
+    fetch('data/languoids.json')
+      .then(res => {
+        if (!res.ok) throw new Error("Failed to load languoids.json");
+        return res.json();
+      })
+      .then(data => {
+        document.getElementById('output').textContent =
+          JSON.stringify(data, null, 2);
+      })
+      .catch(err => {
+        document.getElementById('output').textContent =
+          "Error loading languoids.json:\n" + err;
+      });
+  </script>
+</body>
+</html>
