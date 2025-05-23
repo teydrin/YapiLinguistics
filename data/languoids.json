@@ -1,24 +1,27 @@
-[
-  {
-    "id": "root1234",
-    "name": "MyRootFamily",
-    "level": "family",
-    "child_ids": ["sub1234"]
+{
+  "32403384-1804-461d-9601-83a4e706b9d4": {
+    "name": "- [Zaa [zaaa1238]](tree/krua1234/west2485/weea1234/guer1244/guer1240/weso1238/zaaa1238/md.ini)",
+    "id": "32403384-1804-461d-9601-83a4e706b9d4",
+    "children": {}
   },
-  {
-    "id": "sub1234",
-    "name": "MySubBranch",
-    "level": "subfamily",
-    "parent_id": "root1234",
-    "child_ids": ["lang1234"]
+  "ad83286e-d591-422a-a6b1-70b1975d906c": {
+    "name": "- ['Abd Al-Kuri [abda1238]](tree/afro1255/semi1276/west2786/mode1252/east2766/soqo1240/abda1238/md.ini)",
+    "id": "ad83286e-d591-422a-a6b1-70b1975d906c",
+    "children": {}
   },
-  {
-    "id": "lang1234",
-    "name": "MySampleLanguage",
-    "level": "language",
-    "parent_id": "sub1234",
-    "macroareas": ["Eurasia"],
-    "latitude": 25.0,
-    "longitude": 121.0
+  "94cb1288-ea95-49c8-9dea-9d8a73df836d": {
+    "name": "- [P'yong'ando [pyon1239]](tree/kore1284/kore1280/hamg1239/pyon1239/md.ini)",
+    "id": "94cb1288-ea95-49c8-9dea-9d8a73df836d",
+    "children": {}
+  },
+  "1b040e54-d078-419b-bae6-9ad8d3549b39": {
+    "name": "- [Maanyan-Paku [maan1240]](tree/aust1307/mala1545/basa1291/grea1283/sout2919/maan1240/md.ini)",
+    "id": "1b040e54-d078-419b-bae6-9ad8d3549b39",
+    "children": {}
+  },
+  "4b01797b-79e4-4488-bd60-d4a4b7c96974": {
+    "name": "- [Ma (Democratic Republic of Congo) [made1252][msj]](tree/atla1278/volt1241/nort3149/came1255/uban1244/mbai1246/made1252/md.ini)",
+    "id": "4b01797b-79e4-4488-bd60-d4a4b7c96974",
+    "children": {}
   }
-]
+}
