@@ -1,0 +1,24 @@
+[
+  {
+    "id": "root1234",
+    "name": "MyRootFamily",
+    "level": "family",
+    "child_ids": ["sub1234"]
+  },
+  {
+    "id": "sub1234",
+    "name": "MySubBranch",
+    "level": "subfamily",
+    "parent_id": "root1234",
+    "child_ids": ["lang1234"]
+  },
+  {
+    "id": "lang1234",
+    "name": "MySampleLanguage",
+    "level": "language",
+    "parent_id": "sub1234",
+    "macroareas": ["Eurasia"],
+    "latitude": 25.0,
+    "longitude": 121.0
+  }
+]
