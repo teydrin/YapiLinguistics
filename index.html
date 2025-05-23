@@ -1,1 +1,6 @@
-
+fetch('data/languoids.json')
+  .then(res => res.json())
+  .then(data => {
+    // Use data to render the tree
+    console.log(data);
+  });
