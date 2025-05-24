@@ -2,25 +2,48 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Sino-Tibetan Language Family - Glottolog Style</title>
+  <title>Sino-Tibetan Tree – Glottolog Style</title>
   <style>
     body {
-      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f9f9f9;
+      font-family: "Segoe UI", Tahoma, sans-serif;
       padding: 2em;
-      color: #333;
+      background: #f8f8f8;
     }
     h1 {
       font-size: 1.5em;
+      color: #333;
       margin-bottom: 1em;
     }
-    ul {
-      list-style-type: none;
+    ul.tree, ul.tree ul {
+      list-style: none;
+      margin: 0;
       padding-left: 1em;
+      position: relative;
+    }
+    ul.tree ul::before {
+      content: '';
+      border-left: 1px solid #ccc;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+    }
+    ul.tree li {
+      margin: 0;
+      padding: 0.5em 0 0.5em 1em;
+      position: relative;
+    }
+    ul.tree li::before {
+      content: '';
+      position: absolute;
+      top: 1.2em;
+      left: 0;
+      width: 1em;
+      height: 0;
+      border-top: 1px solid #ccc;
     }
     .caret {
       cursor: pointer;
-      user-select: none;
     }
     .caret::before {
       content: "▸";
@@ -32,7 +55,6 @@
     }
     .nested {
       display: none;
-      margin-left: 1em;
     }
     .active {
       display: block;
@@ -43,8 +65,8 @@
   </style>
 </head>
 <body>
-  <h1>Sino-Tibetan Language Family Tree</h1>
-  <ul id="tree-container"></ul>
+  <h1>Sino-Tibetan Language Family (Glottolog-style)</h1>
+  <ul class="tree" id="tree-container"></ul>
 
   <script>
     fetch("sino1245_full_tree_glottolog.json")
@@ -82,11 +104,8 @@
 
         const container = document.getElementById("tree-container");
         container.appendChild(createTreeNode(data));
-      })
-      .catch(error => {
-        document.getElementById("tree-container").textContent = "Failed to load tree.";
-        console.error("Error loading tree:", error);
       });
   </script>
 </body>
 </html>
+
