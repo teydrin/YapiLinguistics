@@ -2,17 +2,30 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Sino-Tibetan Tree – Glottolog Style</title>
+  <title>Yapi Linguistics: Sino-Tibetan Tree</title>
   <style>
     body {
       font-family: "Segoe UI", Tahoma, sans-serif;
+      background-color: #f1f1f1;
+      margin: 0;
       padding: 2em;
-      background: #f8f8f8;
+      display: flex;
+      justify-content: center;
+    }
+    .tree-box {
+      background: white;
+      border: 1px solid #ccc;
+      padding: 2em;
+      border-radius: 6px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      width: 800px;
+      max-height: 90vh;
+      overflow: auto;
     }
     h1 {
-      font-size: 1.5em;
-      color: #333;
+      font-size: 1.4em;
       margin-bottom: 1em;
+      text-align: center;
     }
     ul.tree, ul.tree ul {
       list-style: none;
@@ -65,11 +78,13 @@
   </style>
 </head>
 <body>
-  <h1>Sino-Tibetan Language Family (Glottolog-style)</h1>
-  <ul class="tree" id="tree-container"></ul>
+  <div class="tree-box">
+    <h1>Yapi Linguistics – Sino-Tibetan Family Tree</h1>
+    <ul class="tree" id="tree-container"></ul>
+  </div>
 
   <script>
-    fetch("sino1245_full_tree_glottolog.json")
+    fetch("sino1245_tree_with_counts.json")
       .then(response => response.json())
       .then(data => {
         function createTreeNode(node) {
@@ -104,8 +119,11 @@
 
         const container = document.getElementById("tree-container");
         container.appendChild(createTreeNode(data));
+      })
+      .catch(err => {
+        document.getElementById("tree-container").textContent = "Failed to load tree.";
+        console.error(err);
       });
   </script>
 </body>
 </html>
-
