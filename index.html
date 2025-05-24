@@ -24,8 +24,11 @@
     }
     h1 {
       font-size: 1.4em;
-      margin-bottom: 1em;
       text-align: center;
+      margin-top: 0;
+    }
+    .highlight {
+      background-color: #ffe58f;
     }
     ul.tree, ul.tree ul {
       list-style: none;
@@ -79,19 +82,27 @@
 </head>
 <body>
   <div class="tree-box">
-    <h1>Yapi Linguistics – Sino-Tibetan Family Tree</h1>
+    <h1 id="node-title">Yapi Linguistics – Sino-Tibetan Family Tree</h1>
     <ul class="tree" id="tree-container"></ul>
   </div>
 
   <script>
-    fetch("sino1245_sinitic_custom.json")
+    fetch("sino1245_full_tree_custom.json")
       .then(response => response.json())
       .then(data => {
-        function createTreeNode(node) {
+        function createTreeNode(node, path = []) {
           const li = document.createElement("li");
           const span = document.createElement("span");
           span.textContent = node.name;
           span.classList.add("node-label");
+
+          const fullPath = [...path, li];
+
+          span.addEventListener("click", () => {
+            document.querySelectorAll('.highlight').forEach(el => el.classList.remove('highlight'));
+            fullPath.forEach(el => el.classList.add("highlight"));
+            document.getElementById("node-title").textContent = node.name;
+          });
 
           if (node.children) {
             const caret = document.createElement("span");
@@ -102,7 +113,7 @@
             const ul = document.createElement("ul");
             ul.classList.add("nested");
             node.children.forEach(child => {
-              ul.appendChild(createTreeNode(child));
+              ul.appendChild(createTreeNode(child, fullPath));
             });
             li.appendChild(ul);
 
