@@ -1,73 +1,55 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>Sino-Tibetan Language Family Tree</title>
+  <meta charset="utf-8">
+  <title>Glottolog Tree Visualization</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-    }
-    ul {
-      list-style-type: none;
-      padding-left: 20px;
-    }
-    li {
-      margin: 5px 0;
-      cursor: pointer;
-    }
-    .collapsed > ul {
-      display: none;
-    }
-    .node:hover {
-      background-color: #f0f0f0;
-    }
+    .node { cursor: pointer; }
+    .node circle { fill: #fff; stroke: steelblue; stroke-width: 3px; }
+    .node text { font: 12px sans-serif; }
+    .link { fill: none; stroke: #ccc; stroke-width: 2px; }
   </style>
 </head>
 <body>
-  <h1>Sino-Tibetan Language Family Tree</h1>
-  <div id="tree-container">Loading tree...</div>
-
+  <svg width="960" height="600"></svg>
   <script>
-    async function fetchTreeData() {
-      try {
-        const response = await fetch('data/sino1245 (2).json');
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
-        }
-        const treeData = await response.json();
-        renderTree(treeData, document.getElementById('tree-container'));
-      } catch (error) {
-        document.getElementById('tree-container').textContent = 'Failed to load tree data.';
-        console.error('Error fetching tree data:', error);
-      }
-    }
+    // Example tree data (replace with real Glottolog data)
+    const treeData = {
+      name: "Glottolog Root",
+      children: [
+        { name: "Family A", children: [{ name: "Language X" }, { name: "Language Y" }] },
+        { name: "Family B", children: [{ name: "Language Z" }] }
+      ]
+    };
 
-    function renderTree(node, container) {
-      const ul = document.createElement('ul');
-      const li = document.createElement('li');
-      li.textContent = `${node.name} (${node.level})`;
-      li.classList.add('node');
+    const width = 960, height = 600;
+    const svg = d3.select("svg").attr("width", width).attr("height", height);
 
-      li.addEventListener('click', function (e) {
-        e.stopPropagation();
-        this.classList.toggle('collapsed');
-      });
+    const root = d3.hierarchy(treeData);
+    const treeLayout = d3.tree().size([height, width - 160]);
+    treeLayout(root);
 
-      ul.appendChild(li);
+    // Links
+    svg.selectAll('.link')
+      .data(root.links())
+      .join('path')
+      .attr('class', 'link')
+      .attr('d', d3.linkHorizontal()
+        .x(d => d.y)
+        .y(d => d.x));
 
-      if (node.children && node.children.length > 0) {
-        const childUl = document.createElement('ul');
-        node.children.forEach(child => {
-          renderTree(child, childUl);
-        });
-        li.appendChild(childUl);
-      }
+    // Nodes
+    const node = svg.selectAll('.node')
+      .data(root.descendants())
+      .join('g')
+      .attr('class', 'node')
+      .attr('transform', d => `translate(${d.y},${d.x})`);
 
-      container.appendChild(ul);
-    }
-
-    window.addEventListener('DOMContentLoaded', fetchTreeData);
+    node.append('circle').attr('r', 6);
+    node.append('text').attr('dy', 3).attr('x', d => d.children ? -8 : 8)
+      .style('text-anchor', d => d.children ? 'end' : 'start')
+      .text(d => d.data.name);
   </script>
 </body>
 </html>
