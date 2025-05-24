@@ -1,55 +1,63 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>Glottolog Tree Visualization</title>
-  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <meta charset="UTF-8">
+  <title>Glottolog: Sinitic (sini1245)</title>
   <style>
-    .node { cursor: pointer; }
-    .node circle { fill: #fff; stroke: steelblue; stroke-width: 3px; }
-    .node text { font: 12px sans-serif; }
-    .link { fill: none; stroke: #ccc; stroke-width: 2px; }
+    body { font-family: Arial, sans-serif; margin: 2em; }
+    h1 { color: #2c3e50; }
+    .section { margin-bottom: 1.5em; }
+    .section h2 { color: #34495e; }
+    ul { list-style-type: none; padding: 0; }
+    li { margin-bottom: 0.5em; }
   </style>
 </head>
 <body>
-  <svg width="960" height="600"></svg>
+  <h1>Sinitic Languages (Glottocode: sini1245)</h1>
+  <div class="section" id="description">
+    <h2>Description</h2>
+    <p>Loading...</p>
+  </div>
+  <div class="section" id="references">
+    <h2>References</h2>
+    <ul id="refs-list">
+      <li>Loading...</li>
+    </ul>
+  </div>
+
   <script>
-    // Example tree data (replace with real Glottolog data)
-    const treeData = {
-      name: "Glottolog Root",
-      children: [
-        { name: "Family A", children: [{ name: "Language X" }, { name: "Language Y" }] },
-        { name: "Family B", children: [{ name: "Language Z" }] }
-      ]
-    };
+    // Replace this URL with the actual API endpoint if available
+    const glottocode = 'sini1245';
+    const apiUrl = `https://glottolog.org/resource/languoid/id/${glottocode}.json`;
 
-    const width = 960, height = 600;
-    const svg = d3.select("svg").attr("width", width).attr("height", height);
+    fetch(apiUrl)
+      .then(response => response.json())
+      .then(data => {
+        // Update description
+        const descriptionEl = document.querySelector('#description p');
+        descriptionEl.textContent = data.description || 'No description available.';
 
-    const root = d3.hierarchy(treeData);
-    const treeLayout = d3.tree().size([height, width - 160]);
-    treeLayout(root);
-
-    // Links
-    svg.selectAll('.link')
-      .data(root.links())
-      .join('path')
-      .attr('class', 'link')
-      .attr('d', d3.linkHorizontal()
-        .x(d => d.y)
-        .y(d => d.x));
-
-    // Nodes
-    const node = svg.selectAll('.node')
-      .data(root.descendants())
-      .join('g')
-      .attr('class', 'node')
-      .attr('transform', d => `translate(${d.y},${d.x})`);
-
-    node.append('circle').attr('r', 6);
-    node.append('text').attr('dy', 3).attr('x', d => d.children ? -8 : 8)
-      .style('text-anchor', d => d.children ? 'end' : 'start')
-      .text(d => d.data.name);
+        // Update references
+        const refsList = document.getElementById('refs-list');
+        refsList.innerHTML = ''; // Clear loading text
+        if (data.references && data.references.length > 0) {
+          data.references.forEach(ref => {
+            const li = document.createElement('li');
+            li.textContent = ref;
+            refsList.appendChild(li);
+          });
+        } else {
+          const li = document.createElement('li');
+          li.textContent = 'No references available.';
+          refsList.appendChild(li);
+        }
+      })
+      .catch(error => {
+        console.error('Error fetching data:', error);
+        document.querySelector('#description p').textContent = 'Error loading description.';
+        const refsList = document.getElementById('refs-list');
+        refsList.innerHTML = '<li>Error loading references.</li>';
+      });
   </script>
 </body>
 </html>
