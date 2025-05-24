@@ -16,6 +16,12 @@ More families coming soon...
  
 
 
+##  About
+
+Yapi Linguistics is a volunteer-driven project to help linguists, students, and enthusiasts visualize and explore language phylogenies without bulky software or databases.
+
+Suggestions, corrections, and contributions are welcome!
+
 
 
 
