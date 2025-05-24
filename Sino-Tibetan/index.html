@@ -67,11 +67,13 @@
     }
     .caret {
       cursor: pointer;
+      font-size: 1.2em;
+      vertical-align: middle;
     }
     .caret::before {
       content: "▸";
       display: inline-block;
-      margin-right: 6px;
+      margin-right: 8px;
     }
     .caret-down::before {
       content: "▾";
@@ -84,9 +86,7 @@
     }
     .node-label {
       color: #0074D9;
-    }
-    .path {
-      background-color: #ffe58f;
+      font-size: 1em;
     }
   </style>
 </head>
@@ -98,22 +98,16 @@
   </div>
 
   <script>
-    fetch("sino1245_tree_final.json")
+    fetch("sino1245_tree_final_counted.json")
       .then(response => response.json())
       .then(data => {
-        function clearHighlights() {
-          document.querySelectorAll('.path').forEach(el => el.classList.remove('path'));
-        }
-
-        function createTreeNode(node, ancestors = []) {
+        function createTreeNode(node) {
           const li = document.createElement("li");
           const span = document.createElement("span");
           span.textContent = node.name;
           span.classList.add("node-label");
 
           span.addEventListener("click", () => {
-            clearHighlights();
-            [li, ...ancestors].forEach(el => el.classList.add("path"));
             document.getElementById("node-title").textContent = node.name;
           });
 
@@ -126,7 +120,7 @@
             const ul = document.createElement("ul");
             ul.classList.add("nested");
             node.children.forEach(child => {
-              ul.appendChild(createTreeNode(child, [li, ...ancestors]));
+              ul.appendChild(createTreeNode(child));
             });
             li.appendChild(ul);
 
