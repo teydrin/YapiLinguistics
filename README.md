@@ -1,8 +1,23 @@
-Welcome to YapiLinguistics! An engaging linguistic classification system of the world's languages!
+ Yapi Linguistics
 
-Language Families:
+**Yapi Linguistics** is an interactive digital project that visualizes the genetic relationships between the world's languages in the style of [Glottolog](https://glottolog.org). The goal is to create a clean, structured, and accessible browser-based tree interface for language families.
 
-[Sino-Tibetan](https://yapilinguistics.com/Sino-Tibetan/)
+## 🧭 Explore Language Families
+
+Click to browse a full interactive tree:
+
+- [Sino-Tibetan](https://yapilinguistics.com/Sino-Tibetan/)
+
+More families coming soon...
+
+## Features
+
+ expandable/collapsible trees
+ 
+
+
+
+
 
 
 
