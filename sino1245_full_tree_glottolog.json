@@ -1,0 +1,3116 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Dakpakha [dakp1242]"
+                },
+                {
+                  "name": "Dzalakha [dzal1238]"
+                }
+              ],
+              "name": "Dakpa-Dzala [dakp1241]"
+            },
+            {
+              "children": [
+                {
+                  "name": "Classical Tibetan [clas1254]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Dolpo [dolp1239]"
+                                    },
+                                    {
+                                      "name": "Tichurong [tich1238]"
+                                    }
+                                  ],
+                                  "name": "Dolpo-Tichurong [dolp1238]"
+                                },
+                                {
+                                  "name": "Humla [huml1238]"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "name": "Gyalsumdo-Nubri [nubr1241]"
+                                        },
+                                        {
+                                          "name": "Kyerung [kyer1238]"
+                                        }
+                                      ],
+                                      "name": "Gyalsumdo-Nubri-Kyirong [gyal1235]"
+                                    },
+                                    {
+                                      "name": "Tsum [tsum1240]"
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "name": "Kagate [kaga1252]"
+                                        },
+                                        {
+                                          "name": "Lamjung-Melamchi Yolmo [hela1238]"
+                                        }
+                                      ],
+                                      "name": "Yolmo-Kagate [yolm1234]"
+                                    }
+                                  ],
+                                  "name": "Kyirong-Kagate [kyir1235]"
+                                },
+                                {
+                                  "name": "Lhomi [lhom1239]"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Lowa [lowa1242]"
+                                    },
+                                    {
+                                      "name": "Mugom [mugo1238]"
+                                    }
+                                  ],
+                                  "name": "Mustangic [must1234]"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Jirel [jire1238]"
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "name": "Naaba [naab1241]"
+                                        },
+                                        {
+                                          "name": "Solu-Khumbu Sherpa [sher1255]"
+                                        }
+                                      ],
+                                      "name": "Sherpaic [sher1260]"
+                                    }
+                                  ],
+                                  "name": "Sherpa-Jirel [sher1254]"
+                                },
+                                {
+                                  "name": "Walungge [walu1241]"
+                                }
+                              ],
+                              "name": "South-Western Tibetic [sout3216]"
+                            },
+                            {
+                              "name": "Tibetan [tibe1272]"
+                            }
+                          ],
+                          "name": "Central Tibetan [cent2346]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Baima [baim1244]"
+                            },
+                            {
+                              "name": "Choni [chon1285]"
+                            },
+                            {
+                              "name": "Drugchu [hbru1241]"
+                            },
+                            {
+                              "name": "Zhongu [zhon1235]"
+                            }
+                          ],
+                          "name": "Eastern Tibetic [east2771]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Derong-nJol Tibetan [sder1236]"
+                            },
+                            {
+                              "name": "Khams Tibetan [kham1282]"
+                            }
+                          ],
+                          "name": "Kham-Hor [kham1299]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Khunu-Töt [bhot1235]"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Jad [jadd1243]"
+                                },
+                                {
+                                  "name": "Spiti Bhoti [spit1240]"
+                                }
+                              ],
+                              "name": "Spiti-Jad [spit1239]"
+                            },
+                            {
+                              "name": "Stod Bhoti [stod1241]"
+                            }
+                          ],
+                          "name": "Lahauli-Spiti [laha1255]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Brokpake [brok1248]"
+                            },
+                            {
+                              "name": "Dur Brokkat [brok1249]"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Chocangacakha [choc1275]"
+                                },
+                                {
+                                  "name": "Groma [grom1238]"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Dzongkha [dzon1239]"
+                                    },
+                                    {
+                                      "name": "Layakha [laya1253]"
+                                    },
+                                    {
+                                      "name": "Lunanakha [luna1243]"
+                                    }
+                                  ],
+                                  "name": "Nuclear Dzongkhic [nucl1307]"
+                                },
+                                {
+                                  "name": "Sikkimese [sikk1242]"
+                                }
+                              ],
+                              "name": "Dzongkhic [dzon1238]"
+                            },
+                            {
+                              "name": "Lakha [lakh1240]"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Khamba [kham1283]"
+                                }
+                              ],
+                              "name": "Unclassified Southern Tibetic [uncl1513]"
+                            }
+                          ],
+                          "name": "Southern Tibetic [sout3217]"
+                        }
+                      ],
+                      "name": "Late Old Tibetan [late1253]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Amdo Tibetan [amdo1237]"
+                        },
+                        {
+                          "name": "Dongna [dong1304]"
+                        },
+                        {
+                          "name": "Gser-Rdo [gser1236]"
+                        }
+                      ],
+                      "name": "North-Eastern Tibetic [nort3398]"
+                    }
+                  ],
+                  "name": "Middle Old Tibetan [tibe1276]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Changthang [chan1309]"
+                        },
+                        {
+                          "name": "Leh Ladakhi [lada1244]"
+                        },
+                        {
+                          "name": "Zangskari [zang1248]"
+                        }
+                      ],
+                      "name": "Kenhatic [kenh1234]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Balti [balt1258]"
+                        },
+                        {
+                          "name": "Purik-Sham-Nubra [puri1258]"
+                        }
+                      ],
+                      "name": "Shamskatic [sham1282]"
+                    }
+                  ],
+                  "name": "Western Archaic Tibetan [lada1242]"
+                }
+              ],
+              "name": "Early Old Tibetan [oldm1245]"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Bumthangkha [bumt1240]"
+                        },
+                        {
+                          "name": "Khengkha [khen1241]"
+                        },
+                        {
+                          "name": "Kurtokha [kurt1248]"
+                        }
+                      ],
+                      "name": "Bumthangic [bumt1238]"
+                    },
+                    {
+                      "name": "Chalikha [chal1267]"
+                    }
+                  ],
+                  "name": "Chali-Bumthangic [chal1266]"
+                },
+                {
+                  "name": "Upper Mangdep [nyen1254]"
+                }
+              ],
+              "name": "Phobjib-Chali-Bumthangic [phob1238]"
+            },
+            {
+              "children": [
+                {
+                  "name": "Basum [basu1243]"
+                },
+                {
+                  "name": "Songlin [song1316]"
+                }
+              ],
+              "name": "Unclassified Bodish [unun9962]"
+            }
+          ],
+          "name": "Bodish [bodi1257]"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Kutang Ghale [kuta1241]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Northern Ghale [nort2709]"
+                        },
+                        {
+                          "name": "Southern Ghale [sout2715]"
+                        }
+                      ],
+                      "name": "Nuclear Ghale [nucl1818]"
+                    }
+                  ],
+                  "name": "Ghale [ghal1246]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Eastern Gorkha Tamang [east2346]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Gurung [guru1261]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Manange [mana1288]"
+                            },
+                            {
+                              "name": "Nar Phu [narp1239]"
+                            }
+                          ],
+                          "name": "Manangba-Nar-Phu [mana1287]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Chantyal [chan1310]"
+                            },
+                            {
+                              "name": "Thakali [thak1245]"
+                            }
+                          ],
+                          "name": "Thakali-Chantyal [thak1244]"
+                        }
+                      ],
+                      "name": "Gurungic [guru1260]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Eastern Tamang [east2347]"
+                        },
+                        {
+                          "name": "Western Tamang [west2415]"
+                        }
+                      ],
+                      "name": "Nuclear Tamang [nucl1729]"
+                    },
+                    {
+                      "name": "Seke (Nepal) [seke1240]"
+                    }
+                  ],
+                  "name": "Tamangic [tama1367]"
+                }
+              ],
+              "name": "Ghale-Tamangic [ghal1247]"
+            },
+            {
+              "name": "Kaike [kaik1246]"
+            }
+          ],
+          "name": "Kaike-Ghale-Tamangic [kaik1248]"
+        },
+        {
+          "children": [
+            {
+              "name": "Kalaktang Monpa [kala1376]"
+            },
+            {
+              "name": "Tshangla [tsha1245]"
+            }
+          ],
+          "name": "Tshanglic [tsha1247]"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Bunan [gahr1239]"
+                    },
+                    {
+                      "name": "Rongpo [rong1264]"
+                    },
+                    {
+                      "name": "Sunam [suna1241]"
+                    }
+                  ],
+                  "name": "Central-Eastern West Himalayish [cent2311]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Chaudangsi [chau1259]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Byangsi [byan1241]"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Darma [darm1243]"
+                                },
+                                {
+                                  "name": "Zhangzhung [zhan1239]"
+                                }
+                              ],
+                              "name": "Zhangzhungic [zhan1241]"
+                            }
+                          ],
+                          "name": "Darma-Byangsi [darm1242]"
+                        }
+                      ],
+                      "name": "Darma-Byangsi-Chaudangsi [darm1241]"
+                    },
+                    {
+                      "name": "Rangkas [rang1266]"
+                    }
+                  ],
+                  "name": "Pithauragarh [pith1234]"
+                }
+              ],
+              "name": "Eastern West Himalayish [east2777]"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Chhitkul-Rakchham [chit1279]"
+                    },
+                    {
+                      "name": "Kanashi [kana1283]"
+                    },
+                    {
+                      "name": "Kinnauri [kinn1249]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Jangshung [jang1254]"
+                        },
+                        {
+                          "name": "Shumcho [shum1243]"
+                        }
+                      ],
+                      "name": "Thebor [theb1237]"
+                    }
+                  ],
+                  "name": "Kinnauric [kinn1250]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Pattani [patt1248]"
+                    },
+                    {
+                      "name": "Tinani [tina1246]"
+                    }
+                  ],
+                  "name": "Lahaulic [laha1249]"
+                }
+              ],
+              "name": "Western West Himalayish [west2868]"
+            }
+          ],
+          "name": "West Himalayish [tibe1275]"
+        }
+      ],
+      "name": "Bodic [bodi1256]"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Dimasa [dima1251]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Kok Borok [kokb1239]"
+                        },
+                        {
+                          "name": "Riang (India) [rian1262]"
+                        },
+                        {
+                          "name": "Tippera [tipp1239]"
+                        },
+                        {
+                          "name": "Usui [usui1238]"
+                        }
+                      ],
+                      "name": "Tipperic [tipp1238]"
+                    }
+                  ],
+                  "name": "Dimasa-Kokborok [dima1253]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Bodo-Mech [bodo1269]"
+                        },
+                        {
+                          "name": "Kachari [kach1279]"
+                        }
+                      ],
+                      "name": "Bodo-Mech-Kachari [bodo1280]"
+                    },
+                    {
+                      "name": "Tiwa (India) [tiwa1253]"
+                    }
+                  ],
+                  "name": "Tiwa-Boro [tiwa1256]"
+                }
+              ],
+              "name": "Boroic [boro1284]"
+            },
+            {
+              "name": "Deori [deor1238]"
+            },
+            {
+              "name": "Garo [garo1247]"
+            },
+            {
+              "children": [
+                {
+                  "name": "Atong (India) [aton1241]"
+                },
+                {
+                  "name": "Koch [koch1250]"
+                },
+                {
+                  "name": "Rabha [rabh1238]"
+                },
+                {
+                  "name": "Ruga [ruga1238]"
+                }
+              ],
+              "name": "Kochic [koch1249]"
+            }
+          ],
+          "name": "Bodo-Garo [bodo1279]"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Northern Jinghpaw [sing1264]"
+                },
+                {
+                  "name": "Southern Jinghpaw [kach1280]"
+                }
+              ],
+              "name": "Jingpho [jing1260]"
+            },
+            {
+              "children": [
+                {
+                  "name": "Chak [chak1270]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Andro [andr1246]"
+                            },
+                            {
+                              "name": "Sengmai [seng1275]"
+                            }
+                          ],
+                          "name": "Andro-Sengmai [andr1249]"
+                        },
+                        {
+                          "name": "Phayeng [phay1241]"
+                        }
+                      ],
+                      "name": "Chakpa [andr1245]"
+                    },
+                    {
+                      "name": "Kado [kado1242]"
+                    }
+                  ],
+                  "name": "Chakpa-Kadu-Ganan [chak1277]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Burma Pyu [burm1262]"
+                    },
+                    {
+                      "name": "Taman (Myanmar) [tama1328]"
+                    }
+                  ],
+                  "name": "Unclassified Luish [uncl1508]"
+                }
+              ],
+              "name": "Luish [sakk1239]"
+            }
+          ],
+          "name": "Jingpho-Luish [jing1259]"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Kaisanic [kais1245]"
+                    },
+                    {
+                      "name": "Nahenic [nahe1238]"
+                    }
+                  ],
+                  "name": "Heimic [heim1234]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Nocte Naga [noct1238]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Muklomic [mukl1234]"
+                        },
+                        {
+                          "name": "Ponthai [pont1258]"
+                        },
+                        {
+                          "name": "Tutsa Naga [tuts1235]"
+                        }
+                      ],
+                      "name": "Tutsic [tuts1236]"
+                    }
+                  ],
+                  "name": "Noctean [noct1239]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Pangwa Naga [tase1235]"
+                    },
+                    {
+                      "name": "Tikhakic [tikh1243]"
+                    }
+                  ],
+                  "name": "Tangsa [tang1379]"
+                }
+              ],
+              "name": "North Patkaian [kony1249]"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Khiamniungan Naga [khia1236]"
+                            },
+                            {
+                              "name": "Pounyiu-Gongvan Naga [pony1234]"
+                            }
+                          ],
+                          "name": "Khiamniungic [khia1238]"
+                        },
+                        {
+                          "name": "Lainong Naga [lein1237]"
+                        }
+                      ],
+                      "name": "Lainongic [lain1234]"
+                    },
+                    {
+                      "name": "Makyam-Kuku Naga [maky1235]"
+                    }
+                  ],
+                  "name": "Southeastern Patkaian [khia1235]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Chang Naga [chan1313]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Konyak Naga [kony1248]"
+                            },
+                            {
+                              "name": "Phom Naga [phom1236]"
+                            }
+                          ],
+                          "name": "Konyak-Phom [kony1251]"
+                        }
+                      ],
+                      "name": "Chang-Phom-Konyak [chan1331]"
+                    },
+                    {
+                      "name": "Lao Naga [laon1234]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Chen Naga [chen1271]"
+                        },
+                        {
+                          "name": "Wancho Naga [wanc1238]"
+                        }
+                      ],
+                      "name": "Wanchoic [wanc1241]"
+                    }
+                  ],
+                  "name": "Southwestern Patkaian [sout3407]"
+                }
+              ],
+              "name": "South Patkaian [kony1247]"
+            }
+          ],
+          "name": "Patkaian [kony1246]"
+        },
+        {
+          "children": [
+            {
+              "name": "Chairel [chai1254]"
+            }
+          ],
+          "name": "Unclassified Brahmaputran [unun9960]"
+        }
+      ],
+      "name": "Brahmaputran [brah1260]"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Hpon [hpon1238]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Chashan [chas1234]"
+                            },
+                            {
+                              "name": "Lashi [lash1243]"
+                            }
+                          ],
+                          "name": "Leqic [leqi1234]"
+                        },
+                        {
+                          "name": "Maru [maru1249]"
+                        },
+                        {
+                          "name": "Pela [pela1242]"
+                        },
+                        {
+                          "name": "Zaiwa [zaiw1241]"
+                        }
+                      ],
+                      "name": "Maruic [maru1254]"
+                    }
+                  ],
+                  "name": "Northern Burmish [nort2720]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Lianghe Achang [lian1258]"
+                        },
+                        {
+                          "name": "Longchuan Achang [acha1249]"
+                        },
+                        {
+                          "name": "Luxi Achang [luxi1238]"
+                        },
+                        {
+                          "name": "Ngochang [ngoc1235]"
+                        }
+                      ],
+                      "name": "Achangic [acha1252]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Intha-Danu [inth1238]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "name": "Marma [marm1234]"
+                                },
+                                {
+                                  "name": "Rakhine [rakh1245]"
+                                }
+                              ],
+                              "name": "Arakanese-Marma [arak1255]"
+                            },
+                            {
+                              "name": "Burmese [nucl1310]"
+                            },
+                            {
+                              "name": "Old Burmese [oldb1235]"
+                            },
+                            {
+                              "name": "Tavoyan [tavo1242]"
+                            }
+                          ],
+                          "name": "Nuclear Mranmaic [nucl1811]"
+                        },
+                        {
+                          "name": "Taungyo [taun1248]"
+                        }
+                      ],
+                      "name": "Mranmaic [mran1234]"
+                    }
+                  ],
+                  "name": "Southern Burmish [sout3159]"
+                }
+              ],
+              "name": "Burmish [burm1266]"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "name": "Bisu [bisu1244]"
+                                },
+                                {
+                                  "name": "Laomian [laom1237]"
+                                },
+                                {
+                                  "name": "Pyen [pyen1239]"
+                                }
+                              ],
+                              "name": "Bisu-Pyen-Laomian [bisu1246]"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Côông [coon1239]"
+                                },
+                                {
+                                  "name": "Phunoi [phun1245]"
+                                }
+                              ],
+                              "name": "Phunoi-Coong [phun1244]"
+                            },
+                            {
+                              "name": "Sangkong [sang1320]"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Bantang [bant1298]"
+                                },
+                                {
+                                  "name": "Cauho [cauh1234]"
+                                }
+                              ],
+                              "name": "Unclassified Bisoid [uncl1502]"
+                            }
+                          ],
+                          "name": "Bisoid [biso1241]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "name": "Biyo [biyo1243]"
+                                },
+                                {
+                                  "name": "Enu [enuu1235]"
+                                },
+                                {
+                                  "name": "Kaduo [kadu1253]"
+                                },
+                                {
+                                  "name": "Mpi [mpii1239]"
+                                }
+                              ],
+                              "name": "Bi-Ka [bika1252]"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "name": "Akeu [akeu1235]"
+                                        },
+                                        {
+                                          "name": "Luma [luma1238]"
+                                        }
+                                      ],
+                                      "name": "Akeuic [akeu1236]"
+                                    },
+                                    {
+                                      "name": "Akha [akha1245]"
+                                    },
+                                    {
+                                      "name": "Chepya [chep1243]"
+                                    },
+                                    {
+                                      "name": "Muda [muda1235]"
+                                    }
+                                  ],
+                                  "name": "Akhaic [akha1246]"
+                                },
+                                {
+                                  "name": "Hani [hani1248]"
+                                }
+                              ],
+                              "name": "Ha-Ya [haya1251]"
+                            },
+                            {
+                              "name": "Honi [honi1244]"
+                            }
+                          ],
+                          "name": "Hanic [hani1250]"
+                        },
+                        {
+                          "name": "Phana' [phan1254]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Cosao [cosa1234]"
+                            },
+                            {
+                              "name": "Sila [sila1247]"
+                            }
+                          ],
+                          "name": "Sila-Wanya-Cosao [sila1251]"
+                        }
+                      ],
+                      "name": "Bisoid-Hanic [biso1244]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Buyuan Jinuo [buyu1238]"
+                        },
+                        {
+                          "name": "Youle Jinuo [youl1235]"
+                        }
+                      ],
+                      "name": "Jino [jino1236]"
+                    }
+                  ],
+                  "name": "Hani-Jino [hani1249]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Kucong [kuco1235]"
+                    },
+                    {
+                      "name": "Lahu [lahu1253]"
+                    },
+                    {
+                      "name": "Lahu Shi [lahu1252]"
+                    }
+                  ],
+                  "name": "Lahoid [laho1234]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Katso [kats1235]"
+                        },
+                        {
+                          "name": "Sadu [sadu1234]"
+                        },
+                        {
+                          "name": "Samatao [sama1295]"
+                        }
+                      ],
+                      "name": "Kazhouish [kazh1234]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Awu [sout2719]"
+                        },
+                        {
+                          "name": "Lawu [lawu1238]"
+                        }
+                      ],
+                      "name": "Lawoish [lawo1234]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "name": "Lipo [lipo1242]"
+                                },
+                                {
+                                  "name": "Miqie [miqi1235]"
+                                }
+                              ],
+                              "name": "Lipo-Micha [lipo1244]"
+                            },
+                            {
+                              "name": "Lolopo [lolo1259]"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Hlersu [hler1235]"
+                                },
+                                {
+                                  "name": "Limi [limi1243]"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Mili [mili1235]"
+                                    },
+                                    {
+                                      "name": "Southern Lolopo [sout3129]"
+                                    }
+                                  ],
+                                  "name": "Southwestern Lolo [sout3411]"
+                                }
+                              ],
+                              "name": "Unclassified Lipo-Lolopo [unun9959]"
+                            }
+                          ],
+                          "name": "Lipo-Lolopo [lipo1243]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "name": "Kua-nsi [kuan1249]"
+                                            },
+                                            {
+                                              "name": "Kuamasi [kuam1234]"
+                                            }
+                                          ],
+                                          "name": "Kuansi-Kuamasi [kuan1252]"
+                                        },
+                                        {
+                                          "name": "Sonaga [sona1244]"
+                                        }
+                                      ],
+                                      "name": "Kuansi-Kuamasi-Sonaga [kuan1251]"
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "name": "Eka [ekaa1234]"
+                                        },
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "name": "Western Lalu [west1506]"
+                                                    },
+                                                    {
+                                                      "name": "Xishanba Lalo [xish1235]"
+                                                    }
+                                                  ],
+                                                  "name": "Central-Western Lalo [cent2297]"
+                                                },
+                                                {
+                                                  "name": "Dongshanba Lalo [dong1286]"
+                                                },
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "name": "Eastern Lalu [east2696]"
+                                                    }
+                                                  ],
+                                                  "name": "Unclassified Core Lalu [uncl1503]"
+                                                }
+                                              ],
+                                              "name": "Core Lalo [core1258]"
+                                            },
+                                            {
+                                              "name": "Xuzhang Lalo [xuzh1234]"
+                                            }
+                                          ],
+                                          "name": "Greater Lalo [grea1292]"
+                                        },
+                                        {
+                                          "name": "Southern Lalo [sout3210]"
+                                        },
+                                        {
+                                          "name": "Yangliu [yang1304]"
+                                        }
+                                      ],
+                                      "name": "Lalo [lalo1240]"
+                                    },
+                                    {
+                                      "name": "Lavu-Yongsheng-Talu [talu1238]"
+                                    }
+                                  ],
+                                  "name": "Laluba-Lavu [lalu1234]"
+                                },
+                                {
+                                  "name": "Lisu [lisu1250]"
+                                }
+                              ],
+                              "name": "Lisu-Laluba-Lavu [lisu1252]"
+                            },
+                            {
+                              "name": "Tanglang-Toloza [tang1372]"
+                            }
+                          ],
+                          "name": "Nuclear Lisoid [nucl1734]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Lamu [lamu1257]"
+                            },
+                            {
+                              "name": "Naluo Yi [nalu1239]"
+                            },
+                            {
+                              "name": "Samatu [sama1296]"
+                            }
+                          ],
+                          "name": "Unclassified Lisoid [unun9958]"
+                        }
+                      ],
+                      "name": "Lisoid [liso1234]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Azha [azha1235]"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Sani [sani1269]"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Axi Yi [axiy1235]"
+                                    },
+                                    {
+                                      "name": "Azhe [azhe1235]"
+                                    }
+                                  ],
+                                  "name": "Sani-Axi [sani1275]"
+                                }
+                              ],
+                              "name": "Sani-Axi-Azhe [sani1267]"
+                            }
+                          ],
+                          "name": "Axioid [sani1266]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Laghuu [lagh1245]"
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "name": "Bokha [bokh1237]"
+                                                    },
+                                                    {
+                                                      "name": "Phuma [phum1235]"
+                                                    }
+                                                  ],
+                                                  "name": "Bokha-Phuma [bokh1236]"
+                                                },
+                                                {
+                                                  "name": "Muzi [muzi1235]"
+                                                },
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "name": "Northern Muji [nort2716]"
+                                                    },
+                                                    {
+                                                      "name": "Southern Muji [sout2722]"
+                                                    }
+                                                  ],
+                                                  "name": "Northern-Southern Muji [nort2715]"
+                                                }
+                                              ],
+                                              "name": "Nuclear Core Muji [nucl1309]"
+                                            },
+                                            {
+                                              "name": "Qila Muji [qila1235]"
+                                            }
+                                          ],
+                                          "name": "Core Muji [core1246]"
+                                        },
+                                        {
+                                          "name": "Thopho [thop1236]"
+                                        }
+                                      ],
+                                      "name": "Thopho-Core Muji [thop1235]"
+                                    }
+                                  ],
+                                  "name": "Laghuu-Core Muji [lagh1244]"
+                                },
+                                {
+                                  "name": "Moji [moji1238]"
+                                }
+                              ],
+                              "name": "Muji [muji1235]"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Ani Phowa [anip1235]"
+                                    },
+                                    {
+                                      "name": "Labo Phowa [labo1243]"
+                                    }
+                                  ],
+                                  "name": "Ani-Labo [anil1235]"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Hlepho Phowa [hlep1236]"
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "name": "Khlula [khlu1236]"
+                                        },
+                                        {
+                                          "name": "Zokhuo [zokh1238]"
+                                        }
+                                      ],
+                                      "name": "Khlula-Zokhuo [khlu1235]"
+                                    },
+                                    {
+                                      "name": "Phukha [phuk1235]"
+                                    }
+                                  ],
+                                  "name": "Hlepho-Phukha [hlep1235]"
+                                }
+                              ],
+                              "name": "Phowa [phow1235]"
+                            }
+                          ],
+                          "name": "Highland Phula [high1272]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Far Northwestern Nisu [farn1234]"
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "name": "North-Central Nisu [east2349]"
+                                            },
+                                            {
+                                              "name": "Northwestern Nisu [nort2718]"
+                                            }
+                                          ],
+                                          "name": "Northern Nisu [nort2717]"
+                                        },
+                                        {
+                                          "name": "Southern Nisu [sout2723]"
+                                        }
+                                      ],
+                                      "name": "Nuclear Nisu [nucl1833]"
+                                    }
+                                  ],
+                                  "name": "Nisu [nisu1238]"
+                                },
+                                {
+                                  "name": "Nyisu [nyis1235]"
+                                }
+                              ],
+                              "name": "Nisu-Nyisu [nisu1237]"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "name": "Gepo [gepo1234]"
+                                            },
+                                            {
+                                              "name": "Samei [same1240]"
+                                            },
+                                            {
+                                              "name": "Sanie [sani1265]"
+                                            },
+                                            {
+                                              "children": [
+                                                {
+                                                  "name": "Ayizi [ayiz1244]"
+                                                },
+                                                {
+                                                  "name": "Chesu [ches1238]"
+                                                }
+                                              ],
+                                              "name": "Unclassified Nasu-Gepu [unun9955]"
+                                            },
+                                            {
+                                              "name": "Wuding-Luquan Yi [wudi1238]"
+                                            }
+                                          ],
+                                          "name": "Nasu-Gepu [nasu1237]"
+                                        },
+                                        {
+                                          "children": [
+                                            {
+                                              "name": "Wumeng Nasu [wume1235]"
+                                            },
+                                            {
+                                              "name": "Wusa Nasu [wusa1235]"
+                                            }
+                                          ],
+                                          "name": "Nesu [nesu1235]"
+                                        }
+                                      ],
+                                      "name": "Nesu-Nasu [nesu1234]"
+                                    },
+                                    {
+                                      "name": "Sichuan Yi [sich1238]"
+                                    }
+                                  ],
+                                  "name": "Nasu-Nosu [nasu1236]"
+                                },
+                                {
+                                  "name": "Southern Awu (Lope) [awuu1235]"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Aluo [aluo1235]"
+                                    }
+                                  ],
+                                  "name": "Unclassified Nuclear Nisoid [unun9956]"
+                                }
+                              ],
+                              "name": "Nuclear Nisoid [nucl1739]"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Ache [ache1244]"
+                                }
+                              ],
+                              "name": "Unclassified Nisoid [uncl1517]"
+                            }
+                          ],
+                          "name": "Nisoid [niso1234]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Phupa [phup1239]"
+                                    },
+                                    {
+                                      "name": "Phuza [phuz1235]"
+                                    }
+                                  ],
+                                  "name": "Phupa-Phuza [phup1238]"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Alugu [alug1235]"
+                                    },
+                                    {
+                                      "name": "Phupha [phup1237]"
+                                    }
+                                  ],
+                                  "name": "Phupha-Alugu [phup1236]"
+                                }
+                              ],
+                              "name": "Downriver Riverine Phula [down1239]"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Phala [phal1256]"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Alo Phola [alop1235]"
+                                    },
+                                    {
+                                      "name": "Phola [phol1237]"
+                                    }
+                                  ],
+                                  "name": "Pholic [phol1236]"
+                                }
+                              ],
+                              "name": "Upriver Riverine Phula [upri1239]"
+                            }
+                          ],
+                          "name": "Riverine Phula [rive1256]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Nisi (China) [nisi1238]"
+                            }
+                          ],
+                          "name": "Unclassified Southeastern Ngwi [unun9957]"
+                        }
+                      ],
+                      "name": "Southeastern Ngwi [sout3212]"
+                    }
+                  ],
+                  "name": "Ni-Li-Kazhouish [nili1235]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Nusu [nusu1239]"
+                    },
+                    {
+                      "name": "Zauzou [zauz1238]"
+                    }
+                  ],
+                  "name": "Nusoish [nuso1234]"
+                },
+                {
+                  "name": "Pholo [phol1235]"
+                }
+              ],
+              "name": "Loloish [lolo1267]"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Maang [maan1239]"
+                    },
+                    {
+                      "name": "Mango (China) [mang1429]"
+                    },
+                    {
+                      "name": "Maza [maza1306]"
+                    },
+                    {
+                      "name": "Muangphe [muan1234]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Mantsi [mant1265]"
+                        },
+                        {
+                          "name": "Mondzi [mond1267]"
+                        }
+                      ],
+                      "name": "Munji-Mantsi [munj1248]"
+                    }
+                  ],
+                  "name": "Nuclear Mondzish [mond1268]"
+                },
+                {
+                  "name": "Thou-Kathu [kath1251]"
+                }
+              ],
+              "name": "Mondzish [mond1269]"
+            },
+            {
+              "name": "Ugong [ugon1239]"
+            },
+            {
+              "children": [
+                {
+                  "name": "Pai-lang [pail1244]"
+                }
+              ],
+              "name": "Unclassified Lolo-Burmese [unun9953]"
+            }
+          ],
+          "name": "Lolo-Burmese [lolo1265]"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Ersu [ersu1241]"
+                },
+                {
+                  "name": "Lizu [lizu1234]"
+                },
+                {
+                  "name": "Tosu [tosu1234]"
+                }
+              ],
+              "name": "Ersuic [ersu1242]"
+            },
+            {
+              "name": "Guiqiong [guiq1238]"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Laze [laze1238]"
+                    },
+                    {
+                      "name": "Narua [yong1270]"
+                    },
+                    {
+                      "name": "Naxi [naxi1245]"
+                    }
+                  ],
+                  "name": "Naish [nais1236]"
+                },
+                {
+                  "name": "Namuyi [namu1246]"
+                },
+                {
+                  "name": "Shixing [shix1238]"
+                }
+              ],
+              "name": "Naic [naic1235]"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Japhug [japh1234]"
+                            },
+                            {
+                              "name": "Tshobdun [tsho1240]"
+                            },
+                            {
+                              "name": "Zbu [zbua1234]"
+                            }
+                          ],
+                          "name": "Northern Gyalrong [jiar1240]"
+                        },
+                        {
+                          "name": "Situ [situ1238]"
+                        }
+                      ],
+                      "name": "Core Gyalrong [core1262]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Stau-Dgebshes [horp1239]"
+                            },
+                            {
+                              "name": "Stodsde [shan1274]"
+                            },
+                            {
+                              "name": "Tangut [tang1334]"
+                            }
+                          ],
+                          "name": "Horpa [horp1240]"
+                        },
+                        {
+                          "name": "Khroskyabs [guan1266]"
+                        }
+                      ],
+                      "name": "West Gyalrongic [west2973]"
+                    }
+                  ],
+                  "name": "Gyalrongic [rgya1241]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Eastern Muya [east2351]"
+                    },
+                    {
+                      "name": "Western Muya [west2417]"
+                    }
+                  ],
+                  "name": "Muya [muya1239]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Northern Pumi [nort2723]"
+                    },
+                    {
+                      "name": "Southern Pumi [sout2729]"
+                    }
+                  ],
+                  "name": "Pumi [pumi1242]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Southern Qiang [sout2728]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Northern Qiang [nort2722]"
+                        },
+                        {
+                          "name": "Southeast Maoxian Qiang [sout3257]"
+                        }
+                      ],
+                      "name": "Upstream-Nu Qiang [upst1234]"
+                    }
+                  ],
+                  "name": "Qiang [qian1264]"
+                },
+                {
+                  "name": "Queyu [quey1238]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Drag-yab [drag1234]"
+                        },
+                        {
+                          "name": "Lamo [lamo1245]"
+                        },
+                        {
+                          "name": "Zlarong [zlar1234]"
+                        }
+                      ],
+                      "name": "Chamdoic [cham1336]"
+                    }
+                  ],
+                  "name": "Unclassified Qiangic [uncl1511]"
+                },
+                {
+                  "name": "Zhaba [zhab1238]"
+                }
+              ],
+              "name": "Qiangic [qian1263]"
+            }
+          ],
+          "name": "Na-Qiangic [naqi1236]"
+        },
+        {
+          "children": [
+            {
+              "name": "Northern Tujia [nort2732]"
+            },
+            {
+              "name": "Southern Tujia [sout2739]"
+            }
+          ],
+          "name": "Tujia [tuji1244]"
+        }
+      ],
+      "name": "Burmo-Qiangic [burm1265]"
+    },
+    {
+      "children": [
+        {
+          "name": "Dhimal [dhim1246]"
+        },
+        {
+          "name": "Lhokpu [lhok1238]"
+        },
+        {
+          "name": "Toto [toto1302]"
+        }
+      ],
+      "name": "Dhimal-Lhokpu-Toto [dhim1247]"
+    },
+    {
+      "children": [
+        {
+          "name": "Idu [idum1241]"
+        },
+        {
+          "name": "Tawra [diga1241]"
+        }
+      ],
+      "name": "Digarish [mish1241]"
+    },
+    {
+      "name": "Gongduk [gong1251]"
+    },
+    {
+      "children": [
+        {
+          "name": "Lepcha [lepc1244]"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Bujhyal [bujh1238]"
+                    },
+                    {
+                      "name": "Chepang [chep1245]"
+                    }
+                  ],
+                  "name": "Chepangic [chep1244]"
+                },
+                {
+                  "name": "Dura [dura1244]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Gamale Kham [gama1251]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Eastern Parbate Kham [east2354]"
+                            },
+                            {
+                              "name": "Western Parbate Kham [west2420]"
+                            }
+                          ],
+                          "name": "Parbate Kham [parb1234]"
+                        }
+                      ],
+                      "name": "Gamale-Parbate [gama1260]"
+                    },
+                    {
+                      "name": "Sheshi Kham [shes1236]"
+                    }
+                  ],
+                  "name": "Kham [kham1286]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Eastern Magar [east2352]"
+                    },
+                    {
+                      "name": "Western Magar [west2418]"
+                    }
+                  ],
+                  "name": "Magar [maga1261]"
+                }
+              ],
+              "name": "Kham-Magar-Chepang [kham1285]"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Jerung [jeru1240]"
+                    },
+                    {
+                      "name": "Wambule [wamb1257]"
+                    }
+                  ],
+                  "name": "Chaurasiya [chau1260]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Kulung (Nepal) [kulu1253]"
+                            },
+                            {
+                              "name": "Nachering [nach1240]"
+                            }
+                          ],
+                          "name": "Kulungic [kulu1252]"
+                        },
+                        {
+                          "name": "Sampang [samp1249]"
+                        }
+                      ],
+                      "name": "Khambu [kham1300]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Bantawa [bant1281]"
+                            },
+                            {
+                              "name": "Waling [wali1261]"
+                            }
+                          ],
+                          "name": "Bantawic [bant1280]"
+                        },
+                        {
+                          "name": "Camling [caml1239]"
+                        },
+                        {
+                          "name": "Dungmali [dung1252]"
+                        },
+                        {
+                          "name": "Puma [puma1239]"
+                        }
+                      ],
+                      "name": "Southern Kiranti [sout2736]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Chhulung [chhu1238]"
+                        },
+                        {
+                          "name": "Chintang [chhi1245]"
+                        },
+                        {
+                          "name": "Limbu [limb1266]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "name": "Athpariya [athp1241]"
+                                },
+                                {
+                                  "name": "Belhariya [belh1239]"
+                                }
+                              ],
+                              "name": "Athpariyic [athp1240]"
+                            },
+                            {
+                              "name": "Yakkha [yakk1236]"
+                            }
+                          ],
+                          "name": "Yakkha-Athpariyic [yakk1237]"
+                        }
+                      ],
+                      "name": "Tamar [grea1285]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Lohorung [nort2727]"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Southern Yamphu [sout2734]"
+                                },
+                                {
+                                  "name": "Yamphu [yamp1242]"
+                                }
+                              ],
+                              "name": "Yamphuic [yamp1244]"
+                            }
+                          ],
+                          "name": "Lohorung-Yamphu [loho1238]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Eastern Mewahang [east2357]"
+                            },
+                            {
+                              "name": "Western Mewahang [west2422]"
+                            }
+                          ],
+                          "name": "Mewahang [mewa1252]"
+                        }
+                      ],
+                      "name": "Upper Arun [uppe1412]"
+                    }
+                  ],
+                  "name": "Eastern Kiranti [east2719]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Bahing [bahi1252]"
+                        },
+                        {
+                          "name": "Sunwar [sunw1242]"
+                        }
+                      ],
+                      "name": "Bahing-Sunwar [bahi1256]"
+                    },
+                    {
+                      "name": "Wayu [wayu1241]"
+                    }
+                  ],
+                  "name": "Northwestern Kiranti [nort2730]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Koi [koii1238]"
+                    },
+                    {
+                      "name": "Thulung [thul1246]"
+                    },
+                    {
+                      "name": "Tilung [tilu1238]"
+                    }
+                  ],
+                  "name": "Thulung-Tilung-Koyi [west2424]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Dumi [dumi1241]"
+                    },
+                    {
+                      "name": "Khaling [khal1275]"
+                    }
+                  ],
+                  "name": "Upper Dudhkosi [uppe1413]"
+                }
+              ],
+              "name": "Kiranti [kira1253]"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Eastern Newari [east2773]"
+                    },
+                    {
+                      "name": "Kathmandu Valley Newari [newa1246]"
+                    },
+                    {
+                      "name": "Pahari Newari [paha1257]"
+                    }
+                  ],
+                  "name": "Newar [newa1247]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Baraamu [bara1357]"
+                    },
+                    {
+                      "name": "Thangmi [than1259]"
+                    }
+                  ],
+                  "name": "Thangmi-Baram [than1258]"
+                }
+              ],
+              "name": "Newaric [newa1245]"
+            }
+          ],
+          "name": "Mahakiranti [maha1306]"
+        }
+      ],
+      "name": "Himalayish [hima1249]"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Bwe Karen [bwek1238]"
+                },
+                {
+                  "name": "Geba Karen [geba1237]"
+                }
+              ],
+              "name": "Geba-Bwe [geba1236]"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Eastern Kayah [east2342]"
+                    },
+                    {
+                      "name": "Western Kayah [west2409]"
+                    }
+                  ],
+                  "name": "Kayah [kaya1317]"
+                },
+                {
+                  "name": "Yintale Karen [yint1235]"
+                }
+              ],
+              "name": "Kayah-Yintale [kaya1337]"
+            },
+            {
+              "children": [
+                {
+                  "name": "Brek Karen [brek1238]"
+                },
+                {
+                  "name": "Manumanaw Karen [manu1255]"
+                }
+              ],
+              "name": "Kayaw-Manu [kaya1316]"
+            },
+            {
+              "name": "Mobwa Karen [mobw1234]"
+            }
+          ],
+          "name": "Central Karen [cent1999]"
+        },
+        {
+          "children": [
+            {
+              "name": "Geko Karen [geko1235]"
+            },
+            {
+              "name": "Kayan Lahwi [kaya1315]"
+            },
+            {
+              "name": "Lahta-Zayein Karen [zaye1235]"
+            },
+            {
+              "name": "Yinbaw Karen [yinb1236]"
+            }
+          ],
+          "name": "Northern Karen [nort2703]"
+        },
+        {
+          "children": [
+            {
+              "name": "Pa'o Karen [paok1235]"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Pwo Eastern Karen [pwoe1235]"
+                    },
+                    {
+                      "name": "Pwo Western Karen [pwow1235]"
+                    }
+                  ],
+                  "name": "Eastern-Western Pwo Karen [east2341]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Phrae Pwo Karen [phra1235]"
+                    },
+                    {
+                      "name": "Pwo Northern Karen [pwon1235]"
+                    }
+                  ],
+                  "name": "Northern Pwo Karen [nort2704]"
+                }
+              ],
+              "name": "Pwo [pwoo1239]"
+            }
+          ],
+          "name": "Peripheral Karen [peri1254]"
+        },
+        {
+          "children": [
+            {
+              "name": "Paku Karen [paku1238]"
+            },
+            {
+              "children": [
+                {
+                  "name": "S'gaw Karen [sgaw1245]"
+                },
+                {
+                  "name": "Wewaw [wewa1238]"
+                }
+              ],
+              "name": "Sgaw [sgaw1244]"
+            }
+          ],
+          "name": "Southern Karen [sout1554]"
+        }
+      ],
+      "name": "Karenic [kare1337]"
+    },
+    {
+      "children": [
+        {
+          "name": "Bugun [bugu1246]"
+        },
+        {
+          "children": [
+            {
+              "name": "Eastern Puroik [sulu1241]"
+            },
+            {
+              "name": "Western Puroik [west2873]"
+            }
+          ],
+          "name": "Puroikic [puro1234]"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Duhumbi [chug1252]"
+                },
+                {
+                  "name": "Khispi [lish1235]"
+                }
+              ],
+              "name": "Chug-Lish [chug1251]"
+            },
+            {
+              "children": [
+                {
+                  "name": "Sartang [sart1249]"
+                },
+                {
+                  "name": "Sherdukpen [sher1257]"
+                }
+              ],
+              "name": "Sartang-Sherdukpen [sher1256]"
+            }
+          ],
+          "name": "Western Kho-Bwa [meyi1234]"
+        }
+      ],
+      "name": "Kho-Bwa [khob1235]"
+    },
+    {
+      "children": [
+        {
+          "name": "Kman [miju1243]"
+        },
+        {
+          "name": "Zakhring [zakh1243]"
+        }
+      ],
+      "name": "Kman-Meyor [gema1234]"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Angami Naga [anga1288]"
+                        },
+                        {
+                          "name": "Chokri Naga [chok1243]"
+                        }
+                      ],
+                      "name": "Angami-Chokri [anga1287]"
+                    },
+                    {
+                      "name": "Khezha Naga [khez1235]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Mao Naga [maon1238]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Oinam [oina1234]"
+                            },
+                            {
+                              "name": "Poumei Naga [poum1235]"
+                            }
+                          ],
+                          "name": "Poumaic [poum1236]"
+                        }
+                      ],
+                      "name": "Naga Maoic [naga1397]"
+                    }
+                  ],
+                  "name": "Angami-Mao [anga1244]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Northern Rengma Naga [nort2725]"
+                    },
+                    {
+                      "name": "Pochuri Naga [poch1243]"
+                    }
+                  ],
+                  "name": "Pochuri-Northern Rengma [poch1242]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Southern Rengma Naga [sout2732]"
+                    },
+                    {
+                      "name": "Sumi Naga [sumi1235]"
+                    }
+                  ],
+                  "name": "Rengma-Simi [reng1253]"
+                }
+              ],
+              "name": "Angami-Pochuri [anga1286]"
+            },
+            {
+              "children": [
+                {
+                  "name": "Ao Naga [aona1235]"
+                },
+                {
+                  "name": "Lotha Naga [loth1237]"
+                },
+                {
+                  "name": "Sangtam Naga [sang1321]"
+                },
+                {
+                  "name": "Wui [wuii1234]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Jejara Naga [para1302]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Long Phuri Naga [long1375]"
+                        },
+                        {
+                          "name": "Makuri Naga [maku1273]"
+                        }
+                      ],
+                      "name": "Makuric [maku1272]"
+                    },
+                    {
+                      "name": "Yimchungru Naga [yimc1240]"
+                    }
+                  ],
+                  "name": "Yimchingric [yimc1239]"
+                }
+              ],
+              "name": "Central Naga [aoic1235]"
+            }
+          ],
+          "name": "Angami-Ao [anga1312]"
+        },
+        {
+          "children": [
+            {
+              "name": "Amri Karbi [amri1238]"
+            },
+            {
+              "name": "Hills Karbi [karb1241]"
+            }
+          ],
+          "name": "Karbic [karb1240]"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Laamtuk Thet [tawr1235]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Bawm Chin [bawm1236]"
+                            },
+                            {
+                              "name": "Bualkhaw Chin [bual1235]"
+                            },
+                            {
+                              "name": "Falam Chin [fala1243]"
+                            }
+                          ],
+                          "name": "Falamic [fala1242]"
+                        },
+                        {
+                          "name": "Haka Chin [haka1240]"
+                        }
+                      ],
+                      "name": "Lai Chin [laic1236]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Darlong [darl1242]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Biete [biet1238]"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Hmar [hmar1241]"
+                                },
+                                {
+                                  "name": "Syriem [syri1242]"
+                                }
+                              ],
+                              "name": "Hmar-Saihriem [hmar1242]"
+                            },
+                            {
+                              "name": "Hrangkhol [hran1239]"
+                            },
+                            {
+                              "name": "Sakachep-Chorei [saka1283]"
+                            }
+                          ],
+                          "name": "Hmaric [hmar1240]"
+                        },
+                        {
+                          "name": "Mizo [lush1249]"
+                        }
+                      ],
+                      "name": "Mizoic [mizo1244]"
+                    },
+                    {
+                      "name": "Pangkhua [pank1249]"
+                    }
+                  ],
+                  "name": "Core Central Kuki-Chin [cent2005]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Lautu [laut1236]"
+                        },
+                        {
+                          "name": "Mara Chin [mara1382]"
+                        },
+                        {
+                          "name": "Shendu [shen1247]"
+                        },
+                        {
+                          "name": "Zyphe [zyph1238]"
+                        }
+                      ],
+                      "name": "Nuclear Maraic [nucl1757]"
+                    },
+                    {
+                      "name": "Senthang Chin [sent1260]"
+                    },
+                    {
+                      "name": "Zotung Chin [zotu1235]"
+                    }
+                  ],
+                  "name": "Maraic [mara1381]"
+                }
+              ],
+              "name": "Central Kuki-Chin [cent2330]"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Anal [anal1239]"
+                    },
+                    {
+                      "name": "Lamkang [lamk1238]"
+                    }
+                  ],
+                  "name": "Anal-Lamgang [anal1240]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Aimol [aimo1244]"
+                    },
+                    {
+                      "name": "Chiru [chir1283]"
+                    },
+                    {
+                      "name": "Purum [puru1266]"
+                    }
+                  ],
+                  "name": "Central Old Kuki [cent2411]"
+                },
+                {
+                  "name": "Halam [rang1267]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Kharam Naga [khar1288]"
+                    },
+                    {
+                      "name": "Koireng [koir1240]"
+                    },
+                    {
+                      "name": "Kom (India) [komi1270]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Chothe [chot1239]"
+                        },
+                        {
+                          "name": "Tarao [tara1313]"
+                        }
+                      ],
+                      "name": "Tarao-Chothe [tara1327]"
+                    }
+                  ],
+                  "name": "Kolhrengic [kolh1241]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Monsang Naga [mons1234]"
+                    },
+                    {
+                      "name": "Moyon [moyo1238]"
+                    }
+                  ],
+                  "name": "Moyon-Monsang Naga [moyo1240]"
+                },
+                {
+                  "name": "Sorbung [sorb1250]"
+                }
+              ],
+              "name": "Northwestern Kuki-Chin [oldk1252]"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Eastern Khumi Chin [east2779]"
+                    },
+                    {
+                      "name": "Khumi Chin [khum1248]"
+                    },
+                    {
+                      "name": "Mro Chin [mroc1235]"
+                    },
+                    {
+                      "name": "Rengmitca [reng1255]"
+                    }
+                  ],
+                  "name": "Khomic [khom1240]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Gangte [gang1266]"
+                            },
+                            {
+                              "name": "Vaiphei [vaip1239]"
+                            }
+                          ],
+                          "name": "Gangte-Vaiphei [gang1271]"
+                        },
+                        {
+                          "name": "Ngawn Chin [ngaw1239]"
+                        },
+                        {
+                          "name": "Simte [simt1238]"
+                        },
+                        {
+                          "name": "Sizang Chin [siyi1240]"
+                        },
+                        {
+                          "name": "Zou [zouu1235]"
+                        }
+                      ],
+                      "name": "Sizangic [siza1239]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Paite Chin [pait1244]"
+                        },
+                        {
+                          "name": "Ralte [ralt1242]"
+                        },
+                        {
+                          "name": "Tedim Chin [tedi1235]"
+                        },
+                        {
+                          "name": "Thado Chin [thad1238]"
+                        }
+                      ],
+                      "name": "Thadoic [thad1239]"
+                    }
+                  ],
+                  "name": "Northeastern Kuki-Chin [nort3179]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Asho Chin [asho1236]"
+                        },
+                        {
+                          "name": "Sumtu Chin [sumt1234]"
+                        }
+                      ],
+                      "name": "Ashoic [asho1237]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Chinbon Chin [chin1478]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Daai Chin [daai1236]"
+                            },
+                            {
+                              "name": "Kaang Chin [kaan1248]"
+                            },
+                            {
+                              "name": "Mün Chin [munc1235]"
+                            }
+                          ],
+                          "name": "Daai-Nghmoye-Muun-Kaang [daai1235]"
+                        },
+                        {
+                          "name": "Nga La [ngal1291]"
+                        }
+                      ],
+                      "name": "Choic [choi1241]"
+                    }
+                  ],
+                  "name": "South Peripheral Kuki-Chin [sout3160]"
+                }
+              ],
+              "name": "Peripheral Kuki-Chin [peri1260]"
+            }
+          ],
+          "name": "Kuki-Chin [kuki1246]"
+        },
+        {
+          "name": "Manipuri [mani1292]"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Khoibu [khoi1251]"
+                },
+                {
+                  "name": "Maring Naga [mari1416]"
+                }
+              ],
+              "name": "Maringic [mari1415]"
+            },
+            {
+              "children": [
+                {
+                  "name": "Challow [chal1279]"
+                },
+                {
+                  "name": "East Tusom [east2902]"
+                },
+                {
+                  "name": "Kongai [kong1298]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "East-Central Tangkhul Naga [tang1336]"
+                    },
+                    {
+                      "name": "Lairamlo [lair1234]"
+                    },
+                    {
+                      "name": "North-Central Tangkhul Naga [nort3287]"
+                    },
+                    {
+                      "name": "Northern Tangkhul Naga [nort3286]"
+                    },
+                    {
+                      "name": "Southern Tangkhul Naga [khan1277]"
+                    }
+                  ],
+                  "name": "Nuclear Tangkhulic [nucl1829]"
+                },
+                {
+                  "name": "Suansu [suan1234]"
+                }
+              ],
+              "name": "Tangkhulic [sino1246]"
+            }
+          ],
+          "name": "Tangkhul-Maring [tang1335]"
+        },
+        {
+          "children": [
+            {
+              "name": "Inpui Naga [inpu1234]"
+            },
+            {
+              "name": "Maram Naga [mara1379]"
+            },
+            {
+              "children": [
+                {
+                  "name": "Liangmai Naga [lian1251]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Mzieme Naga [mzie1235]"
+                    },
+                    {
+                      "name": "Zeme Naga [zeme1240]"
+                    }
+                  ],
+                  "name": "Mzieme-Zeme [mzie1236]"
+                }
+              ],
+              "name": "Nuclear Zemeic [nucl1313]"
+            },
+            {
+              "name": "Rongmei Naga [rong1266]"
+            },
+            {
+              "name": "Thangal Naga [than1255]"
+            }
+          ],
+          "name": "Zemeic [zeme1241]"
+        }
+      ],
+      "name": "Kuki-Chin-Naga [kuki1245]"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Northern Bai [nort2724]"
+            },
+            {
+              "children": [
+                {
+                  "name": "Central Bai [cent2004]"
+                },
+                {
+                  "name": "Southern Bai [sout2730]"
+                }
+              ],
+              "name": "South-Central Bai [sout3254]"
+            }
+          ],
+          "name": "Baic [baic1239]"
+        },
+        {
+          "children": [
+            {
+              "name": "Caijia [caij1234]"
+            },
+            {
+              "children": [
+                {
+                  "name": "Longjia [long1417]"
+                },
+                {
+                  "name": "Luren [lure1234]"
+                }
+              ],
+              "name": "Longjia-Luren [long1422]"
+            }
+          ],
+          "name": "Ta-Li [tali1265]"
+        }
+      ],
+      "name": "Macro-Bai [macr1275]"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Koro [koro1316]"
+            },
+            {
+              "name": "Milang [mila1245]"
+            }
+          ],
+          "name": "Koro-Holon [koro1317]"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Bori-Karko [bori1243]"
+                },
+                {
+                  "name": "Mising-Padam-Miri-Minyong [misi1242]"
+                }
+              ],
+              "name": "Eastern Tani [east2361]"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Damu [damu1236]"
+                    },
+                    {
+                      "name": "Tangam [tang1377]"
+                    }
+                  ],
+                  "name": "Damu-Tangam [damu1237]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Apatani [apat1240]"
+                    },
+                    {
+                      "name": "Bokar-Ramo [boka1249]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Na [naaa1245]"
+                            },
+                            {
+                              "name": "Tagin [tagi1241]"
+                            }
+                          ],
+                          "name": "Bangni-Tagin [bang1372]"
+                        },
+                        {
+                          "name": "Galo [galo1242]"
+                        },
+                        {
+                          "name": "Nyishi-Hill Miri [nyis1236]"
+                        }
+                      ],
+                      "name": "Subansiri [suba1255]"
+                    }
+                  ],
+                  "name": "Western Tani [west2797]"
+                }
+              ],
+              "name": "Pre-Western Tani [prew1234]"
+            }
+          ],
+          "name": "Tani [tani1259]"
+        }
+      ],
+      "name": "Macro-Tani [macr1268]"
+    },
+    {
+      "children": [
+        {
+          "name": "Bangru [bang1369]"
+        },
+        {
+          "name": "Sajolang [saja1240]"
+        }
+      ],
+      "name": "Miji [miji1239]"
+    },
+    {
+      "children": [
+        {
+          "name": "Anu-Hkongso [anuu1241]"
+        },
+        {
+          "name": "Mru [mruu1242]"
+        }
+      ],
+      "name": "Mruic [mrui1235]"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Drung [drun1238]"
+            },
+            {
+              "name": "Nung (Myanmar) [nung1282]"
+            }
+          ],
+          "name": "Gunong [guno1235]"
+        },
+        {
+          "name": "Rawang [rawa1265]"
+        }
+      ],
+      "name": "Nungish [nung1293]"
+    },
+    {
+      "name": "Olekha [olek1239]"
+    },
+    {
+      "children": [
+        {
+          "name": "Raji [raji1240]"
+        },
+        {
+          "children": [
+            {
+              "name": "Raute [raut1239]"
+            },
+            {
+              "name": "Rawat [rawa1264]"
+            }
+          ],
+          "name": "Raute-Rawat [raut1240]"
+        }
+      ],
+      "name": "Raji-Raute [raji1239]"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Classical Chinese [lite1248]"
+            },
+            {
+              "children": [
+                {
+                  "name": "Gan Chinese [ganc1239]"
+                },
+                {
+                  "name": "Hakka Chinese [hakk1236]"
+                },
+                {
+                  "name": "Middle Chinese [midd1344]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Jinyu Chinese [jiny1235]"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Daohua [daoh1239]"
+                        },
+                        {
+                          "name": "Hezhou [hezh1244]"
+                        },
+                        {
+                          "name": "Mandarin Chinese [mand1415]"
+                        },
+                        {
+                          "name": "Tangwang [tang1373]"
+                        },
+                        {
+                          "name": "Wutunhua [wutu1241]"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Dungan [dung1253]"
+                            },
+                            {
+                              "name": "Gangou [gang1272]"
+                            }
+                          ],
+                          "name": "Zhongyuan [zhon1236]"
+                        }
+                      ],
+                      "name": "Mandarinic [mand1471]"
+                    }
+                  ],
+                  "name": "Northern Chinese [nort3155]"
+                },
+                {
+                  "name": "Qujiang Hakka-Shibei Shaoguan Tuhua [quji1234]"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Hui Chinese [huiz1242]"
+                    },
+                    {
+                      "name": "Wu Chinese [wuch1236]"
+                    }
+                  ],
+                  "name": "Wu-Hui Chinese [wuhu1234]"
+                },
+                {
+                  "name": "Xiang Chinese [xian1251]"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Northern Pinghua [nort3268]"
+                        },
+                        {
+                          "name": "Southern Pinghua [sout3250]"
+                        }
+                      ],
+                      "name": "Pinghua [ping1245]"
+                    },
+                    {
+                      "name": "Yue Chinese [yuec1235]"
+                    }
+                  ],
+                  "name": "Yue-Pinghua [yuep1234]"
+                }
+              ],
+              "name": "Middle-Modern Sinitic [midd1354]"
+            }
+          ],
+          "name": "Classical-Middle-Modern Sinitic [clas1255]"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Min Dong Chinese [mind1253]"
+                },
+                {
+                  "name": "Min Nan Chinese [minn1241]"
+                },
+                {
+                  "name": "Pu-Xian Chinese [puxi1243]"
+                }
+              ],
+              "name": "Coastal Min [coas1318]"
+            },
+            {
+              "children": [
+                {
+                  "name": "Min Bei Chinese [minb1244]"
+                },
+                {
+                  "name": "Min Zhong Chinese [minz1235]"
+                }
+              ],
+              "name": "Inland Min [inla1267]"
+            }
+          ],
+          "name": "Min [minn1248]"
+        },
+        {
+          "name": "Old Chinese [oldc1244]"
+        },
+        {
+          "name": "Waxianghua [waxi1236]"
+        }
+      ],
+      "name": "Sinitic [sini1245]"
+    },
+    {
+      "children": [
+        {
+          "name": "Nam [namm1235]"
+        }
+      ],
+      "name": "Unclassified Sino-Tibetan [unun9951]"
+    }
+  ]
+}
