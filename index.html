@@ -2,72 +2,102 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Sino-Tibetan Language Family Tree</title>
+  <title>Sino-Tibetan Tree Editor</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-    }
-    ul {
-      list-style-type: none;
-      padding-left: 20px;
-    }
-    li {
-      margin: 5px 0;
-      cursor: pointer;
-    }
-    .collapsed > ul {
-      display: none;
-    }
-    .node:hover {
-      background-color: #f0f0f0;
-    }
+    body { font-family: sans-serif; padding: 20px; }
+    ul { list-style-type: none; padding-left: 20px; }
+    li { margin: 5px 0; cursor: pointer; }
+    .selected { background: #eef; font-weight: bold; }
+    .controls input, .controls select, .controls button { margin: 5px; }
   </style>
 </head>
 <body>
-  <h1>Sino-Tibetan Language Family Tree</h1>
+  <h1>Sino-Tibetan Language Family Tree (Editable)</h1>
+
+  <div class="controls">
+    <input type="text" id="name" placeholder="Name">
+    <input type="text" id="id" placeholder="ID">
+    <select id="level">
+      <option value="family">Family</option>
+      <option value="language">Language</option>
+    </select>
+    <button onclick="addNode()">Add Child</button>
+    <button onclick="downloadJSON()">Download JSON</button>
+  </div>
+
   <div id="tree-container">Loading tree...</div>
 
   <script>
+    let treeData = null;
+    let currentNode = null;
+
     async function fetchTreeData() {
       try {
         const response = await fetch('data/sino1245.json');
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
-        }
-        const treeData = await response.json();
-        renderTree(treeData, document.getElementById('tree-container'));
+        treeData = await response.json();
+        renderTree();
       } catch (error) {
         document.getElementById('tree-container').textContent = 'Failed to load tree data.';
-        console.error('Error fetching tree data:', error);
       }
     }
 
-    function renderTree(node, container) {
+    function renderTree() {
+      const container = document.getElementById('tree-container');
+      container.innerHTML = '';
       const ul = document.createElement('ul');
-      const li = document.createElement('li');
-      li.textContent = `${node.name} (${node.level})`;
-      li.classList.add('node');
 
-      li.addEventListener('click', function (e) {
-        e.stopPropagation();
-        this.classList.toggle('collapsed');
-      });
+      function createNodeElement(node) {
+        const li = document.createElement('li');
+        li.textContent = `${node.name} (${node.level})`;
+        li.onclick = function(e) {
+          e.stopPropagation();
+          currentNode = node;
+          document.querySelectorAll('li').forEach(el => el.classList.remove('selected'));
+          li.classList.add('selected');
+        };
 
-      ul.appendChild(li);
+        if (node.children && node.children.length > 0) {
+          const subUl = document.createElement('ul');
+          node.children.forEach(child => subUl.appendChild(createNodeElement(child)));
+          li.appendChild(subUl);
+        }
 
-      if (node.children && node.children.length > 0) {
-        const childUl = document.createElement('ul');
-        node.children.forEach(child => {
-          renderTree(child, childUl);
-        });
-        li.appendChild(childUl);
+        return li;
       }
 
+      ul.appendChild(createNodeElement(treeData));
       container.appendChild(ul);
     }
 
-    window.addEventListener('DOMContentLoaded', fetchTreeData);
+    function addNode() {
+      if (!currentNode) return alert("Select a parent node first.");
+      const name = document.getElementById('name').value;
+      const id = document.getElementById('id').value;
+      const level = document.getElementById('level').value;
+      if (!name || !id) return alert("Fill in name and ID");
+
+      const newNode = {
+        id, name, level,
+        timeperiod: "modern",
+        children: []
+      };
+
+      currentNode.children = currentNode.children || [];
+      currentNode.children.push(newNode);
+      renderTree();
+    }
+
+    function downloadJSON() {
+      const blob = new Blob([JSON.stringify(treeData, null, 2)], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = "sino1245-edited.json";
+      a.click();
+      URL.revokeObjectURL(url);
+    }
+
+    window.onload = fetchTreeData;
   </script>
 </body>
 </html>
