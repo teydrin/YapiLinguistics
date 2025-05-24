@@ -2,16 +2,21 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Glottolog Tree Viewer</title>
+  <title>Sino-Tibetan Language Family - Glottolog Style</title>
   <style>
     body {
-      font-family: sans-serif;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f9f9f9;
       padding: 2em;
-      background-color: #f8f9fa;
+      color: #333;
+    }
+    h1 {
+      font-size: 1.5em;
+      margin-bottom: 1em;
     }
     ul {
       list-style-type: none;
-      padding-left: 20px;
+      padding-left: 1em;
     }
     .caret {
       cursor: pointer;
@@ -19,7 +24,6 @@
     }
     .caret::before {
       content: "▸";
-      color: black;
       display: inline-block;
       margin-right: 6px;
     }
@@ -28,55 +32,61 @@
     }
     .nested {
       display: none;
+      margin-left: 1em;
     }
     .active {
       display: block;
     }
+    .node-label {
+      color: #0074D9;
+    }
   </style>
 </head>
 <body>
+  <h1>Sino-Tibetan Language Family Tree</h1>
+  <ul id="tree-container"></ul>
 
-<h2>Glottolog Tree Viewer</h2>
-<ul id="tree-root"></ul>
+  <script>
+    fetch("sino1245_full_tree_glottolog.json")
+      .then(response => response.json())
+      .then(data => {
+        function createTreeNode(node) {
+          const li = document.createElement("li");
+          const span = document.createElement("span");
+          span.textContent = node.name;
+          span.classList.add("node-label");
 
-<script>
-  // Load tree data
-  fetch("sino1245_full_tree_glottolog.json")
-    .then(response => response.json())
-    .then(data => {
-      const treeContainer = document.getElementById("tree-root");
-      treeContainer.appendChild(buildTree(data));
-    });
+          if (node.children) {
+            const caret = document.createElement("span");
+            caret.classList.add("caret");
+            caret.appendChild(span);
+            li.appendChild(caret);
 
-  // Recursive function to build the tree
-  function buildTree(node) {
-    const li = document.createElement("li");
-    const span = document.createElement("span");
-    span.textContent = node.name;
+            const ul = document.createElement("ul");
+            ul.classList.add("nested");
+            node.children.forEach(child => {
+              ul.appendChild(createTreeNode(child));
+            });
+            li.appendChild(ul);
 
-    if (node.children) {
-      span.classList.add("caret");
-      const ul = document.createElement("ul");
-      ul.classList.add("nested");
+            caret.addEventListener("click", function () {
+              this.classList.toggle("caret-down");
+              ul.classList.toggle("active");
+            });
+          } else {
+            li.appendChild(span);
+          }
 
-      for (const child of node.children) {
-        ul.appendChild(buildTree(child));
-      }
+          return li;
+        }
 
-      span.onclick = () => {
-        span.classList.toggle("caret-down");
-        ul.classList.toggle("active");
-      };
-
-      li.appendChild(span);
-      li.appendChild(ul);
-    } else {
-      li.textContent = node.name;
-    }
-
-    return li;
-  }
-</script>
-
+        const container = document.getElementById("tree-container");
+        container.appendChild(createTreeNode(data));
+      })
+      .catch(error => {
+        document.getElementById("tree-container").textContent = "Failed to load tree.";
+        console.error("Error loading tree:", error);
+      });
+  </script>
 </body>
 </html>
