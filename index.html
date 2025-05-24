@@ -2,62 +2,81 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Glottolog: Sinitic (sini1245)</title>
+  <title>Glottolog Tree Viewer</title>
   <style>
-    body { font-family: Arial, sans-serif; margin: 2em; }
-    h1 { color: #2c3e50; }
-    .section { margin-bottom: 1.5em; }
-    .section h2 { color: #34495e; }
-    ul { list-style-type: none; padding: 0; }
-    li { margin-bottom: 0.5em; }
+    body {
+      font-family: sans-serif;
+      padding: 2em;
+      background-color: #f8f9fa;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 20px;
+    }
+    .caret {
+      cursor: pointer;
+      user-select: none;
+    }
+    .caret::before {
+      content: "▸";
+      color: black;
+      display: inline-block;
+      margin-right: 6px;
+    }
+    .caret-down::before {
+      content: "▾";
+    }
+    .nested {
+      display: none;
+    }
+    .active {
+      display: block;
+    }
   </style>
 </head>
 <body>
-  <h1>Sinitic Languages (Glottocode: sini1245)</h1>
-  <div class="section" id="description">
-    <h2>Description</h2>
-    <p>Loading...</p>
-  </div>
-  <div class="section" id="references">
-    <h2>References</h2>
-    <ul id="refs-list">
-      <li>Loading...</li>
-    </ul>
-  </div>
 
-  <script>
-    // Replace this URL with the actual API endpoint if available
-    const glottocode = 'sini1245';
-    const apiUrl = `https://glottolog.org/resource/languoid/id/${glottocode}.json`;
+<h2>Glottolog Tree Viewer</h2>
+<ul id="tree-root"></ul>
 
-    fetch(apiUrl)
-      .then(response => response.json())
-      .then(data => {
-        // Update description
-        const descriptionEl = document.querySelector('#description p');
-        descriptionEl.textContent = data.description || 'No description available.';
+<script>
+  // Load tree data
+  fetch("glottolog_tree.json")
+    .then(response => response.json())
+    .then(data => {
+      const treeContainer = document.getElementById("tree-root");
+      treeContainer.appendChild(buildTree(data));
+    });
 
-        // Update references
-        const refsList = document.getElementById('refs-list');
-        refsList.innerHTML = ''; // Clear loading text
-        if (data.references && data.references.length > 0) {
-          data.references.forEach(ref => {
-            const li = document.createElement('li');
-            li.textContent = ref;
-            refsList.appendChild(li);
-          });
-        } else {
-          const li = document.createElement('li');
-          li.textContent = 'No references available.';
-          refsList.appendChild(li);
-        }
-      })
-      .catch(error => {
-        console.error('Error fetching data:', error);
-        document.querySelector('#description p').textContent = 'Error loading description.';
-        const refsList = document.getElementById('refs-list');
-        refsList.innerHTML = '<li>Error loading references.</li>';
-      });
-  </script>
+  // Recursive function to build the tree
+  function buildTree(node) {
+    const li = document.createElement("li");
+    const span = document.createElement("span");
+    span.textContent = node.name;
+
+    if (node.children) {
+      span.classList.add("caret");
+      const ul = document.createElement("ul");
+      ul.classList.add("nested");
+
+      for (const child of node.children) {
+        ul.appendChild(buildTree(child));
+      }
+
+      span.onclick = () => {
+        span.classList.toggle("caret-down");
+        ul.classList.toggle("active");
+      };
+
+      li.appendChild(span);
+      li.appendChild(ul);
+    } else {
+      li.textContent = node.name;
+    }
+
+    return li;
+  }
+</script>
+
 </body>
 </html>
