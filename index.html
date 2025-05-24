@@ -2,40 +2,72 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Yapi Linguistics Tree Viewer</title>
+  <title>Sino-Tibetan Language Family Tree</title>
   <style>
     body {
-      font-family: sans-serif;
-      padding: 2rem;
-      background-color: #f8f9fa;
+      font-family: Arial, sans-serif;
+      padding: 20px;
     }
-    pre {
-      background: #fff;
-      border: 1px solid #ccc;
-      padding: 1rem;
-      overflow-x: auto;
-      max-height: 80vh;
+    ul {
+      list-style-type: none;
+      padding-left: 20px;
+    }
+    li {
+      margin: 5px 0;
+      cursor: pointer;
+    }
+    .collapsed > ul {
+      display: none;
+    }
+    .node:hover {
+      background-color: #f0f0f0;
     }
   </style>
 </head>
 <body>
-  <h1>Language Tree (from languoids.json)</h1>
-  <pre id="output">Loading...</pre>
+  <h1>Sino-Tibetan Language Family Tree</h1>
+  <div id="tree-container">Loading tree...</div>
 
   <script>
-    fetch('data/languoids.json')
-      .then(res => {
-        if (!res.ok) throw new Error("Failed to load languoids.json");
-        return res.json();
-      })
-      .then(data => {
-        document.getElementById('output').textContent =
-          JSON.stringify(data, null, 2);
-      })
-      .catch(err => {
-        document.getElementById('output').textContent =
-          "Error loading languoids.json:\n" + err;
+    async function fetchTreeData() {
+      try {
+        const response = await fetch('data/sino1245.json');
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        const treeData = await response.json();
+        renderTree(treeData, document.getElementById('tree-container'));
+      } catch (error) {
+        document.getElementById('tree-container').textContent = 'Failed to load tree data.';
+        console.error('Error fetching tree data:', error);
+      }
+    }
+
+    function renderTree(node, container) {
+      const ul = document.createElement('ul');
+      const li = document.createElement('li');
+      li.textContent = `${node.name} (${node.level})`;
+      li.classList.add('node');
+
+      li.addEventListener('click', function (e) {
+        e.stopPropagation();
+        this.classList.toggle('collapsed');
       });
+
+      ul.appendChild(li);
+
+      if (node.children && node.children.length > 0) {
+        const childUl = document.createElement('ul');
+        node.children.forEach(child => {
+          renderTree(child, childUl);
+        });
+        li.appendChild(childUl);
+      }
+
+      container.appendChild(ul);
+    }
+
+    window.addEventListener('DOMContentLoaded', fetchTreeData);
   </script>
 </body>
 </html>
