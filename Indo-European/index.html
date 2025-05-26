@@ -1,138 +1,102 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Indo-European – Yapi Linguistics</title>
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yapi Linguistics – Indo-European Tree</title>
   <style>
-    :root {
-      --blue: #0067a5;
-      --border: #ccc;
-      --bg: #fafafa;
+    body{
+      font-family:"Segoe UI",Tahoma,sans-serif; background:#f5f5f5;
+      margin:0; padding:0; line-height:1.6;
     }
-    * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-      background: var(--bg);
-      color: #222;
-      padding-bottom: 4rem;
+    .back-button{
+      position:absolute;top:1rem;left:1rem;padding:.5em 1em;
+      background:#0074D9;color:#fff;text-decoration:none;border-radius:4px;
+      font-weight:bold;box-shadow:0 2px 4px rgba(0,0,0,.1);z-index:1000;
     }
-    header {
-      background: var(--blue);
-      color: #fff;
-      padding: 0.7rem 1rem;
-      font-size: 1.2rem;
-      font-weight: 600;
+    .back-button:hover{background:#005fa3;}
+    .header{
+      background:#0074D9;color:#fff;padding:1em;text-align:center;
+      font-size:1.4em;font-weight:bold;border-bottom:4px solid #005fa3;
     }
-    header a { color: #fff; text-decoration: none; font-weight: 700; }
-    .card {
-      max-width: 900px;
-      margin: 1rem auto;
-      background: #fff;
-      border: 1px solid var(--border);
-      padding: 1rem 1.2rem;
+    .tree-wrapper{
+      width:100%;max-width:960px;margin:2em auto;background:#fff;
+      border:1px solid #ddd;padding:1.5em 1em;border-radius:6px;
+      box-shadow:0 2px 5px rgba(0,0,0,.08);max-height:85vh;overflow-y:auto;
     }
-    h1 {
-      font-size: 1.4rem;
-      margin: 0 0 .6rem;
-      color: var(--blue);
+    #node-title{font-size:1.2em;margin-bottom:1em;font-weight:bold;
+      text-align:center;color:#333;padding:0 1em;}
+    ul.tree,ul.tree ul{list-style:none;margin:0;padding-left:1em;position:relative;}
+    ul.tree ul::before{
+      content:'';position:absolute;top:0;bottom:0;left:0;border-left:1px solid #ccc;
     }
-    #breadcrumbs {
-      font-size: 0.9rem;
-      color: #555;
-      margin-bottom: 0.8rem;
+    ul.tree li{margin:0;padding:.5em 0 .5em 1em;position:relative;}
+    ul.tree li::before{
+      content:'';position:absolute;top:1.2em;left:0;width:1em;border-top:1px solid #ccc;
     }
-
-    /* Tree */
-    ul.tree, ul.tree ul { list-style:none; margin:0; padding-left:1rem; position:relative; }
-    ul.tree ul::before {
-      content:""; position:absolute; top:0; bottom:0; left:0;
-      border-left:1px solid var(--border);
+    .caret{
+      cursor:pointer;font-size:2.2em;vertical-align:middle;line-height:1;
     }
-    ul.tree li {
-      position:relative; padding:0.35rem 0 0.35rem 0.9rem; cursor:default;
-    }
-    ul.tree li::before {
-      content:""; position:absolute; top:1.05rem; left:0; width:0.9rem;
-      border-top:1px solid var(--border);
-    }
-    .caret {
-      user-select:none; margin-right:6px; font-size:1.2rem; line-height:0;
-      vertical-align:middle; cursor:pointer; color:var(--blue);
-    }
-    .caret::before { content:"▸"; }
-    .caret-open::before { content:"▾"; }
-    .nested { display:none; }
-    .open   { display:block; }
-    .node   { color:var(--blue); }
-    .path   { background:rgba(0,103,165,0.08); }
+    .caret::before{content:"▸";display:inline-block;margin-right:10px;}
+    .caret-down::before{content:"▾";}
+    .nested{display:none;} .active{display:block;}
+    .node-label{color:#0074D9;font-size:1em;}
   </style>
 </head>
 <body>
-  <header><a href="/">Yapi Linguistics</a> / Indo-European</header>
+  <a href="/" class="back-button">← Back</a>
+  <div class="header">Yapi Linguistics – Indo-European Tree</div>
 
-  <div class="card">
-    <h1 id="title">Indo-European</h1>
-    <div id="breadcrumbs">Indo-European</div>
-    <ul class="tree" id="treeRoot"></ul>
+  <div class="tree-wrapper">
+    <div id="node-title">Click a node to explore the tree</div>
+    <ul class="tree" id="tree-container"></ul>
   </div>
 
   <script>
+    // Helper: strip anything in [square] or (round) brackets
+    const clean = txt => txt.replace(/[^]*]/g,'').replace(/[^)]*/g,'').trim();
+
     fetch("indo_european_tree_fixed2 (1).json")
-      .then(res => res.json())
-      .then(root => buildTree(root))
-      .catch(err => {
-        document.getElementById("treeRoot").textContent = "Could not load tree.";
+      .then(r=>r.json())
+      .then(data=>{
+        const container=document.getElementById("tree-container");
+
+        function build(node){
+          const li=document.createElement("li");
+          const span=document.createElement("span");
+          span.textContent = clean(node.name);
+          span.classList.add("node-label");
+          span.onclick = () => {
+            document.getElementById("node-title").textContent = clean(node.name);
+          };
+
+          if(node.children && node.children.length){
+            const caret=document.createElement("span");
+            caret.classList.add("caret");
+            caret.appendChild(span);
+            li.appendChild(caret);
+
+            const ul=document.createElement("ul");
+            ul.classList.add("nested");
+            node.children.forEach(ch=>ul.appendChild(build(ch)));
+            li.appendChild(ul);
+
+            caret.onclick = function(){
+              this.classList.toggle("caret-down");
+              ul.classList.toggle("active");
+            };
+          }else{
+            li.appendChild(span);
+          }
+          return li;
+        }
+
+        container.appendChild(build(data));
+      })
+      .catch(err=>{
+        document.getElementById("tree-container").textContent="Failed to load tree.";
         console.error(err);
       });
-
-    function buildTree(root) {
-      const ul = document.getElementById("treeRoot");
-      ul.appendChild(makeLi(root, []));
-
-      function makeLi(node, ancestry) {
-        const li = document.createElement("li");
-        const label = document.createElement("span");
-        label.textContent = node.name;
-        label.className = "node";
-        label.onclick = () => select(node, ancestry);
-
-        if (node.children && node.children.length) {
-          const caret = document.createElement("span");
-          caret.className = "caret";
-          caret.onclick = e => {
-            e.stopPropagation();
-            caret.classList.toggle("caret-open");
-            sub.classList.toggle("open");
-          };
-          li.appendChild(caret);
-        }
-        li.appendChild(label);
-
-        if (node.children && node.children.length) {
-          const sub = document.createElement("ul");
-          sub.className = "nested";
-          node.children
-              .sort((a, b) => a.name.localeCompare(b.name))
-              .forEach(child => sub.appendChild(makeLi(child, ancestry.concat(node))));
-          li.appendChild(sub);
-        }
-        return li;
-      }
-
-      function select(node, ancestry) {
-        document.querySelectorAll(".path").forEach(el => el.classList.remove("path"));
-        ancestry.concat(node).forEach(n => {
-          const span = [...document.querySelectorAll(".node")].find(el => el.textContent === n.name);
-          if (span) span.classList.add("path");
-        });
-        document.getElementById("title").textContent = node.name;
-        document.getElementById("breadcrumbs").textContent =
-          ancestry.concat(node).map(n => n.name).join(" » ");
-      }
-    }
   </script>
 </body>
 </html>
