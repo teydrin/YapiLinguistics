@@ -56,7 +56,7 @@
     // Helper: strip anything in [square] or (round) brackets
     const clean = txt => txt.replace(/[^]*]/g,'').replace(/[^)]*/g,'').trim();
 
-    fetch("indo_european_tree_fixed2 (1).json")
+    fetch("indo_european_cleaned_final.json")
       .then(r=>r.json())
       .then(data=>{
         const container=document.getElementById("tree-container");
