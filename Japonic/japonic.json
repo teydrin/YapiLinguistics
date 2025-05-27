@@ -1,0 +1,73 @@
+{
+  "name": "Japonic",
+  "children": [
+    {
+      "name": "Japanese",
+      "children": [
+        {
+          "name": "Japanese",
+          "children": []
+        },
+        {
+          "name": "Tsugaru Japanese",
+          "children": []
+        },
+        {
+          "name": "Kagoshima Japanese",
+          "children": []
+        },
+        {
+          "name": "Umpaku Japanese",
+          "children": []
+        },
+        {
+          "name": "Old Japanese",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Hachijo",
+      "children": []
+    },
+    {
+      "name": "Ryukyuan",
+      "children": [
+        {
+          "name": "Northern Ryukyuan",
+          "children": [
+            {
+              "name": "Amami",
+              "children": []
+            },
+            {
+              "name": "Kunigami",
+              "children": []
+            },
+            {
+              "name": "Okinawan",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Southern Ryukyuan",
+          "children": [
+            {
+              "name": "Miyako",
+              "children": []
+            },
+            {
+              "name": "Yaeyama",
+              "children": []
+            },
+            {
+              "name": "Yonaguni",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
