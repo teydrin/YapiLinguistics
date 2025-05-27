@@ -114,7 +114,7 @@ ul.tree li:before{
 <!-- ---------- SCRIPT ----------- -->
 <script>
 /* ▸▾ tree builder  */
-const JSON_FILE="indo_european_tree_final.json";   // change if needed
+const JSON_FILE="indo_european_custom_tree_final.json";   // change if needed
 fetch(JSON_FILE).then(r=>r.json()).then(data=>{
   document.getElementById("total-count").textContent="("+countLeaves(data)+")";
   const rootUl=document.getElementById("tree");
