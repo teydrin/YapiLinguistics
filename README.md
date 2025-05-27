@@ -12,6 +12,8 @@ Click to browse a full interactive tree:
 
 [Indo-European](https://www.yapilinguistics.com/Indo-European/)
 
+[Japonic](https://www.yapilinguistics.com/Japonic/)
+
 More families coming soon...
 
 
