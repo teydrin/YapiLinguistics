@@ -6,7 +6,7 @@
 
 Click to browse a full interactive tree:
 
-</page>
+
  
 [Sino-Tibetan](https://yapilinguistics.com/Sino-Tibetan/)
 
