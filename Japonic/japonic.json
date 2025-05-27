@@ -26,9 +26,7 @@
               "children": [
                 { "name": "Northern Amami Ōshima", "children": [] },
                 { "name": "Southern Amami Ōshima", "children": [] },
-                { "name": "Tokunoshima", "children": [] },
-                { "name": "Okinoerabu", "children": [] },
-                { "name": "Yoron", "children": [] }
+                { "name": "Kikai", "children": [] }
               ]
             },
             {
@@ -40,11 +38,8 @@
               ]
             },
             {
-              "name": "Standard Okinawan",
-              "children": [
-                { "name": "Shuri-Naha (Central Okinawan)", "children": [] },
-                { "name": "Southern Okinawan", "children": [] }
-              ]
+              "name": "Okinawan",
+              "children": []
             }
           ]
         },
@@ -62,8 +57,6 @@
             {
               "name": "Yaeyaman",
               "children": []
-                
-              ]
             },
             {
               "name": "Yonaguni",
