@@ -1,0 +1,3129 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Dakpakha"
+                },
+                {
+                  "name": "Dzalakha"
+                }
+              ],
+              "name": "Dakpa-Dzala"
+            },
+            {
+              "children": [
+                {
+                  "name": "Classical Tibetan"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Dolpo"
+                                    },
+                                    {
+                                      "name": "Tichurong"
+                                    }
+                                  ],
+                                  "name": "Dolpo-Tichurong"
+                                },
+                                {
+                                  "name": "Humla"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "name": "Gyalsumdo-Nubri"
+                                        },
+                                        {
+                                          "name": "Kyerung"
+                                        }
+                                      ],
+                                      "name": "Gyalsumdo-Nubri-Kyirong"
+                                    },
+                                    {
+                                      "name": "Tsum"
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "name": "Kagate"
+                                        },
+                                        {
+                                          "name": "Lamjung-Melamchi Yolmo"
+                                        }
+                                      ],
+                                      "name": "Yolmo-Kagate"
+                                    }
+                                  ],
+                                  "name": "Kyirong-Kagate"
+                                },
+                                {
+                                  "name": "Lhomi"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Lowa"
+                                    },
+                                    {
+                                      "name": "Mugom"
+                                    }
+                                  ],
+                                  "name": "Mustangic"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Jirel"
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "name": "Naaba"
+                                        },
+                                        {
+                                          "name": "Solu-Khumbu Sherpa"
+                                        }
+                                      ],
+                                      "name": "Sherpaic"
+                                    }
+                                  ],
+                                  "name": "Sherpa-Jirel"
+                                },
+                                {
+                                  "name": "Walungge"
+                                }
+                              ],
+                              "name": "South-Western Tibetic"
+                            },
+                            {
+                              "name": "Tibetan"
+                            }
+                          ],
+                          "name": "Central Tibetan"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Baima"
+                            },
+                            {
+                              "name": "Choni"
+                            },
+                            {
+                              "name": "Drugchu"
+                            },
+                            {
+                              "name": "Zhongu"
+                            }
+                          ],
+                          "name": "Eastern Tibetic"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Derong-nJol Tibetan"
+                            },
+                            {
+                              "name": "Khams Tibetan"
+                            }
+                          ],
+                          "name": "Kham-Hor"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Khunu-Töt"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Jad"
+                                },
+                                {
+                                  "name": "Spiti Bhoti"
+                                }
+                              ],
+                              "name": "Spiti-Jad"
+                            },
+                            {
+                              "name": "Stod Bhoti"
+                            }
+                          ],
+                          "name": "Lahauli-Spiti"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Brokpake"
+                            },
+                            {
+                              "name": "Dur Brokkat"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Chocangacakha"
+                                },
+                                {
+                                  "name": "Groma"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Dzongkha"
+                                    },
+                                    {
+                                      "name": "Layakha"
+                                    },
+                                    {
+                                      "name": "Lunanakha"
+                                    }
+                                  ],
+                                  "name": "Nuclear Dzongkhic"
+                                },
+                                {
+                                  "name": "Sikkimese"
+                                }
+                              ],
+                              "name": "Dzongkhic"
+                            },
+                            {
+                              "name": "Lakha"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Khamba"
+                                }
+                              ],
+                              "name": "Unclassified Southern Tibetic"
+                            }
+                          ],
+                          "name": "Southern Tibetic"
+                        }
+                      ],
+                      "name": "Late Old Tibetan"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Amdo Tibetan"
+                        },
+                        {
+                          "name": "Dongna"
+                        },
+                        {
+                          "name": "Gser-Rdo"
+                        }
+                      ],
+                      "name": "North-Eastern Tibetic"
+                    }
+                  ],
+                  "name": "Middle Old Tibetan"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Changthang"
+                        },
+                        {
+                          "name": "Leh Ladakhi"
+                        },
+                        {
+                          "name": "Zangskari"
+                        }
+                      ],
+                      "name": "Kenhatic"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Balti"
+                        },
+                        {
+                          "name": "Purik-Sham-Nubra"
+                        }
+                      ],
+                      "name": "Shamskatic"
+                    }
+                  ],
+                  "name": "Western Archaic Tibetan"
+                }
+              ],
+              "name": "Early Old Tibetan"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Bumthangkha"
+                        },
+                        {
+                          "name": "Khengkha"
+                        },
+                        {
+                          "name": "Kurtokha"
+                        }
+                      ],
+                      "name": "Bumthangic"
+                    },
+                    {
+                      "name": "Chalikha"
+                    }
+                  ],
+                  "name": "Chali-Bumthangic"
+                },
+                {
+                  "name": "Upper Mangdep"
+                }
+              ],
+              "name": "Phobjib-Chali-Bumthangic"
+            },
+            {
+              "children": [
+                {
+                  "name": "Basum"
+                },
+                {
+                  "name": "Songlin"
+                }
+              ],
+              "name": "Unclassified Bodish"
+            }
+          ],
+          "name": "Bodish"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Kutang Ghale"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Northern Ghale"
+                        },
+                        {
+                          "name": "Southern Ghale"
+                        }
+                      ],
+                      "name": "Nuclear Ghale"
+                    }
+                  ],
+                  "name": "Ghale"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Eastern Gorkha Tamang"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Gurung"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Manange"
+                            },
+                            {
+                              "name": "Nar Phu"
+                            }
+                          ],
+                          "name": "Manangba-Nar-Phu"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Chantyal"
+                            },
+                            {
+                              "name": "Thakali"
+                            }
+                          ],
+                          "name": "Thakali-Chantyal"
+                        }
+                      ],
+                      "name": "Gurungic"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Eastern Tamang"
+                        },
+                        {
+                          "name": "Western Tamang"
+                        }
+                      ],
+                      "name": "Nuclear Tamang"
+                    },
+                    {
+                      "name": "Seke (Nepal)"
+                    }
+                  ],
+                  "name": "Tamangic"
+                }
+              ],
+              "name": "Ghale-Tamangic"
+            },
+            {
+              "name": "Kaike"
+            }
+          ],
+          "name": "Kaike-Ghale-Tamangic"
+        },
+        {
+          "children": [
+            {
+              "name": "Kalaktang Monpa"
+            },
+            {
+              "name": "Tshangla"
+            }
+          ],
+          "name": "Tshanglic"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Bunan"
+                    },
+                    {
+                      "name": "Rongpo"
+                    },
+                    {
+                      "name": "Sunam"
+                    }
+                  ],
+                  "name": "Central-Eastern West Himalayish"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Chaudangsi"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Byangsi"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Darma"
+                                },
+                                {
+                                  "name": "Zhangzhung"
+                                }
+                              ],
+                              "name": "Zhangzhungic"
+                            }
+                          ],
+                          "name": "Darma-Byangsi"
+                        }
+                      ],
+                      "name": "Darma-Byangsi-Chaudangsi"
+                    },
+                    {
+                      "name": "Rangkas"
+                    }
+                  ],
+                  "name": "Pithauragarh"
+                }
+              ],
+              "name": "Eastern West Himalayish"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Chhitkul-Rakchham"
+                    },
+                    {
+                      "name": "Kanashi"
+                    },
+                    {
+                      "name": "Kinnauri"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Jangshung"
+                        },
+                        {
+                          "name": "Shumcho"
+                        }
+                      ],
+                      "name": "Thebor"
+                    }
+                  ],
+                  "name": "Kinnauric"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Pattani"
+                    },
+                    {
+                      "name": "Tinani"
+                    }
+                  ],
+                  "name": "Lahaulic"
+                }
+              ],
+              "name": "Western West Himalayish"
+            }
+          ],
+          "name": "West Himalayish"
+        }
+      ],
+      "name": "Bodic"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Dimasa"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Kok Borok"
+                        },
+                        {
+                          "name": "Riang (India)"
+                        },
+                        {
+                          "name": "Tippera"
+                        },
+                        {
+                          "name": "Usui"
+                        }
+                      ],
+                      "name": "Tipperic"
+                    }
+                  ],
+                  "name": "Dimasa-Kokborok"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Bodo-Mech"
+                        },
+                        {
+                          "name": "Kachari"
+                        }
+                      ],
+                      "name": "Bodo-Mech-Kachari"
+                    },
+                    {
+                      "name": "Tiwa (India)"
+                    }
+                  ],
+                  "name": "Tiwa-Boro"
+                }
+              ],
+              "name": "Boroic"
+            },
+            {
+              "name": "Deori"
+            },
+            {
+              "name": "Garo"
+            },
+            {
+              "children": [
+                {
+                  "name": "Atong (India)"
+                },
+                {
+                  "name": "Koch"
+                },
+                {
+                  "name": "Rabha"
+                },
+                {
+                  "name": "Ruga"
+                }
+              ],
+              "name": "Kochic"
+            }
+          ],
+          "name": "Bodo-Garo"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Northern Jinghpaw"
+                },
+                {
+                  "name": "Southern Jinghpaw"
+                }
+              ],
+              "name": "Jingpho"
+            },
+            {
+              "children": [
+                {
+                  "name": "Chak"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Andro"
+                            },
+                            {
+                              "name": "Sengmai"
+                            }
+                          ],
+                          "name": "Andro-Sengmai"
+                        },
+                        {
+                          "name": "Phayeng"
+                        }
+                      ],
+                      "name": "Chakpa"
+                    },
+                    {
+                      "name": "Kado"
+                    }
+                  ],
+                  "name": "Chakpa-Kadu-Ganan"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Burma Pyu"
+                    },
+                    {
+                      "name": "Taman (Myanmar)"
+                    }
+                  ],
+                  "name": "Unclassified Luish"
+                }
+              ],
+              "name": "Luish"
+            }
+          ],
+          "name": "Jingpho-Luish"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Kaisanic"
+                    },
+                    {
+                      "name": "Nahenic"
+                    }
+                  ],
+                  "name": "Heimic"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Nocte Naga"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Muklomic"
+                        },
+                        {
+                          "name": "Ponthai"
+                        },
+                        {
+                          "name": "Tutsa Naga"
+                        }
+                      ],
+                      "name": "Tutsic"
+                    }
+                  ],
+                  "name": "Noctean"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Pangwa Naga"
+                    },
+                    {
+                      "name": "Tikhakic"
+                    }
+                  ],
+                  "name": "Tangsa"
+                }
+              ],
+              "name": "North Patkaian"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Khiamniungan Naga"
+                            },
+                            {
+                              "name": "Pounyiu-Gongvan Naga"
+                            }
+                          ],
+                          "name": "Khiamniungic"
+                        },
+                        {
+                          "name": "Lainong Naga"
+                        }
+                      ],
+                      "name": "Lainongic"
+                    },
+                    {
+                      "name": "Makyam-Kuku Naga"
+                    }
+                  ],
+                  "name": "Southeastern Patkaian"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Chang Naga"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Konyak Naga"
+                            },
+                            {
+                              "name": "Phom Naga"
+                            }
+                          ],
+                          "name": "Konyak-Phom"
+                        }
+                      ],
+                      "name": "Chang-Phom-Konyak"
+                    },
+                    {
+                      "name": "Lao Naga"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Chen Naga"
+                        },
+                        {
+                          "name": "Wancho Naga"
+                        }
+                      ],
+                      "name": "Wanchoic"
+                    }
+                  ],
+                  "name": "Southwestern Patkaian"
+                }
+              ],
+              "name": "South Patkaian"
+            }
+          ],
+          "name": "Patkaian"
+        },
+        {
+          "children": [
+            {
+              "name": "Chairel"
+            }
+          ],
+          "name": "Unclassified Brahmaputran"
+        }
+      ],
+      "name": "Brahmaputran"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Hpon"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Chashan"
+                            },
+                            {
+                              "name": "Lashi"
+                            }
+                          ],
+                          "name": "Leqic"
+                        },
+                        {
+                          "name": "Maru"
+                        },
+                        {
+                          "name": "Pela"
+                        },
+                        {
+                          "name": "Zaiwa"
+                        }
+                      ],
+                      "name": "Maruic"
+                    }
+                  ],
+                  "name": "Northern Burmish"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Lianghe Achang"
+                        },
+                        {
+                          "name": "Longchuan Achang"
+                        },
+                        {
+                          "name": "Luxi Achang"
+                        },
+                        {
+                          "name": "Ngochang"
+                        }
+                      ],
+                      "name": "Achangic"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Intha-Danu"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "name": "Marma"
+                                },
+                                {
+                                  "name": "Rakhine"
+                                }
+                              ],
+                              "name": "Arakanese-Marma"
+                            },
+                            {
+                              "name": "Burmese"
+                            },
+                            {
+                              "name": "Old Burmese"
+                            },
+                            {
+                              "name": "Tavoyan"
+                            }
+                          ],
+                          "name": "Nuclear Mranmaic"
+                        },
+                        {
+                          "name": "Taungyo"
+                        }
+                      ],
+                      "name": "Mranmaic"
+                    }
+                  ],
+                  "name": "Southern Burmish"
+                }
+              ],
+              "name": "Burmish"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "name": "Bisu"
+                                },
+                                {
+                                  "name": "Laomian"
+                                },
+                                {
+                                  "name": "Pyen"
+                                }
+                              ],
+                              "name": "Bisu-Pyen-Laomian"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Côông"
+                                },
+                                {
+                                  "name": "Phunoi"
+                                }
+                              ],
+                              "name": "Phunoi-Coong"
+                            },
+                            {
+                              "name": "Sangkong"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Bantang"
+                                },
+                                {
+                                  "name": "Cauho"
+                                }
+                              ],
+                              "name": "Unclassified Bisoid"
+                            }
+                          ],
+                          "name": "Bisoid"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "name": "Biyo"
+                                },
+                                {
+                                  "name": "Enu"
+                                },
+                                {
+                                  "name": "Kaduo"
+                                },
+                                {
+                                  "name": "Mpi"
+                                }
+                              ],
+                              "name": "Bi-Ka"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "name": "Akeu"
+                                        },
+                                        {
+                                          "name": "Luma"
+                                        }
+                                      ],
+                                      "name": "Akeuic"
+                                    },
+                                    {
+                                      "name": "Akha"
+                                    },
+                                    {
+                                      "name": "Chepya"
+                                    },
+                                    {
+                                      "name": "Muda"
+                                    }
+                                  ],
+                                  "name": "Akhaic"
+                                },
+                                {
+                                  "name": "Hani"
+                                }
+                              ],
+                              "name": "Ha-Ya"
+                            },
+                            {
+                              "name": "Honi"
+                            }
+                          ],
+                          "name": "Hanic"
+                        },
+                        {
+                          "name": "Phana'"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Cosao"
+                            },
+                            {
+                              "name": "Sila"
+                            }
+                          ],
+                          "name": "Sila-Wanya-Cosao"
+                        }
+                      ],
+                      "name": "Bisoid-Hanic"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Buyuan Jinuo"
+                        },
+                        {
+                          "name": "Youle Jinuo"
+                        }
+                      ],
+                      "name": "Jino"
+                    }
+                  ],
+                  "name": "Hani-Jino"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Kucong"
+                    },
+                    {
+                      "name": "Lahu"
+                    },
+                    {
+                      "name": "Lahu Shi"
+                    }
+                  ],
+                  "name": "Lahoid"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Katso"
+                        },
+                        {
+                          "name": "Sadu"
+                        },
+                        {
+                          "name": "Samatao"
+                        }
+                      ],
+                      "name": "Kazhouish"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Awu"
+                        },
+                        {
+                          "name": "Lawu"
+                        }
+                      ],
+                      "name": "Lawoish"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "name": "Lipo"
+                                },
+                                {
+                                  "name": "Miqie"
+                                }
+                              ],
+                              "name": "Lipo-Micha"
+                            },
+                            {
+                              "name": "Lolopo"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Hlersu"
+                                },
+                                {
+                                  "name": "Limi"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Mili"
+                                    },
+                                    {
+                                      "name": "Southern Lolopo"
+                                    }
+                                  ],
+                                  "name": "Southwestern Lolo"
+                                }
+                              ],
+                              "name": "Unclassified Lipo-Lolopo"
+                            }
+                          ],
+                          "name": "Lipo-Lolopo"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "name": "Kua-nsi"
+                                            },
+                                            {
+                                              "name": "Kuamasi"
+                                            }
+                                          ],
+                                          "name": "Kuansi-Kuamasi"
+                                        },
+                                        {
+                                          "name": "Sonaga"
+                                        }
+                                      ],
+                                      "name": "Kuansi-Kuamasi-Sonaga"
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "name": "Eka"
+                                        },
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "name": "Western Lalu"
+                                                    },
+                                                    {
+                                                      "name": "Xishanba Lalo"
+                                                    }
+                                                  ],
+                                                  "name": "Central-Western Lalo"
+                                                },
+                                                {
+                                                  "name": "Dongshanba Lalo"
+                                                },
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "name": "Eastern Lalu"
+                                                    }
+                                                  ],
+                                                  "name": "Unclassified Core Lalu"
+                                                }
+                                              ],
+                                              "name": "Core Lalo"
+                                            },
+                                            {
+                                              "name": "Xuzhang Lalo"
+                                            }
+                                          ],
+                                          "name": "Greater Lalo"
+                                        },
+                                        {
+                                          "name": "Southern Lalo"
+                                        },
+                                        {
+                                          "name": "Yangliu"
+                                        }
+                                      ],
+                                      "name": "Lalo"
+                                    },
+                                    {
+                                      "name": "Lavu-Yongsheng-Talu"
+                                    }
+                                  ],
+                                  "name": "Laluba-Lavu"
+                                },
+                                {
+                                  "name": "Lisu"
+                                }
+                              ],
+                              "name": "Lisu-Laluba-Lavu"
+                            },
+                            {
+                              "name": "Tanglang-Toloza"
+                            }
+                          ],
+                          "name": "Nuclear Lisoid"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Lamu"
+                            },
+                            {
+                              "name": "Naluo Yi"
+                            },
+                            {
+                              "name": "Samatu"
+                            }
+                          ],
+                          "name": "Unclassified Lisoid"
+                        }
+                      ],
+                      "name": "Lisoid"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Azha"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Sani"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Axi Yi"
+                                    },
+                                    {
+                                      "name": "Azhe"
+                                    }
+                                  ],
+                                  "name": "Sani-Axi"
+                                }
+                              ],
+                              "name": "Sani-Axi-Azhe"
+                            }
+                          ],
+                          "name": "Axioid"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Laghuu"
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "children": [
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "name": "Bokha"
+                                                    },
+                                                    {
+                                                      "name": "Phuma"
+                                                    }
+                                                  ],
+                                                  "name": "Bokha-Phuma"
+                                                },
+                                                {
+                                                  "name": "Muzi"
+                                                },
+                                                {
+                                                  "children": [
+                                                    {
+                                                      "name": "Northern Muji"
+                                                    },
+                                                    {
+                                                      "name": "Southern Muji"
+                                                    }
+                                                  ],
+                                                  "name": "Northern-Southern Muji"
+                                                }
+                                              ],
+                                              "name": "Nuclear Core Muji"
+                                            },
+                                            {
+                                              "name": "Qila Muji"
+                                            }
+                                          ],
+                                          "name": "Core Muji"
+                                        },
+                                        {
+                                          "name": "Thopho"
+                                        }
+                                      ],
+                                      "name": "Thopho-Core Muji"
+                                    }
+                                  ],
+                                  "name": "Laghuu-Core Muji"
+                                },
+                                {
+                                  "name": "Moji"
+                                }
+                              ],
+                              "name": "Muji"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Ani Phowa"
+                                    },
+                                    {
+                                      "name": "Labo Phowa"
+                                    }
+                                  ],
+                                  "name": "Ani-Labo"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Hlepho Phowa"
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "name": "Khlula"
+                                        },
+                                        {
+                                          "name": "Zokhuo"
+                                        }
+                                      ],
+                                      "name": "Khlula-Zokhuo"
+                                    },
+                                    {
+                                      "name": "Phukha"
+                                    }
+                                  ],
+                                  "name": "Hlepho-Phukha"
+                                }
+                              ],
+                              "name": "Phowa"
+                            }
+                          ],
+                          "name": "Highland Phula"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Far Northwestern Nisu"
+                                    },
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "name": "North-Central Nisu"
+                                            },
+                                            {
+                                              "name": "Northwestern Nisu"
+                                            }
+                                          ],
+                                          "name": "Northern Nisu"
+                                        },
+                                        {
+                                          "name": "Southern Nisu"
+                                        }
+                                      ],
+                                      "name": "Nuclear Nisu"
+                                    }
+                                  ],
+                                  "name": "Nisu"
+                                },
+                                {
+                                  "name": "Nyisu"
+                                }
+                              ],
+                              "name": "Nisu-Nyisu"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "children": [
+                                        {
+                                          "children": [
+                                            {
+                                              "name": "Gepo"
+                                            },
+                                            {
+                                              "name": "Samei"
+                                            },
+                                            {
+                                              "name": "Sanie"
+                                            },
+                                            {
+                                              "children": [
+                                                {
+                                                  "name": "Ayizi"
+                                                },
+                                                {
+                                                  "name": "Chesu"
+                                                }
+                                              ],
+                                              "name": "Unclassified Nasu-Gepu"
+                                            },
+                                            {
+                                              "name": "Wuding-Luquan Yi"
+                                            }
+                                          ],
+                                          "name": "Nasu-Gepu"
+                                        },
+                                        {
+                                          "children": [
+                                            {
+                                              "name": "Wumeng Nasu"
+                                            },
+                                            {
+                                              "name": "Wusa Nasu"
+                                            }
+                                          ],
+                                          "name": "Nesu"
+                                        }
+                                      ],
+                                      "name": "Nesu-Nasu"
+                                    },
+                                    {
+                                      "name": "Sichuan Yi"
+                                    }
+                                  ],
+                                  "name": "Nasu-Nosu"
+                                },
+                                {
+                                  "name": "Southern Awu (Lope)"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Aluo"
+                                    }
+                                  ],
+                                  "name": "Unclassified Nuclear Nisoid"
+                                }
+                              ],
+                              "name": "Nuclear Nisoid"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Ache"
+                                }
+                              ],
+                              "name": "Unclassified Nisoid"
+                            }
+                          ],
+                          "name": "Nisoid"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Phupa"
+                                    },
+                                    {
+                                      "name": "Phuza"
+                                    }
+                                  ],
+                                  "name": "Phupa-Phuza"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Alugu"
+                                    },
+                                    {
+                                      "name": "Phupha"
+                                    }
+                                  ],
+                                  "name": "Phupha-Alugu"
+                                }
+                              ],
+                              "name": "Downriver Riverine Phula"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Phala"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "name": "Alo Phola"
+                                    },
+                                    {
+                                      "name": "Phola"
+                                    }
+                                  ],
+                                  "name": "Pholic"
+                                }
+                              ],
+                              "name": "Upriver Riverine Phula"
+                            }
+                          ],
+                          "name": "Riverine Phula"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Nisi (China)"
+                            }
+                          ],
+                          "name": "Unclassified Southeastern Ngwi"
+                        }
+                      ],
+                      "name": "Southeastern Ngwi"
+                    }
+                  ],
+                  "name": "Ni-Li-Kazhouish"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Nusu"
+                    },
+                    {
+                      "name": "Zauzou"
+                    }
+                  ],
+                  "name": "Nusoish"
+                },
+                {
+                  "name": "Pholo"
+                }
+              ],
+              "name": "Loloish"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Maang"
+                    },
+                    {
+                      "name": "Mango (China)"
+                    },
+                    {
+                      "name": "Maza"
+                    },
+                    {
+                      "name": "Muangphe"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Mantsi"
+                        },
+                        {
+                          "name": "Mondzi"
+                        }
+                      ],
+                      "name": "Munji-Mantsi"
+                    }
+                  ],
+                  "name": "Nuclear Mondzish"
+                },
+                {
+                  "name": "Thou-Kathu"
+                }
+              ],
+              "name": "Mondzish"
+            },
+            {
+              "name": "Ugong"
+            },
+            {
+              "children": [
+                {
+                  "name": "Pai-lang"
+                }
+              ],
+              "name": "Unclassified Lolo-Burmese"
+            }
+          ],
+          "name": "Lolo-Burmese"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Ersu"
+                },
+                {
+                  "name": "Lizu"
+                },
+                {
+                  "name": "Tosu"
+                }
+              ],
+              "name": "Ersuic"
+            },
+            {
+              "name": "Guiqiong"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Laze"
+                    },
+                    {
+                      "name": "Narua"
+                    },
+                    {
+                      "name": "Naxi"
+                    }
+                  ],
+                  "name": "Naish"
+                },
+                {
+                  "name": "Namuyi"
+                },
+                {
+                  "name": "Shixing"
+                }
+              ],
+              "name": "Naic"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Japhug"
+                            },
+                            {
+                              "name": "Tshobdun"
+                            },
+                            {
+                              "name": "Zbu"
+                            }
+                          ],
+                          "name": "Northern Gyalrong"
+                        },
+                        {
+                          "name": "Situ"
+                        }
+                      ],
+                      "name": "Core Gyalrong"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Stau-Dgebshes"
+                            },
+                            {
+                              "name": "Stodsde"
+                            },
+                            {
+                              "name": "Tangut"
+                            }
+                          ],
+                          "name": "Horpa"
+                        },
+                        {
+                          "name": "Khroskyabs"
+                        }
+                      ],
+                      "name": "West Gyalrongic"
+                    }
+                  ],
+                  "name": "Gyalrongic"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Eastern Muya"
+                    },
+                    {
+                      "name": "Western Muya"
+                    }
+                  ],
+                  "name": "Muya"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Northern Pumi"
+                    },
+                    {
+                      "name": "Southern Pumi"
+                    }
+                  ],
+                  "name": "Pumi"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Southern Qiang"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Northern Qiang"
+                        },
+                        {
+                          "name": "Southeast Maoxian Qiang"
+                        }
+                      ],
+                      "name": "Upstream-Nu Qiang"
+                    }
+                  ],
+                  "name": "Qiang"
+                },
+                {
+                  "name": "Queyu"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Drag-yab"
+                        },
+                        {
+                          "name": "Lamo"
+                        },
+                        {
+                          "name": "Zlarong"
+                        }
+                      ],
+                      "name": "Chamdoic"
+                    }
+                  ],
+                  "name": "Unclassified Qiangic"
+                },
+                {
+                  "name": "Zhaba"
+                }
+              ],
+              "name": "Qiangic"
+            }
+          ],
+          "name": "Na-Qiangic"
+        },
+        {
+          "children": [
+            {
+              "name": "Northern Tujia"
+            },
+            {
+              "name": "Southern Tujia"
+            }
+          ],
+          "name": "Tujia"
+        }
+      ],
+      "name": "Burmo-Qiangic"
+    },
+    {
+      "children": [
+        {
+          "name": "Dhimal"
+        },
+        {
+          "name": "Lhokpu"
+        },
+        {
+          "name": "Toto"
+        }
+      ],
+      "name": "Dhimal-Lhokpu-Toto"
+    },
+    {
+      "children": [
+        {
+          "name": "Idu"
+        },
+        {
+          "name": "Tawra"
+        }
+      ],
+      "name": "Digarish"
+    },
+    {
+      "name": "Gongduk"
+    },
+    {
+      "children": [
+        {
+          "name": "Lepcha"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Bujhyal"
+                    },
+                    {
+                      "name": "Chepang"
+                    }
+                  ],
+                  "name": "Chepangic"
+                },
+                {
+                  "name": "Dura"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Gamale Kham"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Eastern Parbate Kham"
+                            },
+                            {
+                              "name": "Western Parbate Kham"
+                            }
+                          ],
+                          "name": "Parbate Kham"
+                        }
+                      ],
+                      "name": "Gamale-Parbate"
+                    },
+                    {
+                      "name": "Sheshi Kham"
+                    }
+                  ],
+                  "name": "Kham"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Eastern Magar"
+                    },
+                    {
+                      "name": "Western Magar"
+                    }
+                  ],
+                  "name": "Magar"
+                }
+              ],
+              "name": "Kham-Magar-Chepang"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Jerung"
+                    },
+                    {
+                      "name": "Wambule"
+                    }
+                  ],
+                  "name": "Chaurasiya"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Kulung (Nepal)"
+                            },
+                            {
+                              "name": "Nachering"
+                            }
+                          ],
+                          "name": "Kulungic"
+                        },
+                        {
+                          "name": "Sampang"
+                        }
+                      ],
+                      "name": "Khambu"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Bantawa"
+                            },
+                            {
+                              "name": "Waling"
+                            }
+                          ],
+                          "name": "Bantawic"
+                        },
+                        {
+                          "name": "Camling"
+                        },
+                        {
+                          "name": "Dungmali"
+                        },
+                        {
+                          "name": "Puma"
+                        }
+                      ],
+                      "name": "Southern Kiranti"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Chhulung"
+                        },
+                        {
+                          "name": "Chintang"
+                        },
+                        {
+                          "name": "Limbu"
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "name": "Athpariya"
+                                },
+                                {
+                                  "name": "Belhariya"
+                                }
+                              ],
+                              "name": "Athpariyic"
+                            },
+                            {
+                              "name": "Yakkha"
+                            }
+                          ],
+                          "name": "Yakkha-Athpariyic"
+                        }
+                      ],
+                      "name": "Tamar"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Lohorung"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Southern Yamphu"
+                                },
+                                {
+                                  "name": "Yamphu"
+                                }
+                              ],
+                              "name": "Yamphuic"
+                            }
+                          ],
+                          "name": "Lohorung-Yamphu"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Eastern Mewahang"
+                            },
+                            {
+                              "name": "Western Mewahang"
+                            }
+                          ],
+                          "name": "Mewahang"
+                        }
+                      ],
+                      "name": "Upper Arun"
+                    }
+                  ],
+                  "name": "Eastern Kiranti"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Bahing"
+                        },
+                        {
+                          "name": "Sunwar"
+                        }
+                      ],
+                      "name": "Bahing-Sunwar"
+                    },
+                    {
+                      "name": "Wayu"
+                    }
+                  ],
+                  "name": "Northwestern Kiranti"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Koi"
+                    },
+                    {
+                      "name": "Thulung"
+                    },
+                    {
+                      "name": "Tilung"
+                    }
+                  ],
+                  "name": "Thulung-Tilung-Koyi"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Dumi"
+                    },
+                    {
+                      "name": "Khaling"
+                    }
+                  ],
+                  "name": "Upper Dudhkosi"
+                }
+              ],
+              "name": "Kiranti"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Eastern Newari"
+                    },
+                    {
+                      "name": "Kathmandu Valley Newari"
+                    },
+                    {
+                      "name": "Pahari Newari"
+                    }
+                  ],
+                  "name": "Newar"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Baraamu"
+                    },
+                    {
+                      "name": "Thangmi"
+                    }
+                  ],
+                  "name": "Thangmi-Baram"
+                }
+              ],
+              "name": "Newaric"
+            }
+          ],
+          "name": "Mahakiranti"
+        }
+      ],
+      "name": "Himalayish"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Bwe Karen"
+                },
+                {
+                  "name": "Geba Karen"
+                }
+              ],
+              "name": "Geba-Bwe"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Eastern Kayah"
+                    },
+                    {
+                      "name": "Western Kayah"
+                    }
+                  ],
+                  "name": "Kayah"
+                },
+                {
+                  "name": "Yintale Karen"
+                }
+              ],
+              "name": "Kayah-Yintale"
+            },
+            {
+              "children": [
+                {
+                  "name": "Brek Karen"
+                },
+                {
+                  "name": "Manumanaw Karen"
+                }
+              ],
+              "name": "Kayaw-Manu"
+            },
+            {
+              "name": "Mobwa Karen"
+            }
+          ],
+          "name": "Central Karen"
+        },
+        {
+          "children": [
+            {
+              "name": "Geko Karen"
+            },
+            {
+              "name": "Kayan Lahwi"
+            },
+            {
+              "name": "Lahta-Zayein Karen"
+            },
+            {
+              "name": "Yinbaw Karen"
+            }
+          ],
+          "name": "Northern Karen"
+        },
+        {
+          "children": [
+            {
+              "name": "Pa'o Karen"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Pwo Eastern Karen"
+                    },
+                    {
+                      "name": "Pwo Western Karen"
+                    }
+                  ],
+                  "name": "Eastern-Western Pwo Karen"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Phrae Pwo Karen"
+                    },
+                    {
+                      "name": "Pwo Northern Karen"
+                    }
+                  ],
+                  "name": "Northern Pwo Karen"
+                }
+              ],
+              "name": "Pwo"
+            }
+          ],
+          "name": "Peripheral Karen"
+        },
+        {
+          "children": [
+            {
+              "name": "Paku Karen"
+            },
+            {
+              "children": [
+                {
+                  "name": "S'gaw Karen"
+                },
+                {
+                  "name": "Wewaw"
+                }
+              ],
+              "name": "Sgaw"
+            }
+          ],
+          "name": "Southern Karen"
+        }
+      ],
+      "name": "Karenic"
+    },
+    {
+      "children": [
+        {
+          "name": "Bugun"
+        },
+        {
+          "children": [
+            {
+              "name": "Eastern Puroik"
+            },
+            {
+              "name": "Western Puroik"
+            }
+          ],
+          "name": "Puroikic"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Duhumbi"
+                },
+                {
+                  "name": "Khispi"
+                }
+              ],
+              "name": "Chug-Lish"
+            },
+            {
+              "children": [
+                {
+                  "name": "Sartang"
+                },
+                {
+                  "name": "Sherdukpen"
+                }
+              ],
+              "name": "Sartang-Sherdukpen"
+            }
+          ],
+          "name": "Western Kho-Bwa"
+        }
+      ],
+      "name": "Kho-Bwa"
+    },
+    {
+      "children": [
+        {
+          "name": "Kman"
+        },
+        {
+          "name": "Zakhring"
+        }
+      ],
+      "name": "Kman-Meyor"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Angami Naga"
+                        },
+                        {
+                          "name": "Chokri Naga"
+                        }
+                      ],
+                      "name": "Angami-Chokri"
+                    },
+                    {
+                      "name": "Khezha Naga"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Mao Naga"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Oinam"
+                            },
+                            {
+                              "name": "Poumei Naga"
+                            }
+                          ],
+                          "name": "Poumaic"
+                        }
+                      ],
+                      "name": "Naga Maoic"
+                    }
+                  ],
+                  "name": "Angami-Mao"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Northern Rengma Naga"
+                    },
+                    {
+                      "name": "Pochuri Naga"
+                    }
+                  ],
+                  "name": "Pochuri-Northern Rengma"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Southern Rengma Naga"
+                    },
+                    {
+                      "name": "Sumi Naga"
+                    }
+                  ],
+                  "name": "Rengma-Simi"
+                }
+              ],
+              "name": "Angami-Pochuri"
+            },
+            {
+              "children": [
+                {
+                  "name": "Ao Naga"
+                },
+                {
+                  "name": "Lotha Naga"
+                },
+                {
+                  "name": "Sangtam Naga"
+                },
+                {
+                  "name": "Wui"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Jejara Naga"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Long Phuri Naga"
+                        },
+                        {
+                          "name": "Makuri Naga"
+                        }
+                      ],
+                      "name": "Makuric"
+                    },
+                    {
+                      "name": "Yimchungru Naga"
+                    }
+                  ],
+                  "name": "Yimchingric"
+                }
+              ],
+              "name": "Central Naga"
+            }
+          ],
+          "name": "Angami-Ao"
+        },
+        {
+          "children": [
+            {
+              "name": "Amri Karbi"
+            },
+            {
+              "name": "Hills Karbi"
+            }
+          ],
+          "name": "Karbic"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Laamtuk Thet"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Bawm Chin"
+                            },
+                            {
+                              "name": "Bualkhaw Chin"
+                            },
+                            {
+                              "name": "Falam Chin"
+                            }
+                          ],
+                          "name": "Falamic"
+                        },
+                        {
+                          "name": "Haka Chin"
+                        }
+                      ],
+                      "name": "Lai Chin"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Darlong"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Biete"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "name": "Hmar"
+                                },
+                                {
+                                  "name": "Syriem"
+                                }
+                              ],
+                              "name": "Hmar-Saihriem"
+                            },
+                            {
+                              "name": "Hrangkhol"
+                            },
+                            {
+                              "name": "Sakachep-Chorei"
+                            }
+                          ],
+                          "name": "Hmaric"
+                        },
+                        {
+                          "name": "Mizo"
+                        }
+                      ],
+                      "name": "Mizoic"
+                    },
+                    {
+                      "name": "Pangkhua"
+                    }
+                  ],
+                  "name": "Core Central Kuki-Chin"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Lautu"
+                        },
+                        {
+                          "name": "Mara Chin"
+                        },
+                        {
+                          "name": "Shendu"
+                        },
+                        {
+                          "name": "Zyphe"
+                        }
+                      ],
+                      "name": "Nuclear Maraic"
+                    },
+                    {
+                      "name": "Senthang Chin"
+                    },
+                    {
+                      "name": "Zotung Chin"
+                    }
+                  ],
+                  "name": "Maraic"
+                }
+              ],
+              "name": "Central Kuki-Chin"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Anal"
+                    },
+                    {
+                      "name": "Lamkang"
+                    }
+                  ],
+                  "name": "Anal-Lamgang"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Aimol"
+                    },
+                    {
+                      "name": "Chiru"
+                    },
+                    {
+                      "name": "Purum"
+                    }
+                  ],
+                  "name": "Central Old Kuki"
+                },
+                {
+                  "name": "Halam"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Kharam Naga"
+                    },
+                    {
+                      "name": "Koireng"
+                    },
+                    {
+                      "name": "Kom (India)"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Chothe"
+                        },
+                        {
+                          "name": "Tarao"
+                        }
+                      ],
+                      "name": "Tarao-Chothe"
+                    }
+                  ],
+                  "name": "Kolhrengic"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Monsang Naga"
+                    },
+                    {
+                      "name": "Moyon"
+                    }
+                  ],
+                  "name": "Moyon-Monsang Naga"
+                },
+                {
+                  "name": "Sorbung"
+                }
+              ],
+              "name": "Northwestern Kuki-Chin"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Eastern Khumi Chin"
+                    },
+                    {
+                      "name": "Khumi Chin"
+                    },
+                    {
+                      "name": "Mro Chin"
+                    },
+                    {
+                      "name": "Rengmitca"
+                    }
+                  ],
+                  "name": "Khomic"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Gangte"
+                            },
+                            {
+                              "name": "Vaiphei"
+                            }
+                          ],
+                          "name": "Gangte-Vaiphei"
+                        },
+                        {
+                          "name": "Ngawn Chin"
+                        },
+                        {
+                          "name": "Simte"
+                        },
+                        {
+                          "name": "Sizang Chin"
+                        },
+                        {
+                          "name": "Zou"
+                        }
+                      ],
+                      "name": "Sizangic"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Paite Chin"
+                        },
+                        {
+                          "name": "Ralte"
+                        },
+                        {
+                          "name": "Tedim Chin"
+                        },
+                        {
+                          "name": "Thado Chin"
+                        }
+                      ],
+                      "name": "Thadoic"
+                    }
+                  ],
+                  "name": "Northeastern Kuki-Chin"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Asho Chin"
+                        },
+                        {
+                          "name": "Sumtu Chin"
+                        }
+                      ],
+                      "name": "Ashoic"
+                    },
+                    {
+                      "children": [
+                        {
+                          "name": "Chinbon Chin"
+                        },
+                        {
+                          "children": [
+                            {
+                              "name": "Daai Chin"
+                            },
+                            {
+                              "name": "Kaang Chin"
+                            },
+                            {
+                              "name": "Mün Chin"
+                            }
+                          ],
+                          "name": "Daai-Nghmoye-Muun-Kaang"
+                        },
+                        {
+                          "name": "Nga La"
+                        }
+                      ],
+                      "name": "Choic"
+                    }
+                  ],
+                  "name": "South Peripheral Kuki-Chin"
+                }
+              ],
+              "name": "Peripheral Kuki-Chin"
+            }
+          ],
+          "name": "Kuki-Chin"
+        },
+        {
+          "name": "Manipuri"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Khoibu"
+                },
+                {
+                  "name": "Maring Naga"
+                }
+              ],
+              "name": "Maringic"
+            },
+            {
+              "children": [
+                {
+                  "name": "Challow"
+                },
+                {
+                  "name": "East Tusom"
+                },
+                {
+                  "name": "Kongai"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "East-Central Tangkhul Naga"
+                    },
+                    {
+                      "name": "Lairamlo"
+                    },
+                    {
+                      "name": "North-Central Tangkhul Naga"
+                    },
+                    {
+                      "name": "Northern Tangkhul Naga"
+                    },
+                    {
+                      "name": "Southern Tangkhul Naga"
+                    }
+                  ],
+                  "name": "Nuclear Tangkhulic"
+                },
+                {
+                  "name": "Suansu"
+                }
+              ],
+              "name": "Tangkhulic"
+            }
+          ],
+          "name": "Tangkhul-Maring"
+        },
+        {
+          "children": [
+            {
+              "name": "Inpui Naga"
+            },
+            {
+              "name": "Maram Naga"
+            },
+            {
+              "children": [
+                {
+                  "name": "Liangmai Naga"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Mzieme Naga"
+                    },
+                    {
+                      "name": "Zeme Naga"
+                    }
+                  ],
+                  "name": "Mzieme-Zeme"
+                }
+              ],
+              "name": "Nuclear Zemeic"
+            },
+            {
+              "name": "Rongmei Naga"
+            },
+            {
+              "name": "Thangal Naga"
+            }
+          ],
+          "name": "Zemeic"
+        }
+      ],
+      "name": "Kuki-Chin-Naga"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Northern Bai"
+            },
+            {
+              "children": [
+                {
+                  "name": "Central Bai"
+                },
+                {
+                  "name": "Southern Bai"
+                }
+              ],
+              "name": "South-Central Bai"
+            }
+          ],
+          "name": "Baic"
+        },
+        {
+          "children": [
+            {
+              "name": "Caijia"
+            },
+            {
+              "children": [
+                {
+                  "name": "Longjia"
+                },
+                {
+                  "name": "Luren"
+                }
+              ],
+              "name": "Longjia-Luren"
+            }
+          ],
+          "name": "Ta-Li"
+        }
+      ],
+      "name": "Macro-Bai"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Koro"
+            },
+            {
+              "name": "Milang"
+            }
+          ],
+          "name": "Koro-Holon"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Bori-Karko"
+                },
+                {
+                  "name": "Mising-Padam-Miri-Minyong"
+                }
+              ],
+              "name": "Eastern Tani"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Damu"
+                    },
+                    {
+                      "name": "Tangam"
+                    }
+                  ],
+                  "name": "Damu-Tangam"
+                },
+                {
+                  "children": [
+                    {
+                      "name": "Apatani"
+                    },
+                    {
+                      "name": "Bokar-Ramo"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "name": "Na"
+                            },
+                            {
+                              "name": "Tagin"
+                            }
+                          ],
+                          "name": "Bangni-Tagin"
+                        },
+                        {
+                          "name": "Galo"
+                        },
+                        {
+                          "name": "Nyishi-Hill Miri"
+                        }
+                      ],
+                      "name": "Subansiri"
+                    }
+                  ],
+                  "name": "Western Tani"
+                }
+              ],
+              "name": "Pre-Western Tani"
+            }
+          ],
+          "name": "Tani"
+        }
+      ],
+      "name": "Macro-Tani"
+    },
+    {
+      "children": [
+        {
+          "name": "Bangru"
+        },
+        {
+          "name": "Sajolang"
+        }
+      ],
+      "name": "Miji"
+    },
+    {
+      "children": [
+        {
+          "name": "Anu-Hkongso"
+        },
+        {
+          "name": "Mru"
+        }
+      ],
+      "name": "Mruic"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Drung"
+            },
+            {
+              "name": "Nung (Myanmar)"
+            }
+          ],
+          "name": "Gunong"
+        },
+        {
+          "name": "Rawang"
+        }
+      ],
+      "name": "Nungish"
+    },
+    {
+      "name": "Olekha"
+    },
+    {
+      "children": [
+        {
+          "name": "Raji"
+        },
+        {
+          "children": [
+            {
+              "name": "Raute"
+            },
+            {
+              "name": "Rawat"
+            }
+          ],
+          "name": "Raute-Rawat"
+        }
+      ],
+      "name": "Raji-Raute"
+    },
+    {
+      "name": "Sinitic",
+      "children": [
+        {
+          "name": "Old Chinese"
+        },
+        {
+          "name": "Waxianghua"
+        },
+        {
+          "name": "Classical Sinitic",
+          "children": [
+            {
+              "name": "Eastern Han Chinese"
+            },
+            {
+              "name": "Classical Chinese"
+            },
+            {
+              "name": "Min",
+              "children": [
+                {
+                  "name": "Coastal Min",
+                  "children": [
+                    {
+                      "name": "Mindong Chinese"
+                    },
+                    {
+                      "name": "Puxian Chinese"
+                    },
+                    {
+                      "name": "Southern Min",
+                      "children": [
+                        {
+                          "name": "Classical Minnan Chinese"
+                        },
+                        {
+                          "name": "Qiong-Rei Chinese"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Inland Min",
+                  "children": [
+                    {
+                      "name": "Minzhong Chinese"
+                    },
+                    {
+                      "name": "Northern Min",
+                      "children": [
+                        {
+                          "name": "Shaojiang Min"
+                        },
+                        {
+                          "name": "Minbei Chinese"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Middle Modern Sinitic",
+              "children": [
+                {
+                  "name": "Late Middle Sinitic",
+                  "children": [
+                    {
+                      "name": "Rhyme Tables Chinese"
+                    },
+                    {
+                      "name": "Hakka-Gan",
+                      "children": [
+                        {
+                          "name": "Hakka Chinese"
+                        },
+                        {
+                          "name": "Gan Chinese"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Xiang",
+                      "children": [
+                        {
+                          "name": "Old Xiang"
+                        },
+                        {
+                          "name": "New Xiang"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Yue"
+                    },
+                    {
+                      "name": "Guibei Pinghua"
+                    },
+                    {
+                      "name": "Mandarinic",
+                      "children": [
+                        {
+                          "name": "Mandarin Chinese"
+                        },
+                        {
+                          "name": "Jianghuai Chinese"
+                        },
+                        {
+                          "name": "Jinyu Chinese"
+                        },
+                        {
+                          "name": "Dungan Chinese"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Qieyun Chinese"
+                },
+                {
+                  "name": "Macro-Wu",
+                  "children": [
+                    {
+                      "name": "Wu",
+                      "children": [
+                        {
+                          "name": "Wu Chinese"
+                        },
+                        {
+                          "name": "Chuqu Chinese"
+                        },
+                        {
+                          "name": "Oujiang Chinese"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Huizhou"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "children": [
+        {
+          "name": "Nam"
+        }
+      ],
+      "name": "Unclassified Sino-Tibetan"
+    }
+  ]
+}
