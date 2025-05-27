@@ -32,9 +32,9 @@
             {
               "name": "Macro-Kunigami",
               "children": [
-                { "name": "Kunigami (Northern Okinawa)", "children": [] },
-                { "name": "Central Kunigami", "children": [] },
-                { "name": "Southern Kunigami", "children": [] }
+                { "name": "Kunigami", "children": [] },
+                { "name": "Okinoerabu", "children": [] },
+                { "name": "Yoron", "children": [] }
               ]
             },
             {
