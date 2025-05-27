@@ -38,7 +38,7 @@ Suggestions, corrections, and contributions are welcome!
 -  Structured data in JSON
 
 
-
+![Books](https://www.publishcentral.com.au/wp-content/uploads/2023/05/book-pile-of-must-read-books-scaled1.jpeg)
 
 
 
