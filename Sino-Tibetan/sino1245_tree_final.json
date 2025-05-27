@@ -15,7 +15,7 @@
                   "size": 1
                 }
               ],
-              "name": "Dakpa-Dzala [dakp1241] (2)",
+              "name": "Dakpa-Dzala [dakp1241] ",
               "size": 2
             },
             {
@@ -43,7 +43,7 @@
                                       "size": 1
                                     }
                                   ],
-                                  "name": "Dolpo-Tichurong [dolp1238] (2)",
+                                  "name": "Dolpo-Tichurong ",
                                   "size": 2
                                 },
                                 {
@@ -55,7 +55,7 @@
                                     {
                                       "children": [
                                         {
-                                          "name": "Gyalsumdo-Nubri [nubr1241]",
+                                          "name": "Gyalsumdo-Nubri ",
                                           "size": 1
                                         },
                                         {
@@ -63,11 +63,11 @@
                                           "size": 1
                                         }
                                       ],
-                                      "name": "Gyalsumdo-Nubri-Kyirong [gyal1235] (2)",
+                                      "name": "Gyalsumdo-Nubri-Kyirong ",
                                       "size": 2
                                     },
                                     {
-                                      "name": "Tsum [tsum1240]",
+                                      "name": "Tsum",
                                       "size": 1
                                     },
                                     {
@@ -81,11 +81,11 @@
                                           "size": 1
                                         }
                                       ],
-                                      "name": "Yolmo-Kagate [yolm1234] (2)",
+                                      "name": "Yolmo-Kagate ",
                                       "size": 2
                                     }
                                   ],
-                                  "name": "Kyirong-Kagate [kyir1235] (5)",
+                                  "name": "Kyirong-Kagate",
                                   "size": 5
                                 },
                                 {
