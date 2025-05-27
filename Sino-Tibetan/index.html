@@ -116,7 +116,7 @@ ul.tree li:before{
 /* ▸▾ tree builder  */
 const JSON_FILE="sino.json";   // change if needed
 fetch(JSON_FILE).then(r=>r.json()).then(data=>{
-  document.getElementById("total-count").textContent="("+countLeaves(data)+")";
+  
   const rootUl=document.getElementById("tree");
   rootUl.appendChild(buildNode(data,true));        // open root by default
 });
