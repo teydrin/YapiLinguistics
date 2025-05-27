@@ -8,7 +8,6 @@ Click to browse a full interactive tree:
  
 -
 [Sino-Tibetan](https://yapilinguistics.com/Sino-Tibetan/)
-
 -[Indo-European](https://www.yapilinguistics.com/Indo-European/)
 
 More families coming soon...
