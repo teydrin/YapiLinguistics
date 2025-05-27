@@ -4,26 +4,11 @@
     {
       "name": "Japanese",
       "children": [
-        {
-          "name": "Japanese",
-          "children": []
-        },
-        {
-          "name": "Tsugaru Japanese",
-          "children": []
-        },
-        {
-          "name": "Kagoshima Japanese",
-          "children": []
-        },
-        {
-          "name": "Umpaku Japanese",
-          "children": []
-        },
-        {
-          "name": "Old Japanese",
-          "children": []
-        }
+        { "name": "Japanese", "children": [] },
+        { "name": "Tsugaru Japanese", "children": [] },
+        { "name": "Kagoshima Japanese", "children": [] },
+        { "name": "Umpaku Japanese", "children": [] },
+        { "name": "Old Japanese", "children": [] }
       ]
     },
     {
@@ -37,16 +22,29 @@
           "name": "Northern Ryukyuan",
           "children": [
             {
-              "name": "Amami",
-              "children": []
+              "name": "Macro-Amami",
+              "children": [
+                { "name": "Northern Amami Ōshima", "children": [] },
+                { "name": "Southern Amami Ōshima", "children": [] },
+                { "name": "Tokunoshima", "children": [] },
+                { "name": "Okinoerabu", "children": [] },
+                { "name": "Yoron", "children": [] }
+              ]
             },
             {
-              "name": "Kunigami",
-              "children": []
+              "name": "Macro-Kunigami",
+              "children": [
+                { "name": "Kunigami (Northern Okinawa)", "children": [] },
+                { "name": "Central Kunigami", "children": [] },
+                { "name": "Southern Kunigami", "children": [] }
+              ]
             },
             {
-              "name": "Okinawan",
-              "children": []
+              "name": "Standard Okinawan",
+              "children": [
+                { "name": "Shuri-Naha (Central Okinawan)", "children": [] },
+                { "name": "Southern Okinawan", "children": [] }
+              ]
             }
           ]
         },
@@ -54,12 +52,20 @@
           "name": "Southern Ryukyuan",
           "children": [
             {
-              "name": "Miyako",
-              "children": []
+              "name": "Miyakoan",
+              "children": [
+                { "name": "Hirara", "children": [] },
+                { "name": "Ikema-Irabu", "children": [] },
+                { "name": "Tarama", "children": [] }
+              ]
             },
             {
-              "name": "Yaeyama",
-              "children": []
+              "name": "Yaeyaman",
+              "children": [
+                { "name": "Ishigaki", "children": [] },
+                { "name": "Iriomote", "children": [] },
+                { "name": "Hatoma", "children": [] }
+              ]
             },
             {
               "name": "Yonaguni",
@@ -71,3 +77,5 @@
     }
   ]
 }
+
+
