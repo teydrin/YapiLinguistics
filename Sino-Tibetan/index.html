@@ -95,7 +95,7 @@ ul.tree li:before{
 
 <main>
   <!-- PAGE TITLE -->
-  <h1>Family: Indo-European<span class="badge" id="total-count">…</span></h1>
+  <h1>Family: Sino-Tibetan<span class="badge" id="total-count">…</span></h1>
 
   <!-- CLASSIFICATION PANE -->
   <section class="class-box">
@@ -114,7 +114,7 @@ ul.tree li:before{
 <!-- ---------- SCRIPT ----------- -->
 <script>
 /* ▸▾ tree builder  */
-const JSON_FILE="";   // change if needed
+const JSON_FILE="Sino_Tibetan_";   // change if needed
 fetch(JSON_FILE).then(r=>r.json()).then(data=>{
   document.getElementById("total-count").textContent="("+countLeaves(data)+")";
   const rootUl=document.getElementById("tree");
