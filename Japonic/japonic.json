@@ -61,10 +61,8 @@
             },
             {
               "name": "Yaeyaman",
-              "children": [
-                { "name": "Ishigaki", "children": [] },
-                { "name": "Iriomote", "children": [] },
-                { "name": "Hatoma", "children": [] }
+              "children": []
+                
               ]
             },
             {
