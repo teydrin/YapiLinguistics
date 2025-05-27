@@ -419,11 +419,84 @@
               "children": []
             },
             {
+                          
               "children": [
                 {
-                  "children": [],
+                  "children": [
+                    {
+                      "children": [],
+                      "name": "English"
+                    },
+                    {
+                      "children": [],
+                      "name": "Scots"
+                    }
+                  ],
+                  "name": "Anglic"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "name": "West Frisian"
+                    },
+                    {
+                      "children": [],
+                      "name": "North Frisian"
+                    }
+                  ],
+                  "name": "Frisian"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "name": "Low German"
+                    }
+                  ],
+                  "name": "Low German"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "name": "Central German"
+                    },
+                    {
+                      "children": [],
+                      "name": "Austro-Bavarian"
+                    },
+                    {
+                      "children": [],
+                      "name": "Swabian"
+                    },
+                    {
+                      "children": [],
+                      "name": "Alemanic"
+                    },
+                    {
+                      "children": [],
+                      "name": "Walser"
+                    }
+                  ],
                   "name": "High German"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "name": "Dutch"
+                    },
+                    {
+                      "children": [],
+                      "name": "Old Dutch"
+                    }
+                  ],
+                  "name": "Macro-Dutch"
                 }
+              ],
+              "name": "West Germanic"
+            }
               ],
               "name": "West Germanic"
             }
