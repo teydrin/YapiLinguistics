@@ -41,10 +41,6 @@ We strive for a clean, structured, and accessible browser-based experience.
 -  Fast static site (no backend)
 -  Structured data in JSON
 
-<p align="center">
-  <img src="https://www.publishcentral.com.au/wp-content/uploads/2023/05/book-pile-of-must-read-books-scaled1.jpeg" alt="Books" width="200" style="border-radius: 12px;box-shadow:0 2px 8px #aaa;">
-</p>
-
 ---
 
 ## Contributing
