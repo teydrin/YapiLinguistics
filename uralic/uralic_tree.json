@@ -16,29 +16,51 @@
     {
       "name": "Finnic",
       "children": [
-        { "name": "Livonian", "children": [], "size": 1 },
-        { "name": "Võro", "children": [], "size": 1 },
-        { "name": "Estonian", "children": [], "size": 1 },
-        { "name": "Votic", "children": [], "size": 1 },
-        { "name": "Ingrian", "children": [], "size": 1 },
-        { "name": "Karelian", "children": [], "size": 1 },
-        { "name": "Veps", "children": [], "size": 1 },
-        { "name": "Finnish", "children": [], "size": 1 }
+        {
+          "name": "Core Finnic",
+          "children": [
+            { "name": "Livonian", "children": [], "size": 1 },
+            { "name": "Estonian", "children": [], "size": 1 },
+            { "name": "Votic", "children": [], "size": 1 },
+            { "name": "Ingrian", "children": [], "size": 1 },
+            { "name": "Karelian", "children": [], "size": 1 },
+            { "name": "Veps", "children": [], "size": 1 },
+            { "name": "Finnish", "children": [], "size": 1 }
+          ],
+          "size": 1
+        },
+        {
+          "name": "Võro",
+          "children": [],
+          "size": 1
+        }
       ],
       "size": 1
     },
     {
       "name": "Saami",
       "children": [
-        { "name": "Southern Saami", "children": [], "size": 1 },
-        { "name": "Ume Saami", "children": [], "size": 1 },
-        { "name": "Pite Saami", "children": [], "size": 1 },
-        { "name": "Lule Saami", "children": [], "size": 1 },
-        { "name": "Northern Saami", "children": [], "size": 1 },
-        { "name": "Inari Saami", "children": [], "size": 1 },
-        { "name": "Skolt Saami", "children": [], "size": 1 },
-        { "name": "Kildin Saami", "children": [], "size": 1 },
-        { "name": "Ter Saami", "children": [], "size": 1 }
+        {
+          "name": "Western Saami",
+          "children": [
+            { "name": "Southern Saami", "children": [], "size": 1 },
+            { "name": "Ume Saami", "children": [], "size": 1 },
+            { "name": "Pite Saami", "children": [], "size": 1 },
+            { "name": "Lule Saami", "children": [], "size": 1 },
+            { "name": "Northern Saami", "children": [], "size": 1 }
+          ],
+          "size": 1
+        },
+        {
+          "name": "Eastern Saami",
+          "children": [
+            { "name": "Inari Saami", "children": [], "size": 1 },
+            { "name": "Skolt Saami", "children": [], "size": 1 },
+            { "name": "Kildin Saami", "children": [], "size": 1 },
+            { "name": "Ter Saami", "children": [], "size": 1 }
+          ],
+          "size": 1
+        }
       ],
       "size": 1
     },
@@ -61,25 +83,39 @@
     {
       "name": "Permic",
       "children": [
-        { "name": "Udmurt", "children": [], "size": 1 },
-        { "name": "Komi-Zyrian", "children": [], "size": 1 },
-        { "name": "Komi-Permyak", "children": [], "size": 1 }
+        {
+          "name": "Komi",
+          "children": [
+            { "name": "Komi-Zyrian", "children": [], "size": 1 },
+            { "name": "Komi-Permyak", "children": [], "size": 1 }
+          ],
+          "size": 1
+        },
+        {
+          "name": "Udmurt",
+          "children": [],
+          "size": 1
+        }
       ],
       "size": 1
     },
     {
-      "name": "Hungarian",
-      "children": [],
-      "size": 1
-    },
-    {
-      "name": "Khanty",
-      "children": [],
-      "size": 1
-    },
-    {
-      "name": "Mansi",
-      "children": [],
+      "name": "Ugric",
+      "children": [
+        {
+          "name": "Hungarian",
+          "children": [],
+          "size": 1
+        },
+        {
+          "name": "Ob-Ugric",
+          "children": [
+            { "name": "Khanty", "children": [], "size": 1 },
+            { "name": "Mansi", "children": [], "size": 1 }
+          ],
+          "size": 1
+        }
+      ],
       "size": 1
     }
   ],
