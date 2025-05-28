@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.thetreecareguide.com/wp-content/uploads/tree-guide-and-tree-care-tips1-1024x329.jpg" alt="Yapi Linguistics Banner" height="160" style="border-radius: 10px; box-shadow: 0 4px 20px #aaa;">
+  <img src="https://www.thetreecareguide.com/wp-content/uploads/tree-guide-and-tree-care-tips1-1024x329.jpg" alt="Yapi Linguistics Banner" height="160" style="border-radius: 20px; box-shadow: 0 4px 20px #aaa;">
 </p>
 
 
