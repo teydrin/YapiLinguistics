@@ -1,56 +1,121 @@
-<p align="center">
-  <img src="https://www.thetreecareguide.com/wp-content/uploads/tree-guide-and-tree-care-tips1-1024x329.jpg" alt="Yapi Linguistics Banner" height="160" style="border-radius: 10px; box-shadow: 0 4px 20px #aaa;">
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Yapi Linguistics</title>
 
-<p><h1 align="center">Yapi Linguistics</h1></p>
-<p align="center"><b>Visualizing the genetic relationships between the world&#39;s languages</b></p>
+  <!-- ---------- CORE STYLES ---------- -->
+  <style>
+    :root{
+      --brand:#00bfff;
+      --dark:#0d0d0d;
+      --bg:#f8f9fa;
+      --dot-red:#d7263d;
+      --dot-yellow:#ffb400;
+      --dot-green:#2ecc71;
+    }
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;background:var(--bg);color:#111}
+    a{color:var(--brand);text-decoration:none}
+    a:hover{text-decoration:underline}
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/languages-structured_JSON-yellow?style=flat-square">
-</p>
+    /* ---------- TOP NAV ---------- */
+    nav{
+      background:var(--dark);color:#fff;display:flex;
+      align-items:center;gap:1.5rem;padding:.7rem 1rem;
+      flex-wrap:wrap;font-size:.95rem;
+    }
+    nav .logo{font-weight:700;font-size:1.05rem}
+    nav a{color:#fff;opacity:.85}
+    nav a:hover{opacity:1}
 
-<hr>
-<div align="center">
+    /* ---------- PAGE HEADER ---------- */
+    h1{
+      font-size:1.7rem;font-weight:700;margin:1.4rem 0 .7rem;
+      text-align:center;
+    }
+    .badge{background:#ffc107;color:#000;border-radius:4px;padding:.15em .4em;font-size:.85em;margin-left:.35em}
 
-  <!-- Navigation Bar Style -->
-  <table>
-    <tr>
-      <td align="center" width="100%">
-        <b>Discover Language Families</b>
-        &nbsp;|&nbsp;
-        <a href="https://yapilinguistics.com/Sino-Tibetan/"><img src="https://img.shields.io/badge/Sino--Tibetan-blue?style=for-the-badge"></a>
-        <a href="https://www.yapilinguistics.com/Indo-European/"><img src="https://img.shields.io/badge/Indo--European-green?style=for-the-badge"></a>
-        <a href="https://www.yapilinguistics.com/Japonic/"><img src="https://img.shields.io/badge/Japonic-orange?style=for-the-badge"></a>
-        <img src="https://img.shields.io/badge/More%20Coming-Soon-yellow?style=for-the-badge">
-      </td>
-    </tr>
-  </table>
+    /* ---------- LAYOUT ---------- */
+    main{max-width:900px;margin:0 auto;padding:2rem 1.5rem}
+    .intro{
+      background:#fff;border:1px solid #ced4da;border-radius:6px;
+      box-shadow:0 1px 3px rgba(0,0,0,.07);padding:1.7rem 1.6rem;
+      margin-bottom:2.5rem;text-align:center;
+    }
+    .families-list{
+      display:grid;
+      grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+      gap:1rem;
+      margin-top:2rem;
+    }
+    .family-card{
+      background:#fff;
+      border:1px solid #ced4da;
+      border-radius:4px;
+      box-shadow:0 1px 3px rgba(0,0,0,.06);
+      padding:1.1rem 1rem;
+      text-align:center;
+      transition:box-shadow .18s;
+    }
+    .family-card:hover{box-shadow:0 2px 8px rgba(0,191,255,0.09);}
+    .family-card h2{
+      font-size:1.12rem;
+      margin-bottom:.35rem;
+      font-weight:600;
+    }
+    .family-card p{
+      font-size:.97rem;
+      color:#444;
+      margin-bottom:.2rem;
+    }
 
-</div>
+    /* ---------- MOBILE ---------- */
+    @media(max-width:600px){
+      nav{gap:.8rem}
+      h1{font-size:1.22rem}
+      .intro{padding:1.1rem;}
+      main{padding:1rem .35rem;}
+    }
+  </style>
+</head>
+<body>
 
-<hr>
-<h2 id="about">About</h2>
-<p><strong>Yapi Linguistics</strong> is a volunteer-driven project for linguists, students, and enthusiasts to visualize and explore language phylogenies—without bulky software or databases.<br>We strive for a clean, structured, and accessible browser-based experience.</p>
-<hr>
-<h2 id="features">Features</h2>
-<ul>
-<li>Collapsible language trees</li>
-<li>Historical + modern splits</li>
-<li>Fast static site (no backend)</li>
-<li>Structured data in JSON</li>
-</ul>
-<p align="center">
-  <img src="https://www.publishcentral.com.au/wp-content/uploads/2023/05/book-pile-of-must-read-books-scaled1.jpeg" alt="Books" width="200" style="border-radius: 12px;box-shadow:0 2px 8px #aaa;">
-</p>
+<!-- NAV BAR -->
+<nav>
+  <div class="logo">Yapi Linguistics</div>
+  <a href="#">Languages</a>
+  <a href="#">Families</a>
+  <a href="#">Search</a>
+  <a href="#">About</a>
+</nav>
 
-<hr>
-<h2 id="contributing">Contributing</h2>
-<p>Suggestions, corrections, and contributions are welcome!<br>Open an <a href="https://github.com/teydrin/YapiLinguistics/issues">issue</a> or <a href="https://github.com/teydrin/YapiLinguistics/pulls">pull request</a>.</p>
-<hr>
-<div align="center">
-  <sub>
-    Made for language lovers — <a href="https://yapilinguistics.com">YapiLinguistics.com</a>
-  </sub>
-</div>
+<main>
+  <div class="intro">
+    <h1>Welcome to <span style="color:var(--brand)">Yapi Linguistics</span></h1>
+    <p>
+      Explore the world's language families through interactive trees and data.<br>
+      Select a language family below to begin your journey.
+    </p>
+  </div>
+
+  <div class="families-list">
+    <a class="family-card" href="Indo-European/index.html">
+      <h2>Indo-European</h2>
+      <p>Largest language family, including English, Hindi, Russian, and more.</p>
+    </a>
+    <a class="family-card" href="Sino-Tibetan/index.html">
+      <h2>Sino-Tibetan</h2>
+      <p>Spanning Chinese, Burmese, Tibetan and related languages.</p>
+    </a>
+    <a class="family-card" href="Japonic/index.html">
+      <h2>Japonic</h2>
+      <p>Japanese, Ryukyuan and their relatives.</p>
+    </a>
+    <!-- Add more families as needed -->
+  </div>
+</main>
+
+</body>
+</html>
