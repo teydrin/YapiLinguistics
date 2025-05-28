@@ -1,0 +1,3405 @@
+{
+  "name": "Afro-Asiatic",
+  "children": [
+    {
+      "name": "Berber",
+      "children": [
+        {
+          "name": "Awjilah",
+          "children": [],
+          "size": 1
+        },
+        {
+          "name": "Ghadames",
+          "children": [],
+          "size": 1
+        },
+        {
+          "name": "Greater Zenatic",
+          "children": [
+            {
+              "name": "Libyan-Egyptian Oases Berber",
+              "children": [
+                {
+                  "name": "Sawknah-Fogaha",
+                  "children": [],
+                  "size": 1
+                },
+                {
+                  "name": "Siwi",
+                  "children": [],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            },
+            {
+              "name": "Zenatic",
+              "children": [
+                {
+                  "name": "Chaouia of the Aures",
+                  "children": [],
+                  "size": 1
+                },
+                {
+                  "name": "Northern Saharan Oasis Berber",
+                  "children": [
+                    {
+                      "name": "Ouargli-Oued Righ",
+                      "children": [
+                        {
+                          "name": "Ouargli",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Oued Righ",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Sud Oranais-Gourara",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Tidikelt-Tuat Tamazight",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Tumzabt",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber",
+                  "children": [],
+                  "size": 1
+                },
+                {
+                  "name": "Western Algerian Berber",
+                  "children": [],
+                  "size": 1
+                },
+                {
+                  "name": "Zuara-Sened",
+                  "children": [
+                    {
+                      "name": "Sened",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Tunisian-Zuwara Berber",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            }
+          ],
+          "size": 1
+        },
+        {
+          "name": "Kabyle-Atlas Berber",
+          "children": [
+            {
+              "name": "Atlas Berber",
+              "children": [
+                {
+                  "name": "Central Moroccan Berber",
+                  "children": [],
+                  "size": 1
+                },
+                {
+                  "name": "Northwestern Moroccan Berber",
+                  "children": [
+                    {
+                      "name": "Ghomara",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Senhaja De Srair",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Tachelhit",
+                  "children": [],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            },
+            {
+              "name": "Kabyle",
+              "children": [],
+              "size": 1
+            }
+          ],
+          "size": 1
+        },
+        {
+          "name": "Nafusi",
+          "children": [],
+          "size": 1
+        },
+        {
+          "name": "Tuareg",
+          "children": [
+            {
+              "name": "Southern Tuareg",
+              "children": [
+                {
+                  "name": "Tamasheq",
+                  "children": [],
+                  "size": 1
+                },
+                {
+                  "name": "Tawallammat Tamajaq",
+                  "children": [],
+                  "size": 1
+                },
+                {
+                  "name": "Tayart Tamajeq",
+                  "children": [],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            },
+            {
+              "name": "Tahaggart Tamahaq",
+              "children": [],
+              "size": 1
+            }
+          ],
+          "size": 1
+        },
+        {
+          "name": "Unclassified Berber",
+          "children": [
+            {
+              "name": "Guanche",
+              "children": [],
+              "size": 1
+            }
+          ],
+          "size": 1
+        },
+        {
+          "name": "Western Berber",
+          "children": [
+            {
+              "name": "Tetserret",
+              "children": [],
+              "size": 1
+            },
+            {
+              "name": "Zenaga",
+              "children": [],
+              "size": 1
+            }
+          ],
+          "size": 1
+        }
+      ],
+      "size": 1
+    },
+    {
+      "name": "Chadic",
+      "children": [
+        {
+          "name": "Biu-Mandara",
+          "children": [
+            {
+              "name": "Hurza",
+              "children": [
+                {
+                  "name": "Mbuko",
+                  "children": [],
+                  "size": 1
+                },
+                {
+                  "name": "Vame",
+                  "children": [],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            },
+            {
+              "name": "North Biu-Mandara",
+              "children": [
+                {
+                  "name": "Gidar",
+                  "children": [],
+                  "size": 1
+                },
+                {
+                  "name": "Higic",
+                  "children": [
+                    {
+                      "name": "Hya",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Nkafa-Kirya-Bana",
+                      "children": [
+                        {
+                          "name": "Bana",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Nkafa-Kirya",
+                          "children": [
+                            {
+                              "name": "Kamwe",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Kirya-Konzel",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Psikye",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Kotoko-Buduma",
+                  "children": [
+                    {
+                      "name": "Buduma",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Kotoko Central",
+                      "children": [
+                        {
+                          "name": "Lagwan",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Mser",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Kotoko Meridional",
+                      "children": [
+                        {
+                          "name": "Jina",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Majera",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Kotoko Septentrional",
+                      "children": [
+                        {
+                          "name": "Kotoko Septentrional 1",
+                          "children": [
+                            {
+                              "name": "Afade",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Maslam",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Kotoko Septentrional 2",
+                          "children": [
+                            {
+                              "name": "Malgbe",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Mpade",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Ngala of Lake Chad",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Lamang-Hdi",
+                  "children": [
+                    {
+                      "name": "Hdi",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Lamang",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Vemgo-Mabas",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Margi-Mandara-Mofu",
+                  "children": [
+                    {
+                      "name": "Bura-Marghi",
+                      "children": [
+                        {
+                          "name": "Buraic",
+                          "children": [
+                            {
+                              "name": "Bura-Pabir",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Cibak",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Nggwahyi",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Putai",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Marghic",
+                          "children": [
+                            {
+                              "name": "Kilba-South Margi",
+                              "children": [
+                                {
+                                  "name": "Huba",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Marghi South",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Marghi Central",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Mandaraic",
+                      "children": [
+                        {
+                          "name": "Dghwedeic",
+                          "children": [
+                            {
+                              "name": "Dghwede",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Gudufic",
+                              "children": [
+                                {
+                                  "name": "Cineni",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Guduf-Gava",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Gvoko",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Podoko",
+                          "children": [
+                            {
+                              "name": "Matal",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Parkwa",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Wandala-Malgwa-Glavda",
+                          "children": [
+                            {
+                              "name": "Glavda",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Wandala-Malgwa",
+                              "children": [
+                                {
+                                  "name": "Malgwa",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Wandala",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Mofuic",
+                      "children": [
+                        {
+                          "name": "Meri",
+                          "children": [
+                            {
+                              "name": "Dugwor-Merey",
+                              "children": [
+                                {
+                                  "name": "Dugwor",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Merey",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Zulgo-Gemzek",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Mofu",
+                          "children": [
+                            {
+                              "name": "Mofu-Gudur",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "North Mofu",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Tokombere",
+                          "children": [
+                            {
+                              "name": "Madaic",
+                              "children": [
+                                {
+                                  "name": "Mada (Cameroon)",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Muyang",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Wuzlam",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Moloko",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Maroua",
+                  "children": [
+                    {
+                      "name": "Baldemu",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Giziga",
+                      "children": [
+                        {
+                          "name": "North Giziga",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "South Giziga",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Musguic",
+                  "children": [
+                    {
+                      "name": "Musgu-Mbara",
+                      "children": [
+                        {
+                          "name": "Mbara (Chad)",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Musgu",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Muskum",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            },
+            {
+              "name": "South Biu-Mandara",
+              "children": [
+                {
+                  "name": "Bataic",
+                  "children": [
+                    {
+                      "name": "Bata-Bwatiye",
+                      "children": [
+                        {
+                          "name": "Bacama",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Bata",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Gudeic",
+                      "children": [
+                        {
+                          "name": "Gude-Jimi-Zizilivakan",
+                          "children": [
+                            {
+                              "name": "Fali-Gude",
+                              "children": [
+                                {
+                                  "name": "Fali",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Gude",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Jimi (Cameroon)",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Zizilivakan",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Nzanyic",
+                          "children": [
+                            {
+                              "name": "Holma",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Nzanyi",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Sharwa-Tsuvan",
+                          "children": [
+                            {
+                              "name": "Sharwa",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Tsuvan",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Gudu",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Ngwaba",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Dabaic",
+                  "children": [
+                    {
+                      "name": "Buwal-Gavar",
+                      "children": [
+                        {
+                          "name": "Buwal",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Gavar",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Daba-Mazagway-Kola",
+                      "children": [
+                        {
+                          "name": "Daba",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Mazagway",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Mbedam",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Mina (Cameroon)",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Matakam",
+                  "children": [
+                    {
+                      "name": "Mafa",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Mefele-Cuvok",
+                      "children": [
+                        {
+                          "name": "Cuvok",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Mefele",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Sukur",
+                  "children": [],
+                  "size": 1
+                },
+                {
+                  "name": "Teraic",
+                  "children": [
+                    {
+                      "name": "Eastern Tera",
+                      "children": [
+                        {
+                          "name": "Boga",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Ga'anda",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Hwana",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Western Tera",
+                      "children": [
+                        {
+                          "name": "Jara",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Tera",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            },
+            {
+              "name": "Unclassified Biu-Mandara",
+              "children": [
+                {
+                  "name": "Jilbe",
+                  "children": [],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            }
+          ],
+          "size": 1
+        },
+        {
+          "name": "East Chadic",
+          "children": [
+            {
+              "name": "East Chadic A",
+              "children": [
+                {
+                  "name": "East Chadic A.1",
+                  "children": [
+                    {
+                      "name": "Gadang",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Sumrayic",
+                      "children": [
+                        {
+                          "name": "Ndam-Tumak",
+                          "children": [
+                            {
+                              "name": "Mire",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Ndam",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Tumak",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Sarwa-Sumray",
+                          "children": [
+                            {
+                              "name": "Sarua",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Somrai",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "East Chadic A.2",
+                  "children": [
+                    {
+                      "name": "East Chadic A.2 1",
+                      "children": [
+                        {
+                          "name": "Lele (Chad)",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Nancere",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "East Chadic A.2 2",
+                      "children": [
+                        {
+                          "name": "Gabri-Kimre",
+                          "children": [
+                            {
+                              "name": "Gabri",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Kimre",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Kabalai",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Tobanga",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "East Chadic A.3",
+                  "children": [
+                    {
+                      "name": "Kera",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Kwang",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            },
+            {
+              "name": "East Chadic B",
+              "children": [
+                {
+                  "name": "Barainic",
+                  "children": [
+                    {
+                      "name": "Barain",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Jalking",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "East Chadic B.1",
+                  "children": [
+                    {
+                      "name": "Dangla-Mabire-Birgit",
+                      "children": [
+                        {
+                          "name": "Birgit-Mogum-Toram",
+                          "children": [
+                            {
+                              "name": "Birgit",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Mogum",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Toram",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Dangla",
+                          "children": [
+                            {
+                              "name": "Bidiyo",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Dangaleat",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Migaama",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Unclassified Dangla",
+                              "children": [
+                                {
+                                  "name": "Jonkor Bourmataguil",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Mabire",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Mubic",
+                      "children": [
+                        {
+                          "name": "Kajakse",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Masmaje",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Mubi",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Zirenkel",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "East Chadic B.3",
+                  "children": [
+                    {
+                      "name": "Mawa (Chad)",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Sokoroic",
+                      "children": [
+                        {
+                          "name": "Miltuic",
+                          "children": [
+                            {
+                              "name": "Boor",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Miltu",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Saba-Sokoro-Tamki",
+                          "children": [
+                            {
+                              "name": "Saba",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Sokoro",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Tamki",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Ubi",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Mukulu",
+                  "children": [],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            }
+          ],
+          "size": 1
+        },
+        {
+          "name": "Masa",
+          "children": [
+            {
+              "name": "North Masa",
+              "children": [
+                {
+                  "name": "Marba-Musey",
+                  "children": [
+                    {
+                      "name": "Marba",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Musey",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Masa-Gizey-Ham",
+                  "children": [
+                    {
+                      "name": "Gizey",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Ham",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Masana",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Unclassified North Masa",
+                  "children": [
+                    {
+                      "name": "Zumaya",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            },
+            {
+              "name": "South Masa",
+              "children": [
+                {
+                  "name": "Mesme",
+                  "children": [],
+                  "size": 1
+                },
+                {
+                  "name": "Peveic",
+                  "children": [
+                    {
+                      "name": "Hede-Ngide",
+                      "children": [
+                        {
+                          "name": "Herde",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Ngete",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Peve",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            }
+          ],
+          "size": 1
+        },
+        {
+          "name": "West Chadic",
+          "children": [
+            {
+              "name": "West Chadic A",
+              "children": [
+                {
+                  "name": "West Chadic A.1",
+                  "children": [
+                    {
+                      "name": "Gwandara",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Hausa",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "West Chadic A.2-3",
+                  "children": [
+                    {
+                      "name": "West Chadic A.2",
+                      "children": [
+                        {
+                          "name": "Boleic",
+                          "children": [
+                            {
+                              "name": "Karekare",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Nuclear Boleic",
+                              "children": [
+                                {
+                                  "name": "Galambu-Bele",
+                                  "children": [
+                                    {
+                                      "name": "Galambu",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Kirfi-Bele",
+                                      "children": [
+                                        {
+                                          "name": "Giiwo-Daza",
+                                          "children": [
+                                            {
+                                              "name": "Daza",
+                                              "children": [],
+                                              "size": 1
+                                            },
+                                            {
+                                              "name": "Giiwo",
+                                              "children": [],
+                                              "size": 1
+                                            }
+                                          ],
+                                          "size": 1
+                                        },
+                                        {
+                                          "name": "Ngamo-Bele",
+                                          "children": [
+                                            {
+                                              "name": "Bolanci-Bele",
+                                              "children": [
+                                                {
+                                                  "name": "Beele",
+                                                  "children": [],
+                                                  "size": 1
+                                                },
+                                                {
+                                                  "name": "Bole",
+                                                  "children": [],
+                                                  "size": 1
+                                                }
+                                              ],
+                                              "size": 1
+                                            },
+                                            {
+                                              "name": "Ngamo",
+                                              "children": [],
+                                              "size": 1
+                                            }
+                                          ],
+                                          "size": 1
+                                        }
+                                      ],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Gera-Geruma-Kubi-Deno",
+                                  "children": [
+                                    {
+                                      "name": "Gera-Geruma",
+                                      "children": [
+                                        {
+                                          "name": "Gera",
+                                          "children": [],
+                                          "size": 1
+                                        },
+                                        {
+                                          "name": "Geruma",
+                                          "children": [],
+                                          "size": 1
+                                        }
+                                      ],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Kubi-Deno",
+                                      "children": [
+                                        {
+                                          "name": "Deno",
+                                          "children": [],
+                                          "size": 1
+                                        },
+                                        {
+                                          "name": "Kubi",
+                                          "children": [],
+                                          "size": 1
+                                        }
+                                      ],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Unclassified Boleic",
+                              "children": [
+                                {
+                                  "name": "Bure",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Kholok",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Maaka",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Nyam",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Tangalic",
+                          "children": [
+                            {
+                              "name": "Dera (Nigeria)",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Nuclear Tangalic",
+                              "children": [
+                                {
+                                  "name": "Kushi",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Peroic",
+                                  "children": [
+                                    {
+                                      "name": "Pero",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Piya-Kwonci",
+                                      "children": [],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Tangale-Kwami-Kupto",
+                                  "children": [
+                                    {
+                                      "name": "Kwami-Kupto",
+                                      "children": [
+                                        {
+                                          "name": "Kutto",
+                                          "children": [],
+                                          "size": 1
+                                        },
+                                        {
+                                          "name": "Kwaami",
+                                          "children": [],
+                                          "size": 1
+                                        }
+                                      ],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Tangale",
+                                      "children": [],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "West Chadic A.3",
+                      "children": [
+                        {
+                          "name": "Belneng",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Goemaic",
+                          "children": [
+                            {
+                              "name": "Goemai",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Montol",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Talic",
+                              "children": [
+                                {
+                                  "name": "Piapung-Koenoem",
+                                  "children": [
+                                    {
+                                      "name": "Koenoem",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Pyapun",
+                                      "children": [],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Tal",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Yiwom",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Kofyar-Mushere-Chip",
+                          "children": [
+                            {
+                              "name": "Cakfem-Mushere",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Kofyaric",
+                              "children": [
+                                {
+                                  "name": "Jakattoe",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Nteng",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Pan",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Miship",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Mwaghavul",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Ngas",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "West Chadic A.4",
+                  "children": [
+                    {
+                      "name": "Fyer-Tambas",
+                      "children": [
+                        {
+                          "name": "Fyer",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Tambas",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Ronic",
+                      "children": [
+                        {
+                          "name": "Kulere",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Mangar",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Mundat-Karfa",
+                          "children": [
+                            {
+                              "name": "Duhwa",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Mindat",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Ron",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Sya",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            },
+            {
+              "name": "West Chadic B",
+              "children": [
+                {
+                  "name": "West Chadic B.1",
+                  "children": [
+                    {
+                      "name": "Duwai",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Ngizim-Southwestern Bade",
+                      "children": [
+                        {
+                          "name": "Ngizim",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Shira-Southwestern Bade",
+                          "children": [
+                            {
+                              "name": "Bade",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Shira",
+                              "children": [
+                                {
+                                  "name": "Auyokawa",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Teshenawa",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "West Chadic B.2",
+                  "children": [
+                    {
+                      "name": "Diri",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Nuclear West Chadic B.2",
+                      "children": [
+                        {
+                          "name": "Central West Chadic B.2",
+                          "children": [
+                            {
+                              "name": "Miya",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Warji-Gala-Kariya",
+                              "children": [
+                                {
+                                  "name": "Kariya",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Warji-Gala",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Ciwogai",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Mburku",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Western West Chadic B.2",
+                          "children": [
+                            {
+                              "name": "Ajawa",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Pa'a",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Siri",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Zumbun",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "West Chadic B.3",
+                  "children": [
+                    {
+                      "name": "South Bauchi East",
+                      "children": [
+                        {
+                          "name": "Boghomic",
+                          "children": [
+                            {
+                              "name": "Boghom",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Kir-Mangas",
+                              "children": [
+                                {
+                                  "name": "Kir-Balar",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Mangas",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Guruntumic",
+                          "children": [
+                            {
+                              "name": "Guruntum-Mbaaru",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Jimi (Nigeria)",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Tala-Sho-Zangwal",
+                              "children": [
+                                {
+                                  "name": "Ju",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Tala-Zamwar",
+                                  "children": [
+                                    {
+                                      "name": "Tala",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Zangwal",
+                                      "children": [],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "South Bauchi West",
+                      "children": [
+                        {
+                          "name": "Northwest South Bauchi",
+                          "children": [
+                            {
+                              "name": "Gejic",
+                              "children": [
+                                {
+                                  "name": "Bu (Zaranda)",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Gyaazi",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Polci-Luri",
+                              "children": [
+                                {
+                                  "name": "Luri",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Polcic",
+                                  "children": [
+                                    {
+                                      "name": "Buli (Bauchi State)",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Pesse",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Zulic",
+                                      "children": [
+                                        {
+                                          "name": "Dir-Nyamzak-Mbarimi",
+                                          "children": [],
+                                          "size": 1
+                                        },
+                                        {
+                                          "name": "Zul",
+                                          "children": [],
+                                          "size": 1
+                                        }
+                                      ],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Southwest South Bauchi",
+                          "children": [
+                            {
+                              "name": "Dass",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Zakse-Saya",
+                              "children": [
+                                {
+                                  "name": "Dyarim",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Saya",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Zari",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Zeemic",
+                              "children": [
+                                {
+                                  "name": "Dokshi",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Nuclear Zeemic",
+                                  "children": [
+                                    {
+                                      "name": "Chaari",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Tulai",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Zeem",
+                                      "children": [],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            }
+          ],
+          "size": 1
+        }
+      ],
+      "size": 1
+    },
+    {
+      "name": "Cushitic",
+      "children": [
+        {
+          "name": "Agaw",
+          "children": [
+            {
+              "name": "Awngi",
+              "children": [],
+              "size": 1
+            },
+            {
+              "name": "Northern-Eastern-Western Agaw",
+              "children": [
+                {
+                  "name": "Northeastern Agaw",
+                  "children": [
+                    {
+                      "name": "Bilin",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Xamtanga",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Qimant",
+                  "children": [],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            }
+          ],
+          "size": 1
+        },
+        {
+          "name": "Beja",
+          "children": [],
+          "size": 1
+        },
+        {
+          "name": "East Cushitic",
+          "children": [
+            {
+              "name": "Dahalo",
+              "children": [],
+              "size": 1
+            },
+            {
+              "name": "Highland East Cushitic",
+              "children": [
+                {
+                  "name": "Burji",
+                  "children": [],
+                  "size": 1
+                },
+                {
+                  "name": "Sidaama-Hadiyya-Kambaata",
+                  "children": [
+                    {
+                      "name": "Hadiyya-Kambaata",
+                      "children": [
+                        {
+                          "name": "Hadiyyaic",
+                          "children": [
+                            {
+                              "name": "Hadiyya",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Libido",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Kambaataic",
+                          "children": [
+                            {
+                              "name": "Alaba-K'abeena",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Kambaata",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Sidaama-Gedeo",
+                      "children": [
+                        {
+                          "name": "Gedeo",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Sidamo",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            },
+            {
+              "name": "Lowland East Cushitic",
+              "children": [
+                {
+                  "name": "Saho-Afar",
+                  "children": [
+                    {
+                      "name": "Afar",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Saho",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Southern Lowland East Cushitic",
+                  "children": [
+                    {
+                      "name": "Mainstream Lowland East Cushitic",
+                      "children": [
+                        {
+                          "name": "Omo-Tana",
+                          "children": [
+                            {
+                              "name": "Eastern Omo-Tana",
+                              "children": [
+                                {
+                                  "name": "Baiso-Jiiddu",
+                                  "children": [
+                                    {
+                                      "name": "Baiso",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Jiiddu",
+                                      "children": [],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Dabarre-Tunni",
+                                  "children": [
+                                    {
+                                      "name": "Dabarre",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Tunni",
+                                      "children": [],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Girirra",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Karre-Boni",
+                                  "children": [
+                                    {
+                                      "name": "Aweer",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Garre",
+                                      "children": [],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Maay",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Rendille",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Somali",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Western Omo-Tana",
+                              "children": [
+                                {
+                                  "name": "Arbore",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Daasanach",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "El Molo",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Oromoid",
+                          "children": [
+                            {
+                              "name": "Konsoid",
+                              "children": [
+                                {
+                                  "name": "Gidole-Bussa",
+                                  "children": [
+                                    {
+                                      "name": "Bussa",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Dirasha",
+                                      "children": [],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Konso",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Nuclear Oromo",
+                              "children": [
+                                {
+                                  "name": "Central-Eastern Oromo",
+                                  "children": [
+                                    {
+                                      "name": "Central-Tana Oromo",
+                                      "children": [
+                                        {
+                                          "name": "Borana-Arsi-Guji Oromo",
+                                          "children": [],
+                                          "size": 1
+                                        },
+                                        {
+                                          "name": "Tana River Oromo",
+                                          "children": [
+                                            {
+                                              "name": "Orma",
+                                              "children": [],
+                                              "size": 1
+                                            },
+                                            {
+                                              "name": "Waata",
+                                              "children": [],
+                                              "size": 1
+                                            }
+                                          ],
+                                          "size": 1
+                                        }
+                                      ],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Eastern Oromo",
+                                      "children": [],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "West Central Oromo",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Transversal Lowland East Cushitic",
+                      "children": [
+                        {
+                          "name": "Dullay",
+                          "children": [
+                            {
+                              "name": "Ale-Gawwada",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Tsamai",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Yaaku",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            },
+            {
+              "name": "Unclassified East Cushitic",
+              "children": [
+                {
+                  "name": "Boon",
+                  "children": [],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            }
+          ],
+          "size": 1
+        },
+        {
+          "name": "South Cushitic",
+          "children": [
+            {
+              "name": "Aasax",
+              "children": [],
+              "size": 1
+            },
+            {
+              "name": "Greater West Rift South Cushitic",
+              "children": [
+                {
+                  "name": "Kw'adza",
+                  "children": [],
+                  "size": 1
+                },
+                {
+                  "name": "West Rift South Cushitic",
+                  "children": [
+                    {
+                      "name": "Burunge",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Northern West Rift South Cushitic",
+                      "children": [
+                        {
+                          "name": "Alagwa",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Iraqwoid",
+                          "children": [
+                            {
+                              "name": "Gorowa",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Iraqw",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            }
+          ],
+          "size": 1
+        }
+      ],
+      "size": 1
+    },
+    {
+      "name": "Egyptian",
+      "children": [
+        {
+          "name": "Coptic",
+          "children": [],
+          "size": 1
+        },
+        {
+          "name": "Egyptian (Ancient)",
+          "children": [],
+          "size": 1
+        }
+      ],
+      "size": 1
+    },
+    {
+      "name": "Semitic",
+      "children": [
+        {
+          "name": "East Semitic",
+          "children": [
+            {
+              "name": "Akkadian",
+              "children": [],
+              "size": 1
+            },
+            {
+              "name": "Eblaite",
+              "children": [],
+              "size": 1
+            }
+          ],
+          "size": 1
+        },
+        {
+          "name": "Unclassified Semitic",
+          "children": [
+            {
+              "name": "Amorite",
+              "children": [],
+              "size": 1
+            }
+          ],
+          "size": 1
+        },
+        {
+          "name": "West Semitic",
+          "children": [
+            {
+              "name": "Central Semitic",
+              "children": [
+                {
+                  "name": "Arabian",
+                  "children": [
+                    {
+                      "name": "Ancient North Arabian",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Arabic",
+                      "children": [
+                        {
+                          "name": "Arabian Peninsula Arabic",
+                          "children": [
+                            {
+                              "name": "Hadrami Arabic",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Hijazi Arabic",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Judeo-Muslim Sanaani Arabic",
+                              "children": [
+                                {
+                                  "name": "Judeo-Yemeni Arabic",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Sanaani Arabic",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "North Arabian Beduin Arabic",
+                              "children": [
+                                {
+                                  "name": "Baharna Arabic",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Dhofaric",
+                                  "children": [
+                                    {
+                                      "name": "Dhofari Arabic",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Ru'us al-Jibal",
+                                      "children": [],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Gulf Arabic",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Najdi Arabic",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Omani Arabic",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Ta'izzi-Adeni Arabic",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Eastern Arabic",
+                          "children": [
+                            {
+                              "name": "Central Asian Arabic",
+                              "children": [
+                                {
+                                  "name": "Tajiki Arabic",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Xorasan-Qashqa-Darya Arabic",
+                                  "children": [
+                                    {
+                                      "name": "Khorasan Arabic",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Qashqa-Darya Arabic",
+                                      "children": [],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Gilit Mesopotamian Arabic",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Qeltu",
+                              "children": [
+                                {
+                                  "name": "Judeo-Iraqi Arabic",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "North Mesopotamian Arabic",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Egyptic Arabic",
+                          "children": [
+                            {
+                              "name": "Eastern Egyptian Bedawi Arabic",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Egypto-Sudanic Arabic",
+                              "children": [
+                                {
+                                  "name": "Egyptian Arabic",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Saidi Arabic",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Sudanese-Chadian Arabic",
+                                  "children": [
+                                    {
+                                      "name": "Chadian Arabic",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "East Sudanic Arabic",
+                                      "children": [
+                                        {
+                                          "name": "Nubi",
+                                          "children": [],
+                                          "size": 1
+                                        },
+                                        {
+                                          "name": "South Sudanese Creole Arabic",
+                                          "children": [],
+                                          "size": 1
+                                        },
+                                        {
+                                          "name": "Sudanese Arabic",
+                                          "children": [],
+                                          "size": 1
+                                        }
+                                      ],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Levantine-Cypriot Arabic",
+                          "children": [
+                            {
+                              "name": "Cypriot Arabic",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Levantine Arabic",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "North African Arabic",
+                          "children": [
+                            {
+                              "name": "Algerian Arabic",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Algerian Saharan Arabic",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Hassaniyya",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Judeo-Moroccan Arabic",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Judeo-Tripolitanian Arabic",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Libyan Arabic",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Malta-Tunisian Arabic",
+                              "children": [
+                                {
+                                  "name": "Maltese",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Tunisian Arabic",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Moroccan-Andalusian Arabic",
+                              "children": [
+                                {
+                                  "name": "Andalusian Arabic",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Moroccan Arabic",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Standard Arabic",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Northwest Semitic",
+                  "children": [
+                    {
+                      "name": "Aramaic",
+                      "children": [
+                        {
+                          "name": "Imperial-Middle-Modern Aramaic",
+                          "children": [
+                            {
+                              "name": "Imperial Aramaic (700-300 BCE)",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Middle-Modern Aramaic",
+                              "children": [
+                                {
+                                  "name": "Eastern Aramaic",
+                                  "children": [
+                                    {
+                                      "name": "Central Eastern Aramaic",
+                                      "children": [
+                                        {
+                                          "name": "Bohtan",
+                                          "children": [
+                                            {
+                                              "name": "Gardabani Bohtan Neo-Aramaic",
+                                              "children": [],
+                                              "size": 1
+                                            },
+                                            {
+                                              "name": "Hertevin",
+                                              "children": [],
+                                              "size": 1
+                                            }
+                                          ],
+                                          "size": 1
+                                        },
+                                        {
+                                          "name": "North-Eastern Neo-Aramaic",
+                                          "children": [
+                                            {
+                                              "name": "Assyrian Neo-Aramaic",
+                                              "children": [],
+                                              "size": 1
+                                            },
+                                            {
+                                              "name": "Chaldean Neo-Aramaic",
+                                              "children": [],
+                                              "size": 1
+                                            },
+                                            {
+                                              "name": "Jewish Babylonian Aramaic (ca. 200-1200 CE)",
+                                              "children": [],
+                                              "size": 1
+                                            },
+                                            {
+                                              "name": "Northwestern Jewish Neo-Aramaic",
+                                              "children": [
+                                                {
+                                                  "name": "Barzani Jewish Neo-Aramaic",
+                                                  "children": [],
+                                                  "size": 1
+                                                },
+                                                {
+                                                  "name": "Lishana Deni",
+                                                  "children": [],
+                                                  "size": 1
+                                                }
+                                              ],
+                                              "size": 1
+                                            },
+                                            {
+                                              "name": "Trans-Zab",
+                                              "children": [
+                                                {
+                                                  "name": "Hulaulá",
+                                                  "children": [],
+                                                  "size": 1
+                                                },
+                                                {
+                                                  "name": "Lishán Didán",
+                                                  "children": [],
+                                                  "size": 1
+                                                },
+                                                {
+                                                  "name": "Western Trans-Zab",
+                                                  "children": [
+                                                    {
+                                                      "name": "Koy Sanjaq Jewish Neo-Aramaic",
+                                                      "children": [],
+                                                      "size": 1
+                                                    },
+                                                    {
+                                                      "name": "Lishanid Noshan",
+                                                      "children": [],
+                                                      "size": 1
+                                                    }
+                                                  ],
+                                                  "size": 1
+                                                }
+                                              ],
+                                              "size": 1
+                                            }
+                                          ],
+                                          "size": 1
+                                        },
+                                        {
+                                          "name": "Turoyo-Mlahso",
+                                          "children": [
+                                            {
+                                              "name": "Mlahsô",
+                                              "children": [],
+                                              "size": 1
+                                            },
+                                            {
+                                              "name": "Turoyo",
+                                              "children": [],
+                                              "size": 1
+                                            }
+                                          ],
+                                          "size": 1
+                                        }
+                                      ],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Classical Syriac",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Macro-Mandaic",
+                                      "children": [
+                                        {
+                                          "name": "Classical Mandaic",
+                                          "children": [],
+                                          "size": 1
+                                        },
+                                        {
+                                          "name": "Neo-Mandaic",
+                                          "children": [],
+                                          "size": 1
+                                        }
+                                      ],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Middle Aramaic",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Western Aramaic",
+                                  "children": [
+                                    {
+                                      "name": "Late Palestinian Aramaic",
+                                      "children": [],
+                                      "size": 1
+                                    },
+                                    {
+                                      "name": "Western Neo-Aramaic",
+                                      "children": [],
+                                      "size": 1
+                                    }
+                                  ],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Old Aramaic-Sam'alian",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Canaanite",
+                      "children": [
+                        {
+                          "name": "Hebrewic",
+                          "children": [
+                            {
+                              "name": "Ancient Hebrew",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Modern Hebrew",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Samaritan",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Ugarito-Phoenician",
+                          "children": [
+                            {
+                              "name": "Phoenician-Punic",
+                              "children": [
+                                {
+                                  "name": "Phoenician",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Punic",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Ugaritic",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Sayhadic",
+                  "children": [
+                    {
+                      "name": "Hadrami",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Minaean",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Modern Sayhadic",
+                      "children": [
+                        {
+                          "name": "Faifi",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Jabal Razih",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Qatabanian",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Sabaic",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            },
+            {
+              "name": "Ethiosemitic",
+              "children": [
+                {
+                  "name": "Geez",
+                  "children": [],
+                  "size": 1
+                },
+                {
+                  "name": "South Ethiopic",
+                  "children": [
+                    {
+                      "name": "Amharic-Argobba",
+                      "children": [
+                        {
+                          "name": "Amharic",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Argobba",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Harari-East Gurage",
+                      "children": [
+                        {
+                          "name": "Harari",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Silte-Wolane",
+                          "children": [
+                            {
+                              "name": "Silt'e",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Wolane",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "Zay",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    },
+                    {
+                      "name": "Outer South Ethiopic",
+                      "children": [
+                        {
+                          "name": "N-Group",
+                          "children": [
+                            {
+                              "name": "Gafat",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Kistane",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        },
+                        {
+                          "name": "TT-Group",
+                          "children": [
+                            {
+                              "name": "Mesqan",
+                              "children": [],
+                              "size": 1
+                            },
+                            {
+                              "name": "Peripheral Western Gurage",
+                              "children": [
+                                {
+                                  "name": "Inoric",
+                                  "children": [],
+                                  "size": 1
+                                },
+                                {
+                                  "name": "Mesmes",
+                                  "children": [],
+                                  "size": 1
+                                }
+                              ],
+                              "size": 1
+                            },
+                            {
+                              "name": "Sebat Bet Gurage",
+                              "children": [],
+                              "size": 1
+                            }
+                          ],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Tigre-Dahalik",
+                  "children": [
+                    {
+                      "name": "Dahalik",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Tigre",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Tigrinya",
+                  "children": [],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            },
+            {
+              "name": "Modern South Arabian",
+              "children": [
+                {
+                  "name": "Eastern MSA",
+                  "children": [
+                    {
+                      "name": "Jibbali",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Soqotri",
+                      "children": [],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                },
+                {
+                  "name": "Hobyot-Western MSA",
+                  "children": [
+                    {
+                      "name": "Hobyót",
+                      "children": [],
+                      "size": 1
+                    },
+                    {
+                      "name": "Western MSA",
+                      "children": [
+                        {
+                          "name": "Bathari",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Harsusi",
+                          "children": [],
+                          "size": 1
+                        },
+                        {
+                          "name": "Mehri",
+                          "children": [],
+                          "size": 1
+                        }
+                      ],
+                      "size": 1
+                    }
+                  ],
+                  "size": 1
+                }
+              ],
+              "size": 1
+            }
+          ],
+          "size": 1
+        }
+      ],
+      "size": 1
+    }
+  ],
+  "size": 1
+}
