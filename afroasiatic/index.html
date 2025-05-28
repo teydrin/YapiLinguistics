@@ -112,7 +112,7 @@ ul.tree li:before{
 <!-- ---------- SCRIPT ----------- -->
 <script>
 /* ▸▾ tree builder  */
-const JSON_FILE="afroasiatic_clean.json";   // change if needed
+const JSON_FILE="afroasiatic_final_nocode.json";   // change if needed
 fetch(JSON_FILE).then(r=>r.json()).then(data=>{
   document.getElementById("total-count").textContent="("+countLeaves(data)+")";
   const rootUl=document.getElementById("tree");
