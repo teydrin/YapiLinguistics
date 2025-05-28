@@ -22,3 +22,15 @@ For any questions or requests, please use the [GitHub Issues page](https://githu
 
 Contributing: Yapi Linguistics Team
 
+<p align="center">
+  <img src="https://www.publishcentral.com.au/wp-content/uploads/2023/05/book-pile-of-must-read-books-scaled1.jpeg" alt="Books" width="200" style="border-radius: 12px;box-shadow:0 2px 8px #aaa;">
+</p>
+
+---
+
+<div align="center">
+  <sub>
+    Made for language lovers — <a href="https://yapilinguistics.com">YapiLinguistics.com</a>
+  </sub>
+</div>
+
