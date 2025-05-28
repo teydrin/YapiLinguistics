@@ -24,7 +24,6 @@
     </div>
   </div>
   <div style="color:#bbb;font-size:1em;margin:0 0 0.7em 0;">
-    <em>On the actual website, hover or tap "Discover Families" to open this menu.</em>
   </div>
 </div>
 
