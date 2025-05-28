@@ -5,12 +5,6 @@
 <h1 align="center">Yapi Linguistics</h1>
 <p align="center"><b>Visualizing the genetic relationships between the world's languages</b></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/languages-structured_JSON-yellow?style=flat-square">
-</p>
-
 ---
 
 <div align="center">
