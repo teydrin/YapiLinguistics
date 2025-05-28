@@ -229,8 +229,17 @@
                       "children": []
                     },
                     {
-                      "name": "Slovenian",
-                      "children": []
+                      "children": [
+                        {
+                            "name":"Slovenian",
+                            "children":[]
+                        },
+                        {
+                            "name":"Prekmurje",
+                            "children":[]
+                        }
+                      ]
+                      "name":Macro-Slovenian"
                     }
                   ],
                   "name": "Western South Slavic"
