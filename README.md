@@ -8,8 +8,8 @@
       <td align="right" style="padding:0.4em 1.2em 0.4em 2em;font-size:1.02rem;">
         <a href="#" style="color:#fff;opacity:.85;text-decoration:none;margin-right:1.5em;">Languages</a>
         <span style="position:relative;">
-          <a href="#" style="color:#fff;opacity:.85;text-decoration:none;margin-right:1.5em;">Families</a>
-          <!-- Static dropdown mockup for Families (optional) -->
+          <a href="#" style="color:#fff;opacity:.85;text-decoration:none;margin-right:1.5em;">Families ▼</a>
+          <!-- Dropdown (static mockup) -->
           <span style="display:block;position:absolute;right:-0.5em;top:1.7em;background:#23272c;border-radius:0 0 8px 8px;box-shadow:0 6px 18px #0003;padding:0.7em 1.6em;z-index:5;min-width:150px;">
             <a href="https://yapilinguistics.com/Sino-Tibetan/" style="display:block;color:#00bfff;text-decoration:none;font-weight:500;padding:2px 0;">Sino-Tibetan</a>
             <a href="https://www.yapilinguistics.com/Indo-European/" style="display:block;color:#00bfff;text-decoration:none;font-weight:500;padding:2px 0;">Indo-European</a>
@@ -54,6 +54,6 @@ Open an [issue](https://github.com/teydrin/YapiLinguistics/issues) or [pull requ
 
 <div align="center">
   <sub>
-    Made for language lovers — <a href="https://yapilinguistics.com">YapiLinguistics.com</a>
+    Made for language lovers — <a href="https://yapilinguistics.com" style="color:#00bfff;">YapiLinguistics.com</a>
   </sub>
 </div>
