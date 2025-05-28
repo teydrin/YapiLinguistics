@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/Yapi%20Linguistics-%F0%9F%94%A5%20Web%202.0%20Explorer%20-%23007acc?style=for-the-badge&logo=firefox-browser" alt="Web 2.0 Badge">
+  <img src="https://img.shields.io/badge/Yapi%20Linguistics-%F0%9F%94%A5%20Web%202.0%20Explorer%20-%23007acc?style=for-the-badge&logo=firefox-browser">
 </h1>
 
 <p align="center">
