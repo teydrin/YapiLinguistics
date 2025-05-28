@@ -1,10 +1,9 @@
-<!-- Web 2.0 Style Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://www.thetreecareguide.com/wp-content/uploads/tree-guide-and-tree-care-tips1-1024x329.jpg" alt="Yapi Linguistics Banner" style="border-radius: 10px; box-shadow: 0 4px 20px #aaa;" height="160">
 </p>
 
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Yapi%20Linguistics-%F0%9F%94%A5%20Web%202.0%20Explorer%20-%23007acc?style=for-the-badge&logo=firefox-browser">
+
 </h1>
 
 <p align="center">
@@ -25,7 +24,7 @@
 <div align="center">
   <img src="https://img.icons8.com/color/96/000000/language.png"/>
   <h2>Explore the World of Language Families</h2>
-  <p>Interactive trees. Visualized evolution. All in your browser.</p>
+  <p>Interactive trees. Visualized evolution.</p>
   <a href="#features"><img src="https://img.shields.io/badge/See-Features-1abc9c?style=for-the-badge"></a>
   <a href="#contributing"><img src="https://img.shields.io/badge/Get-Involved-f39c12?style=for-the-badge"></a>
 </div>
