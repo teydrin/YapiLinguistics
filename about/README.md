@@ -1,13 +1,16 @@
 Welcome!
-Yapi Linguistics is your gateway to exploring language with powerful tools and intuitive design.
+Yapi Linguistics is your gateway to exploring the world's language families.
 
 
-📖 About This Project
+## About this project
 
 
 
-🤝 Contributing
+## Contact
 
+For any questions or requests, please use the [GitHub Issues page](https://github.com/teydrin/YapiLinguistics/issues).
 
-📫 Contact
+## Contributing
+
+Contributing: Yapi Linguistics Team
 
