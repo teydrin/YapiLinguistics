@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://www.thetreecareguide.com/wp-content/uploads/tree-guide-and-tree-care-tips1-1024x329.jpg" alt="Yapi Linguistics Banner" height="160" style="border-radius: 10px; box-shadow: 0 4px 20px #aaa;">
-</p>
+
 
 <h1 align="center">Yapi Linguistics</h1>
 <p align="center"><b>Visualizing the genetic relationships between the world's languages</b></p>
