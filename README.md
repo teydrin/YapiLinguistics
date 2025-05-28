@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Yapi Linguistics</h1>
+<h1 align="center">Yapi Linguistics Repo</h1>
 <p align="center"><b>Visualizing the genetic relationships between the world's languages</b></p>
 
 ---
