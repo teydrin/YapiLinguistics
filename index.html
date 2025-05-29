@@ -38,6 +38,56 @@
     }
     .badge{background:#ffc107;color:#000;border-radius:4px;padding:.15em .4em;font-size:.85em;margin-left:.35em}
 
+     /* ---------- SEARCH ---------- */
+    <!-- Language Family Searcher (embed anywhere in your HTML) -->
+<div class="my-8 flex flex-col items-center w-full max-w-md mx-auto">
+  <form id="familySearch" class="relative w-full" autocomplete="off">
+    <input id="searchInput"
+           class="peer w-full rounded-xl border border-gray-300 shadow-sm py-3 px-4 text-lg focus:outline-none focus:ring-2 focus:ring-sky-500 transition"
+           placeholder="Type e.g. Indo-European" list="families" />
+    <button type="submit"
+            class="absolute right-2 top-1/2 -translate-y-1/2 rounded-lg bg-sky-500 px-3 py-2 text-white text-sm font-semibold transition hover:bg-sky-600 focus:ring-2 focus:ring-offset-2 focus:ring-sky-500">
+      Go
+    </button>
+    <datalist id="families"></datalist>
+  </form>
+  <p id="errorMsg" class="mt-3 text-red-600 text-sm hidden">Unknown family – choose one from the list.</p>
+</div>
+<script>
+  // Language Family Searcher (top-level only)
+  const canon = [
+    {label:"Afro-Asiatic",   url:"https://www.yapilinguistics.com/afroasiatic/"},
+    {label:"Indo-European",  url:"https://www.yapilinguistics.com/Indo-European/"},
+    {label:"Japonic",        url:"https://www.yapilinguistics.com/Japonic/"},
+    {label:"Koreanic",       url:"https://www.yapilinguistics.com/Koreanic/"},
+    {label:"Sino-Tibetan",   url:"https://www.yapilinguistics.com/Sino-Tibetan/"},
+    {label:"Uralic",         url:"https://www.yapilinguistics.com/uralic/"}
+  ];
+  const families = Object.fromEntries(canon.map(({label,url})=>[
+    label.toLowerCase().replace(/\\s+/g,'').replace(/[–—_]/g,'-'), url
+  ]));
+  const dl = document.getElementById('families');
+  canon.forEach(({label})=>{
+    const o=document.createElement('option');
+    o.value=label; dl.appendChild(o);
+  });
+  const form  = document.getElementById('familySearch');
+  const input = document.getElementById('searchInput');
+  const error = document.getElementById('errorMsg');
+  form.addEventListener('submit', ev=>{
+    ev.preventDefault();
+    const key = input.value.toLowerCase().replace(/\\s+/g,'').replace(/[–—_]/g,'-');
+    if(families[key]){
+      error.classList.add('hidden');
+      window.location.href = families[key];
+    }else{
+      error.classList.remove('hidden');
+      input.classList.remove('ring-red-500');
+      void input.offsetWidth;
+      input.classList.add('ring-red-500');
+    }
+  });
+</script>
     /* ---------- LAYOUT ---------- */
     main{max-width:900px;margin:0 auto;padding:2rem 1.5rem}
     .intro{
